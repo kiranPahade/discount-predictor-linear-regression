@@ -1,11 +1,11 @@
-# Discount Predictor — Simple Linear Regression
+# Discount Predictor - Simple Linear Regression
 
 An educational Google Colab project for learning Python, data creation, visualization, and simple linear regression.
 
 ## Open in Google Colab
 1. Download `Discount_Predictor_Simple_Linear_Regression.ipynb`.
 2. Open https://colab.research.google.com/
-3. Choose **File → Upload notebook** and select the `.ipynb` file.
+3. Choose **File -> Upload notebook** and select the `.ipynb` file.
 4. Run cells from top to bottom.
 
 ## Dataset
@@ -28,7 +28,7 @@ Python 3.10+ recommended; `numpy`, `pandas`, `matplotlib`, `scikit-learn`, and o
 
 ## Publish to GitHub
 1. Sign in to GitHub and create a **public** or **private** repository named `discount-predictor-linear-regression`.
-2. Choose **Add file → Upload files**.
+2. Choose **Add file -> Upload files**.
 3. Upload this notebook and `README.md`.
 4. Add a commit message such as `Add guided discount predictor notebook`.
 5. Click **Commit changes**.
