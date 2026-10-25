@@ -26,23 +26,5 @@ The notebook generates its own synthetic dataset with `Original_Price` and `Disc
 ## Requirements
 Python 3.10+ recommended; `numpy`, `pandas`, `matplotlib`, `scikit-learn`, and optional `ipywidgets`. Google Colab usually includes the main packages.
 
-## Publish to GitHub
-1. Sign in to GitHub and create a **public** or **private** repository named `discount-predictor-linear-regression`.
-2. Choose **Add file -> Upload files**.
-3. Upload this notebook and `README.md`.
-4. Add a commit message such as `Add guided discount predictor notebook`.
-5. Click **Commit changes**.
-
-To use Git from a local terminal instead:
-```bash
-git init
-git add .
-git commit -m "Add guided discount predictor project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/discount-predictor-linear-regression.git
-git push -u origin main
-```
-Replace `YOUR-USERNAME` with your GitHub username. GitHub authentication may prompt you to sign in; never put a password or personal access token into source code.
-
 ## Python concepts included
 Variables, imports, functions, arguments, arrays, dictionaries, DataFrames, indexing, attributes, methods, arithmetic, comparisons, conditionals, exceptions, f-strings, plotting, model fitting, prediction, metrics, and CSV file output.
