@@ -1,0 +1,1209 @@
+Job_ID,Role,Experience,Employment_Type,Remote_Work_Model,AI_Adoption_Level,Automation_Risk_Score,Salary_USD,Skills_Required,Market_Demand_Index,Industry,Remove_Work_Model
+JOB_1000,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.6006,73296.82,Not Disclosed,7.4,Education,Hybrid
+JOB_1002,Supply Chain Planner,Senior,Full-time,Hybrid,Low,0.5315,84158.75,"Docker, Python, RAG, SQL",4.4,Logistics,Hybrid
+JOB_1003,Prompt Engineer,Mid-level,Full-time,On-site,High,0.3041,47207.59,"LangGraph, R, Prompt Engineering",9.5,Customer Operations,On-site
+JOB_1005,Medical Scribe,Entry-level,Full-time,Fully Remote,High,0.3701,72136.46,"Prompt Engineering, LangGraph, R, Docker, SQL",2.7,Healthcare,Fully Remote
+JOB_1006,Instructional Designer,Mid-level,Full-time,On-site,Medium,0.6691,56836.46,"AWS, RAG",6.3,Education,On-site
+JOB_1007,DevOps Engineer,Entry-level,Full-time,Fully Remote,High,0.1889,37917.18,"Tableau, Python",9.9,Technology,Fully Remote
+JOB_1008,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.1597,108611.69,"PyTorch, Docker, Excel",4.2,Technology,Fully Remote
+JOB_1010,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.5723,58192.27,"SQL, R, Docker, RAG",5.7,Logistics,Fully Remote
+JOB_1011,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.4792,89115.75,"Excel, R, Tableau, Python, RAG",7.3,Education,Fully Remote
+JOB_1012,Fleet Coordinator,Senior,Full-time,Hybrid,Low,0.8243,140686.97,"AWS, Prompt Engineering, SQL",8.3,Logistics,Hybrid
+JOB_1014,Curriculum Designer,Entry-level,Full-time,Fully Remote,Low,0.5922,52214.61,"R, RAG, Excel, LangGraph, Prompt Engineering",5.8,Education,Fully Remote
+JOB_1015,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.4757,51804.35,"SQL, Python, LangGraph, Tableau, RAG",7.3,Retail,Fully Remote
+JOB_1016,LLMOps Architect,Lead/Executive,Full-time,Fully Remote,High,0.3089,180271.1,"LangGraph, SQL, Docker, Tableau",6.5,Technology,Fully Remote
+JOB_1017,Financial Advisor,Entry-level,Full-time,Fully Remote,High,0.2958,80419.61,"AWS, Excel, PyTorch, RAG, Prompt Engineering",5.0,Finance,Fully Remote
+JOB_1018,Inventory Coordinator,Mid-level,Full-time,,Low,0.7277,100250.3,"LangGraph, Tableau, SQL, PyTorch",8.3,Retail,Not Disclosed
+JOB_1019,LLMOps Architect,Mid-level,Full-time,Fully Remote,High,0.1122,89953.72,"Prompt Engineering, LangGraph, PyTorch, AWS",3.0,Technology,Fully Remote
+JOB_1022,Prompt Engineer,Entry-level,Full-time,On-site,High,0.3896,71506.31,"LangGraph, Python",4.1,Customer Operations,On-site
+JOB_1024,Inventory Coordinator,Mid-level,Full-time,On-site,Medium,0.5278,72426.16,"SQL, LangGraph",3.0,Retail,On-site
+JOB_1025,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.3239,51308.6,"RAG, Excel, LangGraph, AWS",7.5,Technology,Fully Remote
+JOB_1026,DevOps Engineer,Mid-level,Full-time,Hybrid,High,0.1751,96317.82,"Docker, AWS, PyTorch, Tableau, SQL",6.7,Technology,Hybrid
+JOB_1027,Compliance Auditor,Senior,Full-time,Hybrid,Medium,0.2781,150900.89,"LangGraph, Prompt Engineering, RAG, Tableau",6.1,Finance,Hybrid
+JOB_1030,Risk Analyst,Mid-level,Full-time,Hybrid,High,0.2282,129053.38,"Prompt Engineering, AWS, SQL, Python",5.7,Finance,Hybrid
+JOB_1031,Quantitative Trader,Mid-level,Full-time,Hybrid,High,0.3438,77593.97,Not Disclosed,4.8,Finance,Hybrid
+JOB_1032,Risk Analyst,Senior,Full-time,Fully Remote,Medium,0.4512,125984.23,"RAG, SQL, Docker, Prompt Engineering",4.4,Finance,Fully Remote
+JOB_1033,AI Governance Officer,Entry-level,Full-time,Hybrid,Medium,0.4363,69009.17,"RAG, AWS, Prompt Engineering, Tableau, R",1.3,Finance,Hybrid
+JOB_1034,Instructional Designer,Senior,Full-time,Fully Remote,Medium,0.5222,100092.26,"Python, SQL, Prompt Engineering, Tableau, Docker",5.8,Education,Fully Remote
+JOB_1035,Online Tutor,Mid-level,Full-time,Hybrid,Medium,0.6323,84336.5,"R, Excel",4.6,Education,Hybrid
+JOB_1036,Radiology Assistant,Entry-level,Full-time,Fully Remote,Medium,0.2323,106235.18,"SQL, Tableau, Docker",2.4,Healthcare,Fully Remote
+JOB_1037,Risk Analyst,Mid-level,Full-time,Fully Remote,High,0.4952,89677.53,"PyTorch, AWS, Python",7.6,Finance,Fully Remote
+JOB_1038,Radiology Assistant,Mid-level,Full-time,Fully Remote,Medium,0.3368,130972.77,"Tableau, Prompt Engineering, PyTorch",4.9,Healthcare,Fully Remote
+JOB_1039,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.5686,85798.14,"Prompt Engineering, SQL, Tableau",5.5,Education,Hybrid
+JOB_1040,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Low,0.4119,86648.93,"R, Prompt Engineering, LangGraph",6.2,Logistics,Fully Remote
+JOB_1042,Support Agent,Entry-level,Full-time,Fully Remote,High,0.6064,62152.89,"Excel, AWS, Python, SQL, PyTorch",4.5,Customer Operations,Fully Remote
+JOB_1043,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.4772,91319.01,"Tableau, LangGraph, Python, RAG",8.9,Finance,Fully Remote
+JOB_1045,Synthetic Data Specialist,Entry-level,Full-time,Hybrid,High,0.322,66434.81,"SQL, Prompt Engineering, PyTorch",9.1,Technology,Hybrid
+JOB_1046,E-commerce Manager,Lead/Executive,Full-time,On-site,Low,0.4049,137419.49,"PyTorch, AWS, Prompt Engineering, R",5.4,Retail,On-site
+JOB_1047,Supply Chain Planner,Senior,Full-time,Fully Remote,Low,0.7386,98087.52,"Tableau, Prompt Engineering",2.0,Logistics,Fully Remote
+JOB_1049,Support Agent,Entry-level,Full-time,Fully Remote,High,0.8453,63759.58,"LangGraph, Prompt Engineering, R",9.0,Customer Operations,Fully Remote
+JOB_1050,Compliance Auditor,Lead/Executive,Full-time,Fully Remote,Medium,0.5453,170814.19,Not Disclosed,7.8,Finance,Fully Remote
+JOB_1051,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.5119,83251.94,"R, Excel, AWS",5.4,Retail,Fully Remote
+JOB_1052,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.4529,97880.49,"Prompt Engineering, AWS, SQL",4.6,Logistics,Fully Remote
+JOB_1053,Support Agent,Senior,Full-time,Hybrid,High,0.7527,142313.3,"LangGraph, R",9.7,Customer Operations,Hybrid
+JOB_1056,E-commerce Manager,Lead/Executive,Full-time,Fully Remote,Low,0.559,133530.255,"LangGraph, RAG, R, Python, AWS",5.1,Retail,Fully Remote
+JOB_1057,Curriculum Designer,Entry-level,Full-time,Fully Remote,Low,0.5219,50509.61,"R, Python, LangGraph, SQL",8.4,Education,Fully Remote
+JOB_1058,AI Governance Officer,Senior,Full-time,Hybrid,Medium,0.5731,145518.75,"Python, Excel, SQL, LangGraph, PyTorch",9.9,Finance,Hybrid
+JOB_1059,Bio-informatics Scientist,Entry-level,Full-time,Fully Remote,High,0.4276,65996.69,"R, AWS",4.7,Healthcare,Fully Remote
+JOB_1060,Synthetic Data Specialist,Lead/Executive,Full-time,On-site,High,0.3439,204551.93,"LangGraph, Prompt Engineering, PyTorch",4.4,Technology,On-site
+JOB_1061,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.4933,108842.74,"RAG, R, AWS, LangGraph, Docker",6.6,Logistics,Fully Remote
+JOB_1062,Operations Analyst,Senior,Full-time,Hybrid,High,0.2561,124601.26,"AWS, Docker, LangGraph",9.7,Customer Operations,Hybrid
+JOB_1063,Pricing Analyst,Senior,Full-time,Hybrid,Low,0.4792,138945.69,"SQL, R, Docker",7.3,Retail,Hybrid
+JOB_1064,Clinical Data Analyst,Lead/Executive,Full-time,Fully Remote,Medium,0.436,126653.82,"Excel, Docker, RAG, AWS, Prompt Engineering",5.9,Healthcare,Fully Remote
+JOB_1065,DevOps Engineer,Senior,Full-time,Hybrid,High,0.3093,66440.73,"Python, SQL, R",9.3,Technology,Hybrid
+JOB_1066,Risk Analyst,Entry-level,Full-time,Hybrid,High,0.397,93392.21,"Docker, Excel, SQL, LangGraph",5.8,Finance,Hybrid
+JOB_1067,Online Tutor,Mid-level,Full-time,Fully Remote,Low,0.481,49058.48,"LangGraph, R",9.1,Education,Fully Remote
+JOB_1068,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,Medium,0.2163,61159.98,"Prompt Engineering, AWS",5.9,Healthcare,Fully Remote
+JOB_1069,Supply Chain Planner,Mid-level,Full-time,On-site,Low,0.5485,60728.29,"PyTorch, Docker, R",8.2,Logistics,On-site
+JOB_1071,Pricing Analyst,Entry-level,Full-time,Fully Remote,Low,0.7364,57612.84,Not Disclosed,2.2,Retail,Fully Remote
+JOB_1074,Bio-informatics Scientist,Entry-level,Full-time,Fully Remote,Medium,0.4347,62910.16,"AWS, R",4.0,Healthcare,Fully Remote
+JOB_1075,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.2495,121640.76,"LangGraph, Docker",3.1,Customer Operations,Fully Remote
+JOB_1076,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.484,81115.41,"Python, PyTorch, Docker, R",1.5,Retail,Fully Remote
+JOB_1078,Pricing Analyst,Entry-level,Full-time,On-site,Low,0.6572,59666.24,"Tableau, Docker, Prompt Engineering",7.4,Retail,On-site
+JOB_1079,Support Agent,Senior,Full-time,Hybrid,High,0.8475,100933.16,Not Disclosed,6.2,Customer Operations,Hybrid
+JOB_1080,Clinical Data Analyst,Mid-level,Full-time,Hybrid,Medium,0.3346,91940.94,"LangGraph, Tableau",2.1,Healthcare,Hybrid
+JOB_1081,Instructional Designer,Lead/Executive,Full-time,Fully Remote,Medium,0.7738,150763.68,Not Disclosed,9.4,Education,Fully Remote
+JOB_1082,Bio-informatics Scientist,Senior,Full-time,Fully Remote,High,0.4886,170042.63,"Python, Excel, R, Prompt Engineering",2.5,Healthcare,Fully Remote
+JOB_1083,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.7947,87534.32,"RAG, AWS, Prompt Engineering, PyTorch, Python",5.1,Logistics,Hybrid
+JOB_1084,Inventory Coordinator,Mid-level,Full-time,Hybrid,Low,0.6599,53210.98,"Prompt Engineering, SQL",9.2,Retail,Hybrid
+JOB_1085,Clinical Data Analyst,Entry-level,Full-time,On-site,High,0.334,40038.49,"PyTorch, SQL, RAG, LangGraph",8.9,Healthcare,On-site
+JOB_1086,DevOps Engineer,Senior,Full-time,Hybrid,High,0.3993,143860.14,"Docker, SQL",1.3,Technology,Hybrid
+JOB_1087,Pricing Analyst,Entry-level,Full-time,On-site,Low,0.7696,60565.77,"RAG, LangGraph, Python, SQL, R",5.1,Retail,On-site
+JOB_1088,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.2459,76885.27,"R, RAG, Prompt Engineering, Excel",7.2,Customer Operations,Hybrid
+JOB_1089,Customer Success Manager,Lead/Executive,Full-time,Fully Remote,High,0.1545,136897.98,"Tableau, LangGraph, Excel",3.0,Customer Operations,Fully Remote
+JOB_1090,Online Tutor,Senior,Full-time,Hybrid,Medium,0.4792,94717.33,"LangGraph, Tableau, Docker, PyTorch",9.4,Education,Hybrid
+JOB_1091,Prompt Engineer,Entry-level,Full-time,On-site,High,0.3122,52781.76,"R, Tableau, AWS, Excel, Docker",4.4,Customer Operations,On-site
+JOB_1092,Data Scientist,Lead/Executive,Full-time,On-site,High,0.3777,170441.8,"SQL, Python, AWS",2.7,Technology,On-site
+JOB_1093,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.6736,72735.84,"RAG, R",4.0,Education,Fully Remote
+JOB_1094,Support Agent,Mid-level,Full-time,Fully Remote,High,0.7394,106463.41,"SQL, R, Prompt Engineering",5.3,Customer Operations,Fully Remote
+JOB_1095,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,High,0.2993,112199.54,"LangGraph, Prompt Engineering, Tableau, PyTorch, AWS",4.8,Healthcare,Fully Remote
+JOB_1096,LLMOps Architect,Lead/Executive,Full-time,Fully Remote,High,0.166,215832.38,"SQL, LangGraph",2.3,Technology,Fully Remote
+JOB_1097,Pricing Analyst,Entry-level,Full-time,On-site,Low,0.6679,31378.99,"Excel, Tableau, PyTorch, AWS",4.8,Retail,On-site
+JOB_1098,Medical Scribe,Senior,Full-time,Fully Remote,Medium,0.3888,119629.75,"Prompt Engineering, Tableau, R, Python",5.7,Healthcare,Fully Remote
+JOB_1099,E-commerce Manager,Senior,Full-time,,Low,0.4819,103836.25,"R, Prompt Engineering, Tableau, SQL",7.8,Retail,Not Disclosed
+JOB_1101,Warehouse Automation Specialist,Senior,Full-time,Hybrid,Medium,0.6505,48413.94,"Prompt Engineering, PyTorch, Tableau, R",3.2,Logistics,Hybrid
+JOB_1103,Fleet Coordinator,Lead/Executive,Full-time,On-site,Low,0.7168,118027.88,"R, Tableau",4.1,Logistics,On-site
+JOB_1104,Quantitative Trader,Senior,Full-time,Fully Remote,High,0.4792,123093.92,"Prompt Engineering, AWS, Tableau, Python",9.5,Finance,Fully Remote
+JOB_1106,AI Software Engineer,Mid-level,Full-time,Fully Remote,High,0.1418,92788.82,"Python, Excel, PyTorch, Tableau",8.4,Technology,Fully Remote
+JOB_1107,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.6931,103699.86,"PyTorch, AWS, Prompt Engineering, Docker",2.0,Logistics,Fully Remote
+JOB_1108,E-commerce Manager,Mid-level,Full-time,Fully Remote,Medium,0.5128,73220.47,"Prompt Engineering, Python",4.8,Retail,Fully Remote
+JOB_1109,Customer Success Manager,Senior,Full-time,Fully Remote,High,0.1499,183544.89,"SQL, R, PyTorch, Python",1.8,Customer Operations,Fully Remote
+JOB_1110,Medical Scribe,Lead/Executive,Full-time,Hybrid,Medium,0.5662,225149.77,"Excel, RAG, Prompt Engineering, PyTorch",7.0,Healthcare,Hybrid
+JOB_1111,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.518,102017.49,"Docker, PyTorch, Python, Tableau",8.6,Retail,Fully Remote
+JOB_1112,Bio-informatics Scientist,Senior,Full-time,Hybrid,Medium,0.3378,106140.54,"Excel, Python, R, LangGraph, Prompt Engineering",4.9,Healthcare,Hybrid
+JOB_1116,Curriculum Designer,Lead/Executive,Full-time,Hybrid,Medium,0.4153,94419.67,"PyTorch, Excel, Docker",4.8,Education,Hybrid
+JOB_1117,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.6351,93956.75,"R, LangGraph, Tableau",6.4,Logistics,Fully Remote
+JOB_1118,Radiology Assistant,Mid-level,Full-time,Fully Remote,High,0.3359,102169.18,"PyTorch, SQL",5.8,Healthcare,Fully Remote
+JOB_1119,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.7945,77429.72,"Docker, Python, AWS, LangGraph",8.8,Retail,Hybrid
+JOB_1121,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.2009,118186.95,"Excel, Tableau",3.1,Customer Operations,Fully Remote
+JOB_1122,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,Medium,0.2934,108959.45,"LangGraph, R, Python, RAG, AWS",2.1,Healthcare,Fully Remote
+JOB_1123,Medical Scribe,Senior,Full-time,Fully Remote,Medium,0.5929,140219.57,"Excel, Tableau, SQL, RAG, PyTorch",5.2,Healthcare,Fully Remote
+JOB_1124,Warehouse Automation Specialist,Mid-level,Full-time,On-site,Low,0.8242,71148.8,"R, Prompt Engineering, Docker",1.4,Logistics,On-site
+JOB_1125,AI Software Engineer,Senior,Full-time,On-site,High,0.3479,223462.41,"R, Prompt Engineering, Excel",9.7,Technology,On-site
+JOB_1127,Medical Scribe,Senior,Full-time,Hybrid,Medium,0.558,125384.78,"Tableau, Python, SQL, Docker",8.9,Healthcare,Hybrid
+JOB_1128,Clinical Data Analyst,Mid-level,Full-time,On-site,High,0.5449,107464.33,"Excel, R, Docker, SQL",3.5,Healthcare,On-site
+JOB_1129,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.1146,89845.23999999999,"Docker, RAG",3.0,Customer Operations,Hybrid
+JOB_1133,Inventory Coordinator,Entry-level,Full-time,Hybrid,Medium,0.6284,47641.39,"R, Excel, RAG, SQL, Prompt Engineering",1.8,Retail,Hybrid
+JOB_1134,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,Medium,0.2036,103364.08,"Tableau, Prompt Engineering, R, Docker",5.9,Healthcare,Fully Remote
+JOB_1135,Financial Advisor,Mid-level,Full-time,On-site,Medium,0.5749,115691.63,"Excel, Docker, Tableau",9.5,Finance,On-site
+JOB_1136,DevOps Engineer,Senior,Full-time,Hybrid,High,0.2038,108536.44,"Prompt Engineering, PyTorch, LangGraph, Docker, Excel",7.1,Technology,Hybrid
+JOB_1137,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.2151,60161.44,"Docker, PyTorch",3.9,Customer Operations,Hybrid
+JOB_1138,Online Tutor,Senior,Full-time,Fully Remote,Low,0.6108,103411.54,"RAG, R, Tableau, Docker",3.0,Education,Fully Remote
+JOB_1139,Financial Advisor,Mid-level,Full-time,Fully Remote,High,0.2604,144977.41,"Prompt Engineering, Python",9.2,Finance,Fully Remote
+JOB_1141,DevOps Engineer,Entry-level,Full-time,Hybrid,High,0.263,46418.68,"RAG, R",8.8,Technology,Hybrid
+JOB_1142,Fleet Coordinator,Lead/Executive,Full-time,Hybrid,Low,0.7586,143223.36,"R, Excel, AWS, Prompt Engineering, LangGraph",8.2,Logistics,Hybrid
+JOB_1143,LLMOps Architect,Entry-level,Full-time,Fully Remote,High,0.2675,77076.83,"R, LangGraph, Prompt Engineering, AWS, Docker",1.6,Technology,Fully Remote
+JOB_1144,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.6048,66858.49,"PyTorch, SQL, Tableau, Excel, Python",6.9,Retail,Hybrid
+JOB_1146,DevOps Engineer,Entry-level,Full-time,Hybrid,High,0.1029,65614.84,"LangGraph, R",1.7,Technology,Hybrid
+JOB_1147,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.7103,51635.84,"PyTorch, Python, RAG",1.4,Logistics,Fully Remote
+JOB_1150,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.5974,86705.07,"RAG, LangGraph",8.8,Retail,Fully Remote
+JOB_1152,Pricing Analyst,Entry-level,Full-time,Fully Remote,Low,0.622,46695.46,"PyTorch, Python, SQL",1.3,Retail,Fully Remote
+JOB_1153,DevOps Engineer,Senior,Full-time,On-site,High,0.2248,100990.29,"Docker, LangGraph",4.1,Technology,On-site
+JOB_1155,Instructional Designer,Mid-level,Full-time,Hybrid,Medium,0.5277,111031.27,"LangGraph, SQL, AWS, PyTorch",6.6,Education,Hybrid
+JOB_1156,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.6708,50059.47,"AWS, Prompt Engineering",8.7,Logistics,Hybrid
+JOB_1157,Supply Chain Planner,Mid-level,Full-time,On-site,Low,0.6317,100997.61,"Prompt Engineering, RAG, Excel",1.9,Logistics,On-site
+JOB_1158,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.3574,125422.13,"AWS, RAG, Prompt Engineering, Docker, R",9.7,Technology,Fully Remote
+JOB_1159,Online Tutor,Mid-level,Full-time,Fully Remote,Low,0.6339,73312.22,"Prompt Engineering, AWS, PyTorch",2.3,Education,Fully Remote
+JOB_1161,Prompt Engineer,Entry-level,Full-time,On-site,High,0.1618,74173.99,"Tableau, LangGraph, R",9.9,Customer Operations,On-site
+JOB_1163,Customer Success Manager,Entry-level,Full-time,Hybrid,High,0.3058,57450.68,"R, LangGraph",6.8,Customer Operations,Hybrid
+JOB_1164,Data Scientist,Mid-level,Full-time,Hybrid,High,0.1419,101538.3,"Tableau, AWS, SQL",2.7,Technology,Hybrid
+JOB_1165,Curriculum Designer,Senior,Full-time,On-site,Low,0.7117,116905.72,"Tableau, LangGraph, R",4.4,Education,On-site
+JOB_1166,Pricing Analyst,Lead/Executive,Full-time,Hybrid,Medium,0.7458,133567.65,"Excel, R",2.9,Retail,Hybrid
+JOB_1167,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.4717,70327.1,"Prompt Engineering, SQL, PyTorch, R",9.8,Retail,Hybrid
+JOB_1170,Synthetic Data Specialist,Mid-level,Full-time,,High,0.2189,72296.73,"Docker, Excel",5.9,Technology,Not Disclosed
+JOB_1171,Radiology Assistant,Senior,Full-time,Hybrid,Medium,0.457,211378.75,"Prompt Engineering, AWS",4.4,Healthcare,Hybrid
+JOB_1172,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.3521,153361.54,"Docker, Python, LangGraph, R",4.5,Finance,Fully Remote
+JOB_1173,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.7701,42166.74,"Docker, RAG, Python, R, LangGraph",6.8,Education,Hybrid
+JOB_1174,Operations Analyst,Entry-level,Full-time,On-site,High,0.1181,56044.34,"Python, Excel",6.6,Customer Operations,On-site
+JOB_1175,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.4792,84955.32,"Tableau, Docker, RAG",4.6,Logistics,Hybrid
+JOB_1176,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Low,0.4816,70355.53,"Prompt Engineering, R, LangGraph",2.7,Logistics,Fully Remote
+JOB_1177,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.2651,61389.68,"AWS, LangGraph, Tableau",2.0,Customer Operations,Hybrid
+JOB_1178,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.4792,55930.94,"Docker, AWS, Python",9.1,Logistics,Hybrid
+JOB_1179,AI Software Engineer,Senior,Full-time,Fully Remote,High,0.3196,184867.44,"Docker, Excel, R, PyTorch",7.0,Technology,Fully Remote
+JOB_1180,AI Governance Officer,Entry-level,Full-time,Hybrid,Medium,0.2672,83858.65,"AWS, PyTorch",2.6,Finance,Hybrid
+JOB_1181,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.5156,82448.38,"RAG, Prompt Engineering",5.5,Logistics,Fully Remote
+JOB_1182,AI Governance Officer,Mid-level,Full-time,Hybrid,Medium,0.3783,141278.27,"Python, Docker, R",6.2,Finance,Hybrid
+JOB_1183,Curriculum Designer,Mid-level,Full-time,Fully Remote,Medium,0.4863,65642.64,"SQL, Docker, PyTorch, AWS",4.1,Education,Fully Remote
+JOB_1184,Curriculum Designer,Mid-level,Full-time,Fully Remote,Medium,0.5052,93559.13,"PyTorch, Python, Tableau",3.1,Education,Fully Remote
+JOB_1185,AI Governance Officer,Lead/Executive,Full-time,Fully Remote,Medium,0.3452,192535.68,"Docker, Excel, LangGraph, AWS",5.2,Finance,Fully Remote
+JOB_1187,Prompt Engineer,Mid-level,Full-time,On-site,High,0.1704,91625.54,"Docker, Tableau, SQL, AWS, Python",1.2,Customer Operations,On-site
+JOB_1188,Prompt Engineer,Senior,Full-time,Fully Remote,High,0.3015,115112.33,"Prompt Engineering, Python, Excel, LangGraph, R",2.1,Customer Operations,Fully Remote
+JOB_1189,Customer Success Manager,Entry-level,Full-time,Fully Remote,High,0.1353,53346.88,"SQL, Python",4.2,Customer Operations,Fully Remote
+JOB_1191,Instructional Designer,Mid-level,Full-time,,Low,0.5787,54633.85,Not Disclosed,4.4,Education,Not Disclosed
+JOB_1192,AI Governance Officer,Mid-level,Full-time,Fully Remote,Medium,0.3612,126095.3,"LangGraph, PyTorch, AWS, SQL, Tableau",6.2,Finance,Fully Remote
+JOB_1193,Risk Analyst,Entry-level,Full-time,Hybrid,Medium,0.4425,79588.3,"LangGraph, AWS, Tableau, Excel, SQL",7.9,Finance,Hybrid
+JOB_1196,Pricing Analyst,Lead/Executive,Full-time,Fully Remote,Low,0.7513,106426.8,"Python, Tableau",6.6,Retail,Fully Remote
+JOB_1197,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.7522,73872.17,"RAG, Docker, R, LangGraph",7.2,Education,Fully Remote
+JOB_1198,Support Agent,Mid-level,Full-time,On-site,High,0.8849,59314.03,"SQL, RAG, LangGraph, R, Excel",8.6,Customer Operations,On-site
+JOB_1201,Synthetic Data Specialist,Senior,Full-time,Fully Remote,High,0.3928,158426.75,"Excel, SQL",1.4,Technology,Fully Remote
+JOB_1202,Data Scientist,Entry-level,Full-time,Hybrid,High,0.2498,70087.62,"Prompt Engineering, Excel, Python",3.9,Technology,Hybrid
+JOB_1203,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.2183,80835.67,"Docker, AWS",9.6,Customer Operations,Fully Remote
+JOB_1204,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.3828,133129.42,"SQL, Docker, Excel, AWS, Prompt Engineering",5.2,Technology,Hybrid
+JOB_1205,Clinical Data Analyst,Entry-level,Full-time,On-site,High,0.4456,68248.88,Not Disclosed,8.9,Healthcare,On-site
+JOB_1206,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Low,0.7358,61538.9,"Prompt Engineering, AWS",9.6,Logistics,Fully Remote
+JOB_1207,Warehouse Automation Specialist,Senior,Full-time,On-site,Medium,0.824,115231.48,"AWS, Docker, Tableau, Excel",2.6,Logistics,On-site
+JOB_1208,Supply Chain Planner,Mid-level,Full-time,Hybrid,Low,0.4094,92928.86,"LangGraph, SQL, Tableau",7.0,Logistics,Hybrid
+JOB_1209,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,Medium,0.5839,87296.15,"AWS, LangGraph, R, Docker",9.7,Healthcare,Fully Remote
+JOB_1211,Risk Analyst,Lead/Executive,Full-time,Fully Remote,Medium,0.4452,241697.87,"PyTorch, AWS, LangGraph",9.4,Finance,Fully Remote
+JOB_1212,Prompt Engineer,Senior,Full-time,Fully Remote,High,0.3977,88763.65,"Excel, Tableau, R, RAG, AWS",9.3,Customer Operations,Fully Remote
+JOB_1213,Compliance Auditor,Senior,Full-time,Hybrid,High,0.4914,194487.14,"Tableau, Prompt Engineering, Python, LangGraph, RAG",1.5,Finance,Hybrid
+JOB_1215,Curriculum Designer,Entry-level,Full-time,Hybrid,Medium,0.6754,41129.12,"AWS, R, RAG, Python",7.2,Education,Hybrid
+JOB_1217,Quantitative Trader,Entry-level,Full-time,Hybrid,High,0.4464,86505.86,"LangGraph, Tableau",4.4,Finance,Hybrid
+JOB_1218,DevOps Engineer,Mid-level,Full-time,Hybrid,High,0.352,106539.89,"R, RAG, Excel, AWS, Tableau",2.3,Technology,Hybrid
+JOB_1220,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.2116,98180.56,"AWS, Tableau",6.3,Finance,Fully Remote
+JOB_1221,Support Agent,Mid-level,Full-time,Fully Remote,High,0.803,81763.48,"Tableau, R, LangGraph, SQL, Excel",1.5,Customer Operations,Fully Remote
+JOB_1222,Quantitative Trader,Senior,Full-time,Fully Remote,Medium,0.4546,166931.26,"LangGraph, Excel, SQL",7.4,Finance,Fully Remote
+JOB_1223,Online Tutor,Entry-level,Full-time,Fully Remote,Low,0.5953,39186.13,"Prompt Engineering, PyTorch, LangGraph, R, Excel",1.6,Education,Fully Remote
+JOB_1224,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.1898,99113.79,"AWS, Tableau, Prompt Engineering, RAG",2.1,Customer Operations,Hybrid
+JOB_1226,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,Medium,0.4791,92497.63,"Tableau, LangGraph, Excel, PyTorch, AWS",8.2,Healthcare,Hybrid
+JOB_1227,Compliance Auditor,Lead/Executive,Full-time,Hybrid,Medium,0.5616,120654.01,"Python, Prompt Engineering, PyTorch, Tableau, R",7.6,Finance,Hybrid
+JOB_1228,E-commerce Manager,Entry-level,Full-time,Hybrid,Low,0.7381,52885.75,"Python, Prompt Engineering, Tableau, PyTorch, Excel",1.4,Retail,Hybrid
+JOB_1229,Inventory Coordinator,Senior,Full-time,On-site,Low,0.5224,104202.57,"AWS, SQL, Python",8.6,Retail,On-site
+JOB_1230,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.8079,76829.6,Not Disclosed,1.8,Retail,Fully Remote
+JOB_1231,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.797,54641.52,"AWS, Excel, PyTorch",4.8,Education,Hybrid
+JOB_1232,E-commerce Manager,Mid-level,Full-time,On-site,Low,0.7263,64968.94,"Python, Tableau",6.5,Retail,On-site
+JOB_1233,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.1676,68719.32,"AWS, SQL, RAG, Docker",7.2,Technology,Fully Remote
+JOB_1235,Pricing Analyst,Mid-level,Full-time,Fully Remote,Medium,0.7825,78776.73,"PyTorch, R, Tableau",8.8,Retail,Fully Remote
+JOB_1236,Bio-informatics Scientist,Senior,Full-time,Fully Remote,High,0.2448,151431.29,"SQL, LangGraph",2.8,Healthcare,Fully Remote
+JOB_1237,Curriculum Designer,Entry-level,Full-time,Fully Remote,Medium,0.4792,48494.88,"SQL, Prompt Engineering",6.9,Education,Fully Remote
+JOB_1238,Prompt Engineer,Mid-level,Full-time,On-site,High,0.2681,97344.65,"Docker, RAG, LangGraph, R, Prompt Engineering",5.2,Customer Operations,On-site
+JOB_1239,Support Agent,Mid-level,Full-time,Hybrid,High,0.7302,121760.88,"AWS, Tableau, Docker, RAG",4.4,Customer Operations,Hybrid
+JOB_1241,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.757,99631.6,"LangGraph, R, Tableau, SQL",4.3,Education,Fully Remote
+JOB_1242,Medical Scribe,Senior,Full-time,Hybrid,Medium,0.2134,203421.16,"PyTorch, LangGraph",5.0,Healthcare,Hybrid
+JOB_1243,Pricing Analyst,Lead/Executive,Full-time,On-site,Medium,0.6273,103186.45,"PyTorch, Prompt Engineering, SQL, R",5.4,Retail,On-site
+JOB_1244,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Medium,0.8409,59485.43,"Python, Docker, AWS, Prompt Engineering",5.7,Logistics,Fully Remote
+JOB_1246,Pricing Analyst,Mid-level,Full-time,Hybrid,Medium,0.8056,76829.6,"LangGraph, Tableau, RAG",8.5,Retail,Hybrid
+JOB_1247,Customer Success Manager,Entry-level,Full-time,,High,0.3478,72581.32,"AWS, SQL",4.8,Customer Operations,Not Disclosed
+JOB_1248,Risk Analyst,Senior,Full-time,Fully Remote,High,0.3742,212591.1,"R, LangGraph, Tableau",9.8,Finance,Fully Remote
+JOB_1249,Bio-informatics Scientist,Entry-level,Full-time,Hybrid,Medium,0.4745,81513.16,"R, RAG, LangGraph, Docker",2.5,Healthcare,Hybrid
+JOB_1251,Bio-informatics Scientist,Senior,Full-time,,High,0.5485,133187.51,"Tableau, PyTorch, SQL, Python",1.5,Healthcare,Not Disclosed
+JOB_1252,Instructional Designer,Entry-level,Full-time,On-site,Low,0.4761,30487.58,"PyTorch, Tableau",5.9,Education,On-site
+JOB_1254,E-commerce Manager,Senior,Full-time,On-site,Medium,0.7622,78518.84,"AWS, SQL, R, Tableau, Excel",6.7,Retail,On-site
+JOB_1255,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.1205,111719.64,"Docker, Tableau",1.1,Customer Operations,Fully Remote
+JOB_1257,Synthetic Data Specialist,Entry-level,Full-time,On-site,High,0.1556,78360.41,"RAG, Python",8.5,Technology,On-site
+JOB_1258,Inventory Coordinator,Mid-level,Full-time,Hybrid,Low,0.6965,76829.6,"Docker, Excel",1.8,Retail,Hybrid
+JOB_1259,Supply Chain Planner,Mid-level,Full-time,,Medium,0.6573,62121.51,"RAG, Tableau, Python, SQL",1.7,Logistics,Not Disclosed
+JOB_1260,Pricing Analyst,Mid-level,Full-time,Hybrid,Medium,0.5995,104021.01,"LangGraph, RAG",6.8,Retail,Hybrid
+JOB_1261,Online Tutor,Mid-level,Full-time,Fully Remote,Medium,0.8368,98668.46,"RAG, Python, Tableau, R, Docker",6.4,Education,Fully Remote
+JOB_1262,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.5145,43606.81,"PyTorch, AWS, Prompt Engineering, RAG, R",3.1,Education,Hybrid
+JOB_1263,Risk Analyst,Mid-level,Full-time,Hybrid,High,0.3879,43767.47,"PyTorch, RAG, Docker, AWS, Python",2.9,Finance,Hybrid
+JOB_1264,Supply Chain Planner,Senior,Full-time,Fully Remote,Low,0.4165,93736.22,"AWS, Excel",3.0,Logistics,Fully Remote
+JOB_1265,AI Governance Officer,Senior,Full-time,Fully Remote,High,0.3138,118037.67,"Docker, Excel",4.1,Finance,Fully Remote
+JOB_1267,Supply Chain Planner,Lead/Executive,Full-time,Hybrid,Low,0.7233,107521.36,"AWS, Tableau",1.0,Logistics,Hybrid
+JOB_1268,Medical Scribe,Mid-level,Full-time,Fully Remote,Medium,0.4415,88751.35,"R, Docker, Prompt Engineering, Python",7.0,Healthcare,Fully Remote
+JOB_1269,Fleet Coordinator,Mid-level,Full-time,Hybrid,Medium,0.5819,81170.67,"AWS, SQL",9.5,Logistics,Hybrid
+JOB_1270,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.4046,87747.86,"Excel, Tableau, R, SQL, Docker",2.5,Education,Fully Remote
+JOB_1271,Inventory Coordinator,Senior,Full-time,,Medium,0.8461,106917.15,"Docker, Prompt Engineering",4.8,Retail,Not Disclosed
+JOB_1272,Clinical Data Analyst,Senior,Full-time,Hybrid,Medium,0.2492,69144.7,"Python, Prompt Engineering",1.6,Healthcare,Hybrid
+JOB_1274,AI Governance Officer,Mid-level,Full-time,Hybrid,High,0.4792,101827.17,"LangGraph, Prompt Engineering, Excel, AWS, RAG",4.4,Finance,Hybrid
+JOB_1275,Support Agent,Lead/Executive,Full-time,Fully Remote,High,0.8667,150453.03,"AWS, Python, LangGraph, Tableau",1.2,Customer Operations,Fully Remote
+JOB_1276,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.1215,56331.24,"Prompt Engineering, PyTorch",5.8,Customer Operations,Fully Remote
+JOB_1279,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.5687,68487.4,"PyTorch, Tableau, Prompt Engineering",6.4,Logistics,Hybrid
+JOB_1281,LLMOps Architect,Senior,Full-time,Fully Remote,High,0.1741,118588.15,"SQL, AWS, R, PyTorch",3.7,Technology,Fully Remote
+JOB_1282,Fleet Coordinator,Entry-level,Full-time,Hybrid,Low,0.5058,50748.73,"AWS, Tableau, Prompt Engineering, RAG",2.3,Logistics,Hybrid
+JOB_1283,Bio-informatics Scientist,Senior,Full-time,Hybrid,Medium,0.5975,199538.4,"Docker, AWS, RAG, LangGraph, Prompt Engineering",3.9,Healthcare,Hybrid
+JOB_1284,AI Governance Officer,Lead/Executive,Full-time,Fully Remote,Medium,0.3902,109249.41,"Prompt Engineering, PyTorch",6.4,Finance,Fully Remote
+JOB_1285,E-commerce Manager,Entry-level,Full-time,Fully Remote,Medium,0.4792,51568.82,"Docker, LangGraph, Prompt Engineering, PyTorch, R",3.5,Retail,Fully Remote
+JOB_1287,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,High,0.5675,108458.19,"Excel, Prompt Engineering",8.8,Healthcare,Fully Remote
+JOB_1288,Inventory Coordinator,Senior,Full-time,Hybrid,Medium,0.6581,129579.09,"Tableau, Python, R, Prompt Engineering",3.8,Retail,Hybrid
+JOB_1289,Clinical Data Analyst,Senior,Full-time,On-site,Medium,0.4936,140219.57,"RAG, R, AWS",7.2,Healthcare,On-site
+JOB_1290,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,Medium,0.3435,59279.01,"PyTorch, AWS",8.1,Healthcare,Fully Remote
+JOB_1291,Clinical Data Analyst,Entry-level,Full-time,On-site,Medium,0.2009,88316.67,Not Disclosed,8.5,Healthcare,On-site
+JOB_1292,Synthetic Data Specialist,Senior,Full-time,On-site,High,0.3466,126375.75,"Prompt Engineering, Docker, AWS, Excel",1.8,Technology,On-site
+JOB_1293,AI Software Engineer,Entry-level,Full-time,Fully Remote,High,0.2221,83610.13,"LangGraph, R, Docker, RAG",5.9,Technology,Fully Remote
+JOB_1295,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.5046,71050.01,Not Disclosed,3.6,Retail,Fully Remote
+JOB_1297,LLMOps Architect,Senior,Full-time,On-site,High,0.2362,169530.93,"Prompt Engineering, RAG, Excel",1.6,Technology,On-site
+JOB_1298,Quantitative Trader,Senior,Full-time,Hybrid,High,0.421,101697.17,"SQL, AWS, R",4.6,Finance,Hybrid
+JOB_1300,Compliance Auditor,Mid-level,Full-time,Fully Remote,High,0.2251,134752.95,"Python, PyTorch, Docker, RAG",8.4,Finance,Fully Remote
+JOB_1301,Clinical Data Analyst,Lead/Executive,Full-time,On-site,Medium,0.5629,142776.36,"SQL, AWS, Tableau, Excel",9.2,Healthcare,On-site
+JOB_1302,Operations Analyst,Senior,Full-time,Hybrid,High,0.4792,163857.02,"RAG, Docker, SQL",2.3,Customer Operations,Hybrid
+JOB_1304,Fleet Coordinator,Mid-level,Full-time,On-site,Low,0.6244,92695.49,"Docker, Excel, AWS, Python, Tableau",2.9,Logistics,On-site
+JOB_1305,Inventory Coordinator,Senior,Full-time,Fully Remote,Medium,0.5874,93748.08,"SQL, LangGraph, Tableau, RAG",7.5,Retail,Fully Remote
+JOB_1307,Instructional Designer,Mid-level,Full-time,On-site,Low,0.707,88605.39,"SQL, R",9.0,Education,On-site
+JOB_1308,Operations Analyst,Senior,Full-time,Fully Remote,High,0.1335,74416.1,"AWS, PyTorch, Tableau",3.2,Customer Operations,Fully Remote
+JOB_1309,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.6218,77142.33,"Python, R",9.2,Retail,Fully Remote
+JOB_1310,Prompt Engineer,Mid-level,Full-time,On-site,High,0.4792,118237.53,"Excel, Python, Tableau, R, PyTorch",8.0,Customer Operations,On-site
+JOB_1312,Inventory Coordinator,Entry-level,Full-time,Fully Remote,Medium,0.6331,49566.88,"LangGraph, Prompt Engineering, Docker, PyTorch",7.0,Retail,Fully Remote
+JOB_1314,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.511,105086.69,"R, LangGraph, AWS",6.2,Retail,Fully Remote
+JOB_1315,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.2934,87848.82,"RAG, PyTorch, LangGraph",4.3,Technology,Hybrid
+JOB_1316,Medical Scribe,Senior,Full-time,Fully Remote,High,0.5125,103485.95,"AWS, Tableau, R, RAG, Excel",9.2,Healthcare,Fully Remote
+JOB_1317,Online Tutor,Mid-level,Full-time,Fully Remote,Medium,0.5307,79437.09,"Python, AWS, Tableau, PyTorch",1.5,Education,Fully Remote
+JOB_1318,Pricing Analyst,Mid-level,Full-time,On-site,Low,0.5036,73186.71,"SQL, AWS, Excel",3.2,Retail,On-site
+JOB_1319,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.7631,65210.31,"RAG, Tableau, Docker",2.6,Logistics,Fully Remote
+JOB_1320,Instructional Designer,Lead/Executive,Full-time,,Low,0.804,101836.1,"Tableau, AWS, R",8.7,Education,Not Disclosed
+JOB_1322,E-commerce Manager,Mid-level,Full-time,Hybrid,Medium,0.4792,60196.23,"Docker, RAG, Excel, Tableau",5.7,Retail,Hybrid
+JOB_1323,Quantitative Trader,Entry-level,Full-time,Fully Remote,Medium,0.4873,97180.7,"Tableau, Python",5.1,Finance,Fully Remote
+JOB_1325,AI Governance Officer,Senior,Full-time,Hybrid,Medium,0.4059,162658.6,"R, Python, AWS",4.9,Finance,Hybrid
+JOB_1326,Synthetic Data Specialist,Lead/Executive,Full-time,Hybrid,High,0.1356,127228.26,"Tableau, LangGraph, Excel, RAG",5.5,Technology,Hybrid
+JOB_1327,Synthetic Data Specialist,Entry-level,Full-time,Hybrid,High,0.1272,38137.45,"R, LangGraph, Tableau, PyTorch",9.6,Technology,Hybrid
+JOB_1328,Medical Scribe,Entry-level,Full-time,Hybrid,Medium,0.4256,98384.84,"R, SQL, Python",8.9,Healthcare,Hybrid
+JOB_1329,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.3255,59340.82,"Tableau, AWS",2.6,Customer Operations,Hybrid
+JOB_1330,Compliance Auditor,Senior,Full-time,Fully Remote,High,0.4253,145297.77,"Python, RAG",4.2,Finance,Fully Remote
+JOB_1332,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Low,0.4148,50140.02,"Excel, Docker, PyTorch, LangGraph",5.6,Logistics,Fully Remote
+JOB_1334,Risk Analyst,Mid-level,Full-time,Fully Remote,Medium,0.5724,138590.72,"Prompt Engineering, R",4.7,Finance,Fully Remote
+JOB_1335,Pricing Analyst,Mid-level,Full-time,On-site,Low,0.5369,35263.85,"Tableau, PyTorch, R, AWS",8.9,Retail,On-site
+JOB_1336,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.6883,101688.87,"Tableau, Excel, SQL",3.9,Retail,Fully Remote
+JOB_1337,Data Scientist,Lead/Executive,Full-time,Fully Remote,High,0.2011,192054.37,"AWS, SQL, PyTorch, LangGraph, Docker",9.9,Technology,Fully Remote
+JOB_1338,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.5865,77398.63,"R, Docker, Prompt Engineering, Excel, Python",1.4,Retail,Fully Remote
+JOB_1339,LLMOps Architect,Senior,Full-time,Fully Remote,High,0.3143,109713.82,"Docker, Python, Tableau",8.0,Technology,Fully Remote
+JOB_1340,Curriculum Designer,Entry-level,Full-time,On-site,Low,0.4716,45539.05,"Prompt Engineering, SQL",8.8,Education,On-site
+JOB_1342,LLMOps Architect,Entry-level,Full-time,,High,0.3841,42391.79,"R, Excel, SQL, LangGraph, AWS",4.5,Technology,Not Disclosed
+JOB_1343,Customer Success Manager,Senior,Full-time,Hybrid,High,0.1373,119478.35,"Python, RAG",9.7,Customer Operations,Hybrid
+JOB_1344,Fleet Coordinator,Senior,Full-time,Hybrid,Medium,0.6459,145457.12,"Prompt Engineering, Excel",9.7,Logistics,Hybrid
+JOB_1346,Inventory Coordinator,Entry-level,Full-time,Fully Remote,Low,0.8209,33007.83,"Tableau, Docker",5.9,Retail,Fully Remote
+JOB_1347,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.5503,117824.05,"SQL, PyTorch, Python",6.4,Retail,Fully Remote
+JOB_1348,Bio-informatics Scientist,Lead/Executive,Full-time,Fully Remote,High,0.333,179049.19,"Python, Tableau",8.1,Healthcare,Fully Remote
+JOB_1349,Online Tutor,Lead/Executive,Full-time,Hybrid,Medium,0.6705,109747.59,"AWS, SQL, RAG, LangGraph, Tableau",3.5,Education,Hybrid
+JOB_1351,DevOps Engineer,Senior,Full-time,Hybrid,High,0.255,104939.26,"AWS, Excel, Prompt Engineering",3.6,Technology,Hybrid
+JOB_1352,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.5806,93599.6,"Docker, RAG, PyTorch, R, Excel",1.8,Finance,Fully Remote
+JOB_1353,Compliance Auditor,Senior,Full-time,On-site,Medium,0.4704,137497.97,"SQL, AWS, Docker, Tableau, Python",6.3,Finance,On-site
+JOB_1354,Radiology Assistant,Entry-level,Full-time,Fully Remote,Medium,0.2468,113528.99,"Excel, LangGraph, AWS, Prompt Engineering",8.9,Healthcare,Fully Remote
+JOB_1355,Radiology Assistant,Entry-level,Full-time,Hybrid,High,0.3633,52437.54,"LangGraph, Excel, SQL, RAG, Tableau",9.4,Healthcare,Hybrid
+JOB_1357,AI Governance Officer,Mid-level,Full-time,,High,0.5658,130928.7,"Docker, Tableau, LangGraph, SQL",8.4,Finance,Not Disclosed
+JOB_1358,Bio-informatics Scientist,Entry-level,Full-time,On-site,Medium,0.4188,95280.32,"AWS, SQL, LangGraph, Python",2.8,Healthcare,On-site
+JOB_1359,Online Tutor,Mid-level,Full-time,Fully Remote,Low,0.4965,93651.63,"Python, Excel, LangGraph, PyTorch, Docker",9.2,Education,Fully Remote
+JOB_1360,Bio-informatics Scientist,Senior,Full-time,Fully Remote,Medium,0.4379,88635.04,"RAG, LangGraph, SQL, R",8.4,Healthcare,Fully Remote
+JOB_1361,Clinical Data Analyst,Senior,Full-time,Fully Remote,High,0.4972,102677.75,"RAG, LangGraph, R",3.6,Healthcare,Fully Remote
+JOB_1362,Pricing Analyst,Senior,Full-time,Fully Remote,Medium,0.5501,91034.4,"Excel, PyTorch, Python, Tableau",7.3,Retail,Fully Remote
+JOB_1363,Financial Advisor,Mid-level,Full-time,Fully Remote,High,0.3678,150878.51,"PyTorch, R, Prompt Engineering, Tableau, Docker",5.0,Finance,Fully Remote
+JOB_1364,Synthetic Data Specialist,Entry-level,Full-time,Hybrid,High,0.1169,68811.2,"PyTorch, SQL, Python, R",7.4,Technology,Hybrid
+JOB_1365,Pricing Analyst,Senior,Full-time,,Low,0.6324,100848.18,"Python, Excel, LangGraph, RAG, R",7.0,Retail,Not Disclosed
+JOB_1367,Fleet Coordinator,Senior,Full-time,On-site,Medium,0.4972,81192.52,"Docker, Prompt Engineering",3.9,Logistics,On-site
+JOB_1368,Risk Analyst,Mid-level,Full-time,On-site,High,0.241,141946.3,Not Disclosed,5.7,Finance,On-site
+JOB_1370,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.4529,92564.7,"Prompt Engineering, RAG, SQL",5.9,Logistics,Hybrid
+JOB_1371,E-commerce Manager,Mid-level,Full-time,Hybrid,Medium,0.4547,91532.18,"AWS, Prompt Engineering, LangGraph, Python",3.0,Retail,Hybrid
+JOB_1372,AI Software Engineer,Entry-level,Full-time,Fully Remote,High,0.1173,58863.72,"R, Prompt Engineering, Tableau, AWS, Excel",6.1,Technology,Fully Remote
+JOB_1373,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,High,0.4716,93056.78,Not Disclosed,2.5,Healthcare,Hybrid
+JOB_1374,Quantitative Trader,Entry-level,Full-time,On-site,High,0.413,76410.82,"Docker, R",5.0,Finance,On-site
+JOB_1375,Risk Analyst,Mid-level,Full-time,Fully Remote,High,0.2817,82493.46,"R, SQL",8.0,Finance,Fully Remote
+JOB_1379,Pricing Analyst,Mid-level,Full-time,Hybrid,Medium,0.43,55676.36,"RAG, R",5.1,Retail,Hybrid
+JOB_1381,Inventory Coordinator,Mid-level,Full-time,,Low,0.8182,73314.98,Not Disclosed,7.0,Retail,Not Disclosed
+JOB_1382,LLMOps Architect,Senior,Full-time,Hybrid,High,0.4792,143971.63,Not Disclosed,5.9,Technology,Hybrid
+JOB_1384,Support Agent,Mid-level,Full-time,Fully Remote,High,0.6555,102785.39,"AWS, LangGraph, Docker",9.0,Customer Operations,Fully Remote
+JOB_1385,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Low,0.7224,48608.26,"Excel, AWS, Docker, Prompt Engineering, R",6.3,Logistics,Fully Remote
+JOB_1386,Synthetic Data Specialist,Entry-level,Full-time,,High,0.3724,40659.13,"SQL, Excel, Docker",2.2,Technology,Not Disclosed
+JOB_1387,Medical Scribe,Mid-level,Full-time,On-site,Medium,0.4197,110931.35,"Excel, Tableau, R, PyTorch",9.5,Healthcare,On-site
+JOB_1388,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.7126,83337.71,"R, AWS, SQL, Prompt Engineering",8.0,Retail,Fully Remote
+JOB_1390,Instructional Designer,Mid-level,Full-time,On-site,Low,0.6508,76716.2,"Excel, PyTorch, Prompt Engineering, Python, Tableau",2.8,Education,On-site
+JOB_1391,Curriculum Designer,Senior,Full-time,Hybrid,Low,0.7366,94848.21,"Prompt Engineering, R",1.6,Education,Hybrid
+JOB_1393,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.3351,120236.79,"R, Docker, Python, Tableau",1.7,Technology,Fully Remote
+JOB_1394,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.7178,61129.78,"RAG, Tableau, Excel",6.1,Logistics,Fully Remote
+JOB_1395,Supply Chain Planner,Senior,Full-time,Fully Remote,Low,0.6872,91512.13,"SQL, RAG, Prompt Engineering",7.4,Logistics,Fully Remote
+JOB_1396,Bio-informatics Scientist,Entry-level,Full-time,Hybrid,High,0.5717,78669.16,"LangGraph, PyTorch, AWS, R",5.0,Healthcare,Hybrid
+JOB_1398,Instructional Designer,Mid-level,Full-time,On-site,Low,0.6252,95033.04,"Prompt Engineering, Excel, SQL",6.0,Education,On-site
+JOB_1399,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.1127,111553.03,"Tableau, RAG",8.5,Technology,Fully Remote
+JOB_1400,Pricing Analyst,Lead/Executive,Full-time,Hybrid,Low,0.7148,140194.88,"LangGraph, Docker, Prompt Engineering, Python",6.8,Retail,Hybrid
+JOB_1401,Compliance Auditor,Mid-level,Full-time,Hybrid,Medium,0.5685,123898.66,"RAG, Tableau, Python, PyTorch, AWS",1.9,Finance,Hybrid
+JOB_1402,Medical Scribe,Mid-level,Full-time,Fully Remote,Medium,0.5663,68354.46,"Tableau, Excel, RAG, Python",2.9,Healthcare,Fully Remote
+JOB_1404,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.8233,67005.2,Not Disclosed,9.8,Logistics,Hybrid
+JOB_1406,Quantitative Trader,Lead/Executive,Full-time,Fully Remote,High,0.2299,249831.21,"Docker, R",9.7,Finance,Fully Remote
+JOB_1407,Prompt Engineer,Entry-level,Full-time,Fully Remote,High,0.2892,25513.95,"AWS, Excel, PyTorch, RAG, Prompt Engineering",2.2,Customer Operations,Fully Remote
+JOB_1408,Curriculum Designer,Entry-level,Full-time,Fully Remote,Medium,0.4792,48018.11,"Excel, RAG, SQL, Python, Prompt Engineering",2.4,Education,Fully Remote
+JOB_1409,Instructional Designer,Entry-level,Full-time,Fully Remote,Low,0.7617,52104.74,"PyTorch, RAG, Python",8.0,Education,Fully Remote
+JOB_1410,Inventory Coordinator,Senior,Full-time,Fully Remote,Medium,0.5988,100259.63,"R, SQL",4.8,Retail,Fully Remote
+JOB_1411,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.3975,93784.64,"Tableau, AWS, Docker",3.8,Technology,Hybrid
+JOB_1413,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.4555,49706.58,"Tableau, LangGraph, Prompt Engineering, SQL",7.9,Retail,Fully Remote
+JOB_1415,Synthetic Data Specialist,Entry-level,Full-time,Fully Remote,High,0.4792,58997.91,"R, RAG, AWS",8.7,Technology,Fully Remote
+JOB_1416,Bio-informatics Scientist,Senior,Full-time,On-site,High,0.4306,65725.04,"Prompt Engineering, Tableau, Python, LangGraph, AWS",8.2,Healthcare,On-site
+JOB_1417,Radiology Assistant,Entry-level,Full-time,Hybrid,High,0.5184,89679.66,"RAG, Python",1.2,Healthcare,Hybrid
+JOB_1418,Instructional Designer,Entry-level,Full-time,Hybrid,Low,0.7383,48018.11,"Python, LangGraph, Tableau, RAG, Docker",7.8,Education,Hybrid
+JOB_1419,E-commerce Manager,Lead/Executive,Full-time,Fully Remote,Low,0.5067,178340.1,"PyTorch, Tableau, RAG, Excel",3.6,Retail,Fully Remote
+JOB_1420,Medical Scribe,Senior,Full-time,Hybrid,Medium,0.509,183513.46,"SQL, Python, AWS, Docker",6.4,Healthcare,Hybrid
+JOB_1421,Curriculum Designer,Entry-level,Full-time,Fully Remote,Medium,0.4768,66520.97,"PyTorch, R",1.4,Education,Fully Remote
+JOB_1422,Data Scientist,Entry-level,Full-time,On-site,High,0.253,70673.97,"Docker, Prompt Engineering",8.7,Technology,On-site
+JOB_1423,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.4792,125046.15,"LangGraph, Prompt Engineering, RAG, Excel, Python",7.5,Technology,Hybrid
+JOB_1424,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.5709,90314.69,"Docker, Python, R, RAG",6.9,Retail,Fully Remote
+JOB_1425,AI Software Engineer,Mid-level,Full-time,Hybrid,High,0.3787,156428.73,"AWS, SQL, Excel",3.9,Technology,Hybrid
+JOB_1426,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.5553,71148.8,"RAG, Docker",6.9,Logistics,Hybrid
+JOB_1427,Pricing Analyst,Lead/Executive,Full-time,Hybrid,Low,0.5577,133492.86,"RAG, Docker, R, Tableau, Python",9.7,Retail,Hybrid
+JOB_1428,Customer Success Manager,Mid-level,Full-time,,High,0.4792,77920.39,"Docker, Python",1.8,Customer Operations,Not Disclosed
+JOB_1429,DevOps Engineer,Entry-level,Full-time,Fully Remote,High,0.3786,55515.87,"Excel, PyTorch",3.2,Technology,Fully Remote
+JOB_1430,Operations Analyst,Mid-level,Full-time,On-site,High,0.234,57019.33,"RAG, AWS, Excel",9.1,Customer Operations,On-site
+JOB_1431,Prompt Engineer,Entry-level,Full-time,Fully Remote,High,0.1883,58628.45,"SQL, Docker, R, LangGraph",1.5,Customer Operations,Fully Remote
+JOB_1432,Online Tutor,Mid-level,Full-time,Hybrid,Low,0.5811,70137.12,"Docker, RAG",5.0,Education,Hybrid
+JOB_1433,AI Governance Officer,Senior,Full-time,Fully Remote,High,0.248,172554.03,"Docker, Prompt Engineering",2.1,Finance,Fully Remote
+JOB_1435,Online Tutor,Mid-level,Full-time,On-site,Medium,0.655,99728.54,"LangGraph, Excel, PyTorch, SQL",4.7,Education,On-site
+JOB_1437,Risk Analyst,Senior,Full-time,Hybrid,High,0.2892,138441.5,"Prompt Engineering, R",6.1,Finance,Hybrid
+JOB_1438,Curriculum Designer,Entry-level,Full-time,Fully Remote,Medium,0.4792,40584.88,"LangGraph, Excel, RAG, PyTorch",1.5,Education,Fully Remote
+JOB_1439,Support Agent,Mid-level,Full-time,Fully Remote,High,0.4792,105145.34,"LangGraph, SQL, PyTorch, Tableau",7.2,Customer Operations,Fully Remote
+JOB_1440,Compliance Auditor,Senior,Full-time,Fully Remote,High,0.5176,100535.65,"LangGraph, PyTorch, RAG, SQL, AWS",5.3,Finance,Fully Remote
+JOB_1441,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.4792,78551.87,Not Disclosed,3.5,Retail,Fully Remote
+JOB_1442,Radiology Assistant,Mid-level,Full-time,On-site,High,0.4126,109195.04,"AWS, RAG, R",6.9,Healthcare,On-site
+JOB_1443,Quantitative Trader,Entry-level,Full-time,On-site,High,0.2896,61480.15,"R, RAG, Excel, Prompt Engineering",6.5,Finance,On-site
+JOB_1444,Clinical Data Analyst,Senior,Full-time,Fully Remote,Medium,0.4203,195442.5,"PyTorch, AWS",4.9,Healthcare,Fully Remote
+JOB_1446,Instructional Designer,Senior,Full-time,Fully Remote,Medium,0.4189,72093.41,"AWS, Tableau, RAG, Python",1.9,Education,Fully Remote
+JOB_1447,Online Tutor,Mid-level,Full-time,Fully Remote,Medium,0.4226,76716.2,"Excel, Prompt Engineering, SQL, Tableau",6.7,Education,Fully Remote
+JOB_1448,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.1129,112782.81,Not Disclosed,2.3,Technology,Fully Remote
+JOB_1449,Warehouse Automation Specialist,Lead/Executive,Full-time,Hybrid,Low,0.5706,168783.27,"Python, Excel, Tableau, SQL, RAG",4.9,Logistics,Hybrid
+JOB_1450,Instructional Designer,Senior,Full-time,Fully Remote,Low,0.5463,98954.65,"SQL, RAG",8.7,Education,Fully Remote
+JOB_1452,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.1913,86069.56,"RAG, Prompt Engineering, Python, AWS",4.8,Customer Operations,Fully Remote
+JOB_1453,Customer Success Manager,Senior,Full-time,Fully Remote,High,0.3272,147127.69,"RAG, LangGraph",7.2,Customer Operations,Fully Remote
+JOB_1455,Curriculum Designer,Entry-level,Full-time,On-site,Medium,0.5888,48018.11,"Prompt Engineering, PyTorch, Python, AWS",4.8,Education,On-site
+JOB_1457,Instructional Designer,Lead/Executive,Full-time,Fully Remote,Medium,0.5222,102650.2,Not Disclosed,5.6,Education,Fully Remote
+JOB_1459,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.5989,58860.44,"Excel, RAG, Python, R, Prompt Engineering",7.2,Education,Fully Remote
+JOB_1460,Operations Analyst,Senior,Full-time,Fully Remote,High,0.1889,124197.98,"Excel, SQL, Prompt Engineering, Docker",4.2,Customer Operations,Fully Remote
+JOB_1461,Pricing Analyst,Entry-level,Full-time,,Low,0.7137,58879.31,"Tableau, R, PyTorch",9.8,Retail,Not Disclosed
+JOB_1462,Customer Success Manager,Senior,Full-time,Fully Remote,High,0.1366,129736.68,"Excel, SQL, PyTorch, R",8.4,Customer Operations,Fully Remote
+JOB_1463,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.2969,73980.65,"Tableau, Docker, PyTorch",7.0,Technology,Fully Remote
+JOB_1464,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.4528,89991.27,"RAG, SQL",8.8,Logistics,Fully Remote
+JOB_1465,Clinical Data Analyst,Mid-level,Full-time,Hybrid,Medium,0.371,78960.27,Not Disclosed,5.5,Healthcare,Hybrid
+JOB_1467,Prompt Engineer,Lead/Executive,Full-time,Fully Remote,High,0.128,129982.17,"R, Prompt Engineering, SQL, Docker",3.9,Customer Operations,Fully Remote
+JOB_1468,AI Governance Officer,Senior,Full-time,Hybrid,High,0.4301,81406.76,"Prompt Engineering, Excel",5.2,Finance,Hybrid
+JOB_1469,Risk Analyst,Entry-level,Full-time,Hybrid,Medium,0.224,61273.26,"Python, Excel, Tableau",2.1,Finance,Hybrid
+JOB_1470,AI Governance Officer,Entry-level,Full-time,On-site,Medium,0.4377,52001.95,"PyTorch, LangGraph, Excel",1.7,Finance,On-site
+JOB_1471,Financial Advisor,Mid-level,Full-time,Hybrid,High,0.4897,102884.37,"AWS, LangGraph, RAG",7.0,Finance,Hybrid
+JOB_1472,Pricing Analyst,Entry-level,Full-time,On-site,Low,0.4792,39704.92,"PyTorch, R, SQL",2.1,Retail,On-site
+JOB_1473,Quantitative Trader,Mid-level,Full-time,,High,0.3173,110015.0,"Tableau, SQL, Prompt Engineering, Python, Excel",9.9,Finance,Not Disclosed
+JOB_1475,Medical Scribe,Senior,Full-time,Fully Remote,High,0.5611,115723.82,"PyTorch, RAG",4.1,Healthcare,Fully Remote
+JOB_1477,Fleet Coordinator,Senior,Full-time,Hybrid,Low,0.4414,85285.99,"RAG, PyTorch",9.6,Logistics,Hybrid
+JOB_1478,Bio-informatics Scientist,Entry-level,Full-time,Fully Remote,Medium,0.352,41050.88,"AWS, Python, Docker, Excel",5.3,Healthcare,Fully Remote
+JOB_1479,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.393,120068.4,"R, LangGraph, AWS",8.9,Customer Operations,Hybrid
+JOB_1480,Radiology Assistant,Mid-level,Full-time,Hybrid,Medium,0.3223,160291.79,"RAG, Tableau",7.3,Healthcare,Hybrid
+JOB_1481,Data Scientist,Mid-level,Full-time,Hybrid,High,0.1359,101362.33,"AWS, LangGraph, Prompt Engineering, RAG, PyTorch",7.8,Technology,Hybrid
+JOB_1482,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.2858,80809.02,"AWS, LangGraph, Excel",3.1,Customer Operations,Hybrid
+JOB_1484,Radiology Assistant,Entry-level,Full-time,Hybrid,Medium,0.2935,93025.61,"Tableau, Docker, Prompt Engineering, RAG",3.4,Healthcare,Hybrid
+JOB_1485,Pricing Analyst,Mid-level,Full-time,Hybrid,Low,0.8397,76829.6,"PyTorch, LangGraph, R, Tableau, Python",7.6,Retail,Hybrid
+JOB_1487,Synthetic Data Specialist,Mid-level,Full-time,,High,0.1994,86595.46,"Excel, Prompt Engineering, SQL, RAG",9.4,Technology,Not Disclosed
+JOB_1488,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.7555,88875.25,"Tableau, SQL",1.6,Education,Fully Remote
+JOB_1489,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,High,0.5991,57207.22,"PyTorch, Tableau, AWS",9.5,Healthcare,Fully Remote
+JOB_1490,Fleet Coordinator,Mid-level,Full-time,On-site,Low,0.6763,60404.68,"Prompt Engineering, PyTorch, Docker, SQL, AWS",8.3,Logistics,On-site
+JOB_1492,LLMOps Architect,Entry-level,Full-time,Hybrid,High,0.1114,105635.56,"Docker, Python, R, Excel",6.4,Technology,Hybrid
+JOB_1493,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.3409,108166.72,"LangGraph, Docker, SQL, Excel",7.1,Technology,Fully Remote
+JOB_1494,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.4682,71828.74,"LangGraph, Python, Excel, SQL, Docker",3.9,Retail,Fully Remote
+JOB_1496,Online Tutor,Senior,Full-time,Fully Remote,Medium,0.5466,138712.65,"PyTorch, Python, Tableau, AWS",5.6,Education,Fully Remote
+JOB_1498,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.5582,45276.31,"SQL, Python, Tableau",6.4,Retail,Fully Remote
+JOB_1499,Medical Scribe,Senior,Full-time,Fully Remote,Medium,0.2193,151288.91,"LangGraph, PyTorch, Prompt Engineering, Docker, Python",2.8,Healthcare,Fully Remote
+JOB_1500,Support Agent,Mid-level,Full-time,Fully Remote,High,0.6764,88858.07,"Tableau, LangGraph",4.7,Customer Operations,Fully Remote
+JOB_1501,Instructional Designer,Entry-level,Full-time,Fully Remote,Low,0.6153,57333.65,"Tableau, SQL, Python",1.5,Education,Fully Remote
+JOB_1502,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.6999,47445.35,"LangGraph, Docker, AWS, SQL",7.7,Education,Hybrid
+JOB_1503,Fleet Coordinator,Senior,Full-time,Fully Remote,Medium,0.8286,81689.31,"SQL, AWS, Prompt Engineering, Python, Excel",8.6,Logistics,Fully Remote
+JOB_1504,Operations Analyst,Senior,Full-time,Fully Remote,High,0.1213,167284.52,"Prompt Engineering, RAG, LangGraph, PyTorch, AWS",3.3,Customer Operations,Fully Remote
+JOB_1507,Fleet Coordinator,Mid-level,Full-time,On-site,Low,0.5287,77152.8,"SQL, Prompt Engineering, RAG, Python",7.0,Logistics,On-site
+JOB_1508,Radiology Assistant,Entry-level,Full-time,Hybrid,Medium,0.2096,51793.33,"Docker, AWS, Python, R",9.7,Healthcare,Hybrid
+JOB_1509,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.4806,88730.19,"Excel, Tableau, Python",6.3,Retail,Fully Remote
+JOB_1510,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.6825,92823.51,"Excel, SQL, R",8.9,Logistics,Hybrid
+JOB_1511,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.8402,53719.65,Not Disclosed,2.8,Retail,Fully Remote
+JOB_1512,Operations Analyst,Entry-level,Full-time,Hybrid,High,0.2116,48617.65,"PyTorch, Python",7.2,Customer Operations,Hybrid
+JOB_1513,AI Governance Officer,Entry-level,Full-time,Hybrid,High,0.4274,72250.89,"Excel, Prompt Engineering, R, PyTorch, Docker",7.1,Finance,Hybrid
+JOB_1514,Support Agent,Mid-level,Full-time,Fully Remote,High,0.9322,117361.97,"R, AWS, RAG, PyTorch",6.3,Customer Operations,Fully Remote
+JOB_1515,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.4895,53962.66,"PyTorch, SQL, AWS, Python, R",2.9,Logistics,Fully Remote
+JOB_1516,Clinical Data Analyst,Mid-level,Full-time,Fully Remote,High,0.4256,136382.51,"LangGraph, Python, R, RAG",2.8,Healthcare,Fully Remote
+JOB_1517,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Medium,0.4274,55607.23,"Excel, Tableau, Prompt Engineering",3.6,Logistics,Fully Remote
+JOB_1518,Risk Analyst,Entry-level,Full-time,Fully Remote,High,0.4792,83990.59,"Docker, Prompt Engineering, AWS, Tableau",1.5,Finance,Fully Remote
+JOB_1519,Medical Scribe,Mid-level,Full-time,Fully Remote,Medium,0.3014,113692.35,"Python, LangGraph",1.2,Healthcare,Fully Remote
+JOB_1520,Customer Success Manager,Senior,Full-time,On-site,High,0.2791,113467.98,"Tableau, Excel, Python, RAG",3.3,Customer Operations,On-site
+JOB_1521,AI Governance Officer,Mid-level,Full-time,Fully Remote,High,0.3539,149359.51,"Tableau, SQL",6.3,Finance,Fully Remote
+JOB_1522,Risk Analyst,Mid-level,Full-time,Fully Remote,Medium,0.4072,89129.15,"Excel, Docker",6.4,Finance,Fully Remote
+JOB_1524,Support Agent,Lead/Executive,Full-time,Hybrid,High,0.8321,169309.11,"PyTorch, AWS, RAG",2.9,Customer Operations,Hybrid
+JOB_1525,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.3692,129973.74,"Excel, Prompt Engineering, Tableau, SQL",9.1,Technology,Fully Remote
+JOB_1526,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.5647,110460.94,"Docker, SQL, R, PyTorch, Tableau",2.9,Finance,Fully Remote
+JOB_1528,Curriculum Designer,Entry-level,Full-time,On-site,Low,0.6844,39220.3,"SQL, Excel, Tableau, Prompt Engineering",6.8,Education,On-site
+JOB_1529,Fleet Coordinator,Senior,Full-time,Fully Remote,Low,0.8147,93979.88,"AWS, RAG",4.3,Logistics,Fully Remote
+JOB_1531,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.794,83240.5,"AWS, Excel",8.8,Retail,Fully Remote
+JOB_1532,Quantitative Trader,Mid-level,Full-time,On-site,Medium,0.5413,98170.18,"AWS, Python, Excel, Docker",5.6,Finance,On-site
+JOB_1533,Medical Scribe,Lead/Executive,Full-time,,High,0.2549,179255.48,"Tableau, Python",7.1,Healthcare,Not Disclosed
+JOB_1535,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.7821,78202.5,Not Disclosed,8.4,Retail,Hybrid
+JOB_1536,Compliance Auditor,Lead/Executive,Full-time,Fully Remote,Medium,0.3231,261117.4,"RAG, AWS, Python, PyTorch",7.4,Finance,Fully Remote
+JOB_1538,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.3399,105720.86,"RAG, Python, PyTorch",9.5,Finance,Fully Remote
+JOB_1539,AI Software Engineer,Entry-level,Full-time,Fully Remote,High,0.1418,89729.39,"R, AWS",3.0,Technology,Fully Remote
+JOB_1540,Financial Advisor,Mid-level,Full-time,Fully Remote,Medium,0.385,89867.74,"Excel, R, AWS",1.7,Finance,Fully Remote
+JOB_1541,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.7533,47237.83,"SQL, RAG, PyTorch, Excel, LangGraph",8.7,Retail,Fully Remote
+JOB_1542,Data Scientist,Mid-level,Full-time,,High,0.3256,74537.8,"Excel, Tableau, LangGraph, SQL",8.6,Technology,Not Disclosed
+JOB_1543,Fleet Coordinator,Entry-level,Full-time,Fully Remote,Low,0.4988,50447.25,"Python, PyTorch, AWS, Docker, Tableau",5.6,Logistics,Fully Remote
+JOB_1545,AI Governance Officer,Entry-level,Full-time,,High,0.2442,86465.78,"RAG, Tableau, AWS",2.0,Finance,Not Disclosed
+JOB_1546,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.521,89232.49,"LangGraph, SQL, PyTorch",8.9,Finance,Fully Remote
+JOB_1547,AI Governance Officer,Mid-level,Full-time,Hybrid,Medium,0.5232,50932.31,"SQL, AWS, PyTorch, RAG",7.8,Finance,Hybrid
+JOB_1548,Pricing Analyst,Entry-level,Full-time,On-site,Medium,0.4438,37338.22,"SQL, Excel, RAG, R, Tableau",9.6,Retail,On-site
+JOB_1549,Medical Scribe,Entry-level,Full-time,,Medium,0.3231,96918.4,Not Disclosed,5.8,Healthcare,Not Disclosed
+JOB_1550,Online Tutor,Senior,Full-time,Fully Remote,Low,0.5635,110629.88,"R, PyTorch, Excel, LangGraph",4.0,Education,Fully Remote
+JOB_1552,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.8092,83730.02,"PyTorch, LangGraph",2.5,Retail,Fully Remote
+JOB_1553,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.232,113304.45,"AWS, Python, Excel",5.6,Technology,Fully Remote
+JOB_1555,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.4754,78817.68,"Prompt Engineering, PyTorch",8.5,Logistics,Fully Remote
+JOB_1556,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.4394,33955.37,"RAG, SQL, R",2.9,Retail,Fully Remote
+JOB_1557,Online Tutor,Lead/Executive,Full-time,Fully Remote,Low,0.5765,72630.94,"Tableau, Docker",5.5,Education,Fully Remote
+JOB_1558,Risk Analyst,Mid-level,Full-time,Hybrid,Medium,0.3913,128718.5,"AWS, Prompt Engineering",9.4,Finance,Hybrid
+JOB_1560,Inventory Coordinator,Lead/Executive,Full-time,Hybrid,Low,0.6484,114204.89,"PyTorch, Excel, SQL, AWS",3.7,Retail,Hybrid
+JOB_1561,Prompt Engineer,Senior,Full-time,Hybrid,High,0.3278,80575.82,"AWS, Prompt Engineering, Excel, PyTorch, Docker",5.2,Customer Operations,Hybrid
+JOB_1562,Quantitative Trader,Entry-level,Full-time,Fully Remote,High,0.3372,49855.92,"Prompt Engineering, RAG",4.2,Finance,Fully Remote
+JOB_1563,Warehouse Automation Specialist,Entry-level,Full-time,Hybrid,Low,0.6448,62170.62,"PyTorch, R",1.1,Logistics,Hybrid
+JOB_1564,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.3778,103254.52,"Docker, Prompt Engineering, Python, SQL",3.5,Technology,Fully Remote
+JOB_1566,Instructional Designer,Entry-level,Full-time,Hybrid,Low,0.4245,48649.75,"PyTorch, R, Excel, LangGraph",7.7,Education,Hybrid
+JOB_1567,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.3885,50219.21,"Excel, Prompt Engineering",2.7,Customer Operations,Fully Remote
+JOB_1568,AI Software Engineer,Senior,Full-time,Fully Remote,High,0.2293,206620.55,"Tableau, SQL, R",4.3,Technology,Fully Remote
+JOB_1570,LLMOps Architect,Mid-level,Full-time,Fully Remote,High,0.2162,99246.1,Not Disclosed,2.7,Technology,Fully Remote
+JOB_1571,Data Scientist,Entry-level,Full-time,Hybrid,High,0.2454,120262.11,"R, PyTorch, RAG, Prompt Engineering, Excel",2.9,Technology,Hybrid
+JOB_1572,Prompt Engineer,Mid-level,Full-time,On-site,High,0.2281,108991.89,"RAG, R",6.6,Customer Operations,On-site
+JOB_1573,Pricing Analyst,Entry-level,Full-time,Hybrid,Low,0.4242,48054.84,"Excel, RAG, Python, Prompt Engineering",3.2,Retail,Hybrid
+JOB_1576,E-commerce Manager,Entry-level,Full-time,Hybrid,Medium,0.553,55040.27,"Prompt Engineering, Tableau, RAG, AWS, SQL",8.4,Retail,Hybrid
+JOB_1577,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.5289,82707.35,"R, Docker, Tableau, AWS, Python",3.9,Logistics,Fully Remote
+JOB_1579,Quantitative Trader,Entry-level,Full-time,,High,0.3929,74811.97,"Docker, AWS, RAG",2.5,Finance,Not Disclosed
+JOB_1580,Compliance Auditor,Entry-level,Full-time,On-site,High,0.569,81371.7,"LangGraph, Excel, PyTorch, RAG",5.4,Finance,On-site
+JOB_1581,DevOps Engineer,Mid-level,Full-time,Hybrid,High,0.2003,118946.11,"Excel, R, Docker",8.3,Technology,Hybrid
+JOB_1582,Support Agent,Entry-level,Full-time,Hybrid,High,0.8996,68295.0,"PyTorch, Excel, Prompt Engineering",9.4,Customer Operations,Hybrid
+JOB_1583,Online Tutor,Mid-level,Full-time,Hybrid,Medium,0.7881,86110.33,"Prompt Engineering, SQL, Excel",9.3,Education,Hybrid
+JOB_1584,Risk Analyst,Mid-level,Full-time,Fully Remote,Medium,0.4691,79255.82,Not Disclosed,5.4,Finance,Fully Remote
+JOB_1585,Medical Scribe,Entry-level,Full-time,Fully Remote,High,0.2959,61350.15,"AWS, LangGraph, PyTorch",8.5,Healthcare,Fully Remote
+JOB_1586,Quantitative Trader,Senior,Full-time,Fully Remote,Medium,0.2211,145297.77,Not Disclosed,1.9,Finance,Fully Remote
+JOB_1587,Warehouse Automation Specialist,Mid-level,Full-time,On-site,Low,0.6942,64575.77,"Docker, RAG, R, LangGraph, Prompt Engineering",2.0,Logistics,On-site
+JOB_1588,Support Agent,Mid-level,Full-time,Hybrid,High,0.9382,121970.76,"PyTorch, Excel, RAG, LangGraph",7.2,Customer Operations,Hybrid
+JOB_1589,Inventory Coordinator,Mid-level,Full-time,,Low,0.443,89438.31,"PyTorch, AWS",5.4,Retail,Not Disclosed
+JOB_1590,Synthetic Data Specialist,Entry-level,Full-time,Fully Remote,High,0.1952,59581.47,"Prompt Engineering, AWS, RAG, Tableau",1.9,Technology,Fully Remote
+JOB_1592,Prompt Engineer,Entry-level,Full-time,,High,0.3406,60255.93,"Docker, Prompt Engineering, AWS, LangGraph, SQL",6.6,Customer Operations,Not Disclosed
+JOB_1593,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Medium,0.7422,52900.76,"RAG, Excel, Python, Prompt Engineering",6.6,Logistics,Fully Remote
+JOB_1594,Support Agent,Mid-level,Full-time,Fully Remote,High,0.8435,57577.61,"Tableau, AWS, RAG, R",2.9,Customer Operations,Fully Remote
+JOB_1595,Online Tutor,Entry-level,Full-time,Hybrid,Low,0.6544,44939.01,"Prompt Engineering, Python",1.1,Education,Hybrid
+JOB_1596,Compliance Auditor,Entry-level,Full-time,Fully Remote,Medium,0.3612,97803.17,"SQL, Docker, PyTorch",9.4,Finance,Fully Remote
+JOB_1599,Inventory Coordinator,Senior,Full-time,Hybrid,Medium,0.5697,103006.38,"Python, RAG, Prompt Engineering, LangGraph",6.8,Retail,Hybrid
+JOB_1600,Warehouse Automation Specialist,Entry-level,Full-time,Hybrid,Low,0.5233,45267.58,"Excel, Prompt Engineering, Tableau",7.7,Logistics,Hybrid
+JOB_1601,Financial Advisor,Entry-level,Full-time,,Medium,0.4655,121635.87,"SQL, Docker, Prompt Engineering, AWS",1.5,Finance,Not Disclosed
+JOB_1603,Data Scientist,Mid-level,Full-time,,High,0.2401,107977.93,"SQL, Docker",8.2,Technology,Not Disclosed
+JOB_1604,Online Tutor,Senior,Full-time,Hybrid,Low,0.835,88740.78,"Excel, R, Prompt Engineering, RAG",4.8,Education,Hybrid
+JOB_1605,Operations Analyst,Entry-level,Full-time,Hybrid,High,0.4792,61665.89,"PyTorch, LangGraph, Prompt Engineering",6.0,Customer Operations,Hybrid
+JOB_1610,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.1081,97915.98,Not Disclosed,9.9,Technology,Fully Remote
+JOB_1611,Customer Success Manager,Mid-level,Full-time,On-site,High,0.3356,95271.02,"RAG, Excel, PyTorch, Docker, Tableau",9.3,Customer Operations,On-site
+JOB_1612,Inventory Coordinator,Lead/Executive,Full-time,Hybrid,Medium,0.5182,66040.4,"Tableau, RAG, Excel, AWS",4.6,Retail,Hybrid
+JOB_1613,Synthetic Data Specialist,Entry-level,Full-time,Hybrid,High,0.1248,54375.25,"RAG, Tableau, AWS, Python",4.2,Technology,Hybrid
+JOB_1614,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.6125,61072.95,"Excel, R",9.2,Logistics,Fully Remote
+JOB_1616,LLMOps Architect,Senior,Full-time,Hybrid,High,0.3065,141988.02,"RAG, Tableau, Python",5.8,Technology,Hybrid
+JOB_1617,DevOps Engineer,Entry-level,Full-time,Fully Remote,High,0.1388,67437.05,"RAG, AWS, Tableau, LangGraph, Excel",6.4,Technology,Fully Remote
+JOB_1618,DevOps Engineer,Entry-level,Full-time,Hybrid,High,0.2546,75226.14,"Python, RAG",9.1,Technology,Hybrid
+JOB_1619,Support Agent,Mid-level,Full-time,Hybrid,High,0.8779,77800.31,"AWS, PyTorch, Prompt Engineering, Docker",4.0,Customer Operations,Hybrid
+JOB_1620,Support Agent,Entry-level,Full-time,Hybrid,High,0.6826,54637.58,"PyTorch, LangGraph, Python",5.0,Customer Operations,Hybrid
+JOB_1621,Inventory Coordinator,Mid-level,Full-time,Hybrid,Medium,0.5099,68940.36,"RAG, SQL, LangGraph, Python",7.5,Retail,Hybrid
+JOB_1622,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.7232,79633.74,"AWS, Excel, Docker",4.1,Education,Fully Remote
+JOB_1624,Support Agent,Mid-level,Full-time,Fully Remote,High,0.7352,62828.52,"Docker, Prompt Engineering",7.4,Customer Operations,Fully Remote
+JOB_1626,Data Scientist,Senior,Full-time,Fully Remote,High,0.3031,173646.47,"LangGraph, Prompt Engineering, Excel",4.6,Technology,Fully Remote
+JOB_1628,Support Agent,Entry-level,Full-time,Hybrid,High,0.7907,53531.05,"Excel, PyTorch, AWS",7.8,Customer Operations,Hybrid
+JOB_1629,Risk Analyst,Lead/Executive,Full-time,Fully Remote,Medium,0.5906,152294.71,"Prompt Engineering, Excel, R, RAG",5.0,Finance,Fully Remote
+JOB_1630,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Low,0.4412,35956.21,Not Disclosed,7.3,Logistics,Fully Remote
+JOB_1631,Synthetic Data Specialist,Senior,Full-time,Fully Remote,High,0.308,134951.03,"RAG, AWS, LangGraph, Prompt Engineering",2.2,Technology,Fully Remote
+JOB_1633,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.8001,119979.61,"Tableau, LangGraph, R",7.4,Logistics,Fully Remote
+JOB_1634,Radiology Assistant,Entry-level,Full-time,Fully Remote,Medium,0.5719,78230.45,"Tableau, LangGraph, AWS, Excel, RAG",5.2,Healthcare,Fully Remote
+JOB_1636,Support Agent,Senior,Full-time,Fully Remote,High,0.7748,100434.25,"Tableau, SQL",1.3,Customer Operations,Fully Remote
+JOB_1637,Pricing Analyst,Entry-level,Full-time,Fully Remote,Low,0.6454,59059.6,"RAG, Prompt Engineering, Docker, R, AWS",10.0,Retail,Fully Remote
+JOB_1638,Curriculum Designer,Lead/Executive,Full-time,Hybrid,Low,0.6359,90384.5,"Excel, PyTorch, Tableau, Python, RAG",8.8,Education,Hybrid
+JOB_1639,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Low,0.5159,58923.75,"SQL, Excel",2.2,Logistics,Fully Remote
+JOB_1641,Customer Success Manager,Entry-level,Full-time,Fully Remote,High,0.3792,60053.19,"LangGraph, R, Prompt Engineering",1.7,Customer Operations,Fully Remote
+JOB_1642,Synthetic Data Specialist,Senior,Full-time,Fully Remote,High,0.1065,128859.37,"Tableau, Prompt Engineering, R, PyTorch",2.2,Technology,Fully Remote
+JOB_1643,Online Tutor,Entry-level,Full-time,Hybrid,Low,0.4957,41555.63,"SQL, RAG, LangGraph",7.3,Education,Hybrid
+JOB_1645,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.3048,86754.18,"R, LangGraph, Python",3.8,Technology,Fully Remote
+JOB_1646,Compliance Auditor,Entry-level,Full-time,Hybrid,Medium,0.4391,36767.41,"SQL, Docker, Excel",7.6,Finance,Hybrid
+JOB_1647,Quantitative Trader,Mid-level,Full-time,Fully Remote,High,0.3408,43085.96,"AWS, SQL, PyTorch, Python",2.7,Finance,Fully Remote
+JOB_1648,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.6313,104247.1,"Prompt Engineering, PyTorch",1.8,Logistics,Fully Remote
+JOB_1649,Quantitative Trader,Entry-level,Full-time,Fully Remote,Medium,0.2737,96907.46,"Docker, AWS, RAG, LangGraph",4.6,Finance,Fully Remote
+JOB_1650,Warehouse Automation Specialist,Mid-level,Full-time,,Medium,0.547,94704.09,"Tableau, Excel, R",5.0,Logistics,Not Disclosed
+JOB_1652,Medical Scribe,Entry-level,Full-time,Hybrid,High,0.4792,49145.19,"R, RAG, LangGraph, Python",6.4,Healthcare,Hybrid
+JOB_1653,Compliance Auditor,Senior,Full-time,Hybrid,High,0.2225,167363.82,"PyTorch, Docker, R, Python",9.6,Finance,Hybrid
+JOB_1654,Support Agent,Entry-level,Full-time,Fully Remote,High,0.6116,67027.63,"Docker, AWS, PyTorch, Tableau, Python",5.4,Customer Operations,Fully Remote
+JOB_1655,Compliance Auditor,Lead/Executive,Full-time,Fully Remote,High,0.4002,222203.59,"Python, Tableau, SQL, Excel, PyTorch",7.8,Finance,Fully Remote
+JOB_1657,Quantitative Trader,Lead/Executive,Full-time,Fully Remote,Medium,0.3009,180670.46,"Prompt Engineering, AWS, PyTorch, RAG",8.9,Finance,Fully Remote
+JOB_1659,DevOps Engineer,Entry-level,Full-time,Fully Remote,High,0.1279,39005.31,"AWS, Tableau",5.6,Technology,Fully Remote
+JOB_1660,Bio-informatics Scientist,Entry-level,Full-time,Fully Remote,Medium,0.4792,74640.27,"PyTorch, Python, Excel, Tableau, AWS",8.4,Healthcare,Fully Remote
+JOB_1661,Risk Analyst,Entry-level,Full-time,Fully Remote,Medium,0.2219,95237.15,"R, LangGraph",1.4,Finance,Fully Remote
+JOB_1663,Quantitative Trader,Lead/Executive,Full-time,Hybrid,Medium,0.5123,142197.84,"Prompt Engineering, Excel, SQL, Docker, RAG",5.0,Finance,Hybrid
+JOB_1664,Fleet Coordinator,Lead/Executive,Full-time,Fully Remote,Low,0.4443,148571.41,"SQL, PyTorch, RAG",7.6,Logistics,Fully Remote
+JOB_1665,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.3737,88414.07,"AWS, Excel, LangGraph",4.1,Technology,Fully Remote
+JOB_1666,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.4657,65322.38,"Python, Tableau, Docker, LangGraph",8.8,Retail,Fully Remote
+JOB_1667,Compliance Auditor,Senior,Full-time,On-site,Medium,0.2028,175043.86,"AWS, Tableau",3.4,Finance,On-site
+JOB_1669,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.6316,93979.88,"R, Excel, LangGraph, Python",9.9,Logistics,Fully Remote
+JOB_1670,Online Tutor,Mid-level,Full-time,Fully Remote,Low,0.4542,88059.51,"R, SQL, AWS",5.3,Education,Fully Remote
+JOB_1671,Financial Advisor,Mid-level,Full-time,On-site,Medium,0.5011,114100.16,"Tableau, PyTorch, Docker, R",4.3,Finance,On-site
+JOB_1674,AI Governance Officer,Senior,Full-time,,Medium,0.265,137742.32,Not Disclosed,7.2,Finance,Not Disclosed
+JOB_1675,Radiology Assistant,Senior,Full-time,Fully Remote,Medium,0.4792,190478.88,"AWS, RAG, Excel, Docker, Prompt Engineering",7.5,Healthcare,Fully Remote
+JOB_1676,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,High,0.4354,89984.33,"Prompt Engineering, AWS",6.2,Healthcare,Fully Remote
+JOB_1677,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.4238,83438.86,"Prompt Engineering, LangGraph",6.6,Logistics,Fully Remote
+JOB_1678,Fleet Coordinator,Entry-level,Full-time,Fully Remote,Low,0.5309,50447.25,"LangGraph, RAG, SQL",3.2,Logistics,Fully Remote
+JOB_1679,Pricing Analyst,Mid-level,Full-time,On-site,Low,0.6842,101402.84,"Prompt Engineering, AWS, R, Excel",5.1,Retail,On-site
+JOB_1680,Risk Analyst,Lead/Executive,Full-time,Fully Remote,High,0.2882,170502.55,"SQL, RAG, R, Python",9.4,Finance,Fully Remote
+JOB_1681,Medical Scribe,Mid-level,Full-time,Fully Remote,High,0.3435,75247.6,"Prompt Engineering, R, LangGraph, PyTorch",2.0,Healthcare,Fully Remote
+JOB_1682,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.7229,87469.84,Not Disclosed,1.9,Education,Hybrid
+JOB_1683,AI Software Engineer,Mid-level,Full-time,Fully Remote,High,0.1662,103254.52,"AWS, SQL, LangGraph, R",7.2,Technology,Fully Remote
+JOB_1684,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.5054,73511.13,"SQL, Prompt Engineering, AWS, Python",10.0,Retail,Fully Remote
+JOB_1685,Online Tutor,Entry-level,Full-time,On-site,Low,0.7339,51594.17,"AWS, PyTorch",6.6,Education,On-site
+JOB_1686,Quantitative Trader,Senior,Full-time,Hybrid,High,0.3601,143516.41,"Prompt Engineering, Docker, AWS, Python, Tableau",1.7,Finance,Hybrid
+JOB_1687,Data Scientist,Senior,Full-time,On-site,High,0.4792,188603.28,Not Disclosed,5.9,Technology,On-site
+JOB_1688,Instructional Designer,Mid-level,Full-time,On-site,Low,0.6553,81864.5,"Python, LangGraph, SQL",1.2,Education,On-site
+JOB_1689,Prompt Engineer,Mid-level,Full-time,,High,0.1042,87982.29,"Python, Docker, Excel, SQL",1.4,Customer Operations,Not Disclosed
+JOB_1690,Supply Chain Planner,Entry-level,Full-time,On-site,Medium,0.7212,55007.24,"Prompt Engineering, Python",7.9,Logistics,On-site
+JOB_1691,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.7926,93302.77,"SQL, AWS",1.8,Retail,Hybrid
+JOB_1692,Radiology Assistant,Lead/Executive,Full-time,,Medium,0.2125,201765.53,"Python, Tableau",5.1,Healthcare,Not Disclosed
+JOB_1693,E-commerce Manager,Mid-level,Full-time,,Low,0.4403,58784.61,"Docker, PyTorch",1.0,Retail,Not Disclosed
+JOB_1694,DevOps Engineer,Senior,Full-time,Hybrid,High,0.1303,81074.04,Not Disclosed,1.9,Technology,Hybrid
+JOB_1695,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Medium,0.5733,98056.91,"Docker, R",2.1,Logistics,Hybrid
+JOB_1696,Radiology Assistant,Mid-level,Full-time,Hybrid,High,0.4325,43574.79,"SQL, Prompt Engineering",4.5,Healthcare,Hybrid
+JOB_1697,Bio-informatics Scientist,Senior,Full-time,Hybrid,Medium,0.5387,132019.86,"PyTorch, Excel, SQL",6.3,Healthcare,Hybrid
+JOB_1698,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Medium,0.6189,50447.25,"PyTorch, Prompt Engineering",2.0,Logistics,Fully Remote
+JOB_1699,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.3293,100714.98,"Docker, Prompt Engineering, PyTorch, LangGraph, R",1.7,Finance,Fully Remote
+JOB_1700,Bio-informatics Scientist,Senior,Full-time,Fully Remote,Medium,0.2738,75934.96,"Python, R",7.4,Healthcare,Fully Remote
+JOB_1701,Warehouse Automation Specialist,Entry-level,Full-time,Hybrid,Low,0.6537,48517.63,"Tableau, AWS, Prompt Engineering",6.3,Logistics,Hybrid
+JOB_1703,Prompt Engineer,Senior,Full-time,Fully Remote,High,0.275,113431.85,"AWS, Excel, PyTorch, Tableau",9.3,Customer Operations,Fully Remote
+JOB_1707,Radiology Assistant,Entry-level,Full-time,Fully Remote,High,0.5133,90402.94,"RAG, Python, LangGraph",1.2,Healthcare,Fully Remote
+JOB_1709,Clinical Data Analyst,Entry-level,Full-time,Hybrid,Medium,0.3205,106354.71,"AWS, LangGraph",9.0,Healthcare,Hybrid
+JOB_1710,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.27,63274.32,"Prompt Engineering, LangGraph",1.5,Customer Operations,Fully Remote
+JOB_1711,Clinical Data Analyst,Entry-level,Full-time,Hybrid,Medium,0.2683,91242.55,"Python, PyTorch, Prompt Engineering",7.5,Healthcare,Hybrid
+JOB_1712,Supply Chain Planner,Entry-level,Full-time,,Low,0.5085,46151.31,"Tableau, LangGraph, Excel, Prompt Engineering, SQL",6.8,Logistics,Not Disclosed
+JOB_1713,AI Governance Officer,Lead/Executive,Full-time,Fully Remote,High,0.4792,167892.65,"Tableau, PyTorch, Prompt Engineering, LangGraph, AWS",7.3,Finance,Fully Remote
+JOB_1715,E-commerce Manager,Mid-level,Full-time,Fully Remote,Medium,0.4472,53052.88,"R, Docker, Prompt Engineering, AWS, Python",4.3,Retail,Fully Remote
+JOB_1716,Instructional Designer,Mid-level,Full-time,Hybrid,Medium,0.4792,60385.41,"Excel, Docker, Prompt Engineering",9.6,Education,Hybrid
+JOB_1717,Quantitative Trader,Mid-level,Full-time,Hybrid,Medium,0.2016,101764.63,"Excel, Docker, RAG, PyTorch",4.4,Finance,Hybrid
+JOB_1718,Operations Analyst,Senior,Full-time,Hybrid,High,0.36,124143.67,"Tableau, Docker, PyTorch, AWS, SQL",4.7,Customer Operations,Hybrid
+JOB_1719,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.1258,72019.75,"LangGraph, Tableau, PyTorch, AWS",3.6,Technology,Hybrid
+JOB_1720,Radiology Assistant,Mid-level,Full-time,Fully Remote,Medium,0.567,107828.07,"Python, Prompt Engineering",9.8,Healthcare,Fully Remote
+JOB_1721,Radiology Assistant,Mid-level,Full-time,On-site,Medium,0.3212,140784.26,"Docker, R, Prompt Engineering",7.0,Healthcare,On-site
+JOB_1722,Instructional Designer,Senior,Full-time,Hybrid,Medium,0.7488,135234.29,"Prompt Engineering, PyTorch, Docker, LangGraph",8.4,Education,Hybrid
+JOB_1723,Radiology Assistant,Senior,Full-time,Hybrid,Medium,0.4275,213172.42,"Tableau, LangGraph, Excel",5.8,Healthcare,Hybrid
+JOB_1724,Quantitative Trader,Senior,Full-time,Hybrid,High,0.4871,189411.58,"R, SQL, AWS",3.8,Finance,Hybrid
+JOB_1725,Radiology Assistant,Mid-level,Full-time,Hybrid,High,0.3529,73679.51,"Excel, SQL, Prompt Engineering, LangGraph",1.1,Healthcare,Hybrid
+JOB_1727,Supply Chain Planner,Mid-level,Full-time,Hybrid,Low,0.6456,51750.58,"Docker, RAG, Python",5.0,Logistics,Hybrid
+JOB_1728,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.3614,103254.52,Not Disclosed,7.7,Technology,Hybrid
+JOB_1730,Prompt Engineer,Entry-level,Full-time,Fully Remote,High,0.394,79278.18,"Excel, Tableau, Python, LangGraph, SQL",1.1,Customer Operations,Fully Remote
+JOB_1731,Clinical Data Analyst,Lead/Executive,Full-time,Fully Remote,Medium,0.582,224410.94,"SQL, AWS",7.1,Healthcare,Fully Remote
+JOB_1732,Support Agent,Mid-level,Full-time,Fully Remote,High,0.7644,135541.73,"LangGraph, RAG, R, Docker",5.5,Customer Operations,Fully Remote
+JOB_1734,Fleet Coordinator,Entry-level,Full-time,Hybrid,Medium,0.8004,57124.09,"Tableau, Docker, AWS, Excel",9.0,Logistics,Hybrid
+JOB_1735,Instructional Designer,Mid-level,Full-time,On-site,Low,0.7749,118098.51,"Tableau, R, Excel, AWS, LangGraph",4.7,Education,On-site
+JOB_1736,Bio-informatics Scientist,Senior,Full-time,On-site,Medium,0.3993,121599.72,"SQL, AWS",5.9,Healthcare,On-site
+JOB_1737,E-commerce Manager,Entry-level,Full-time,On-site,Low,0.6352,26446.61,"Excel, LangGraph, R",5.6,Retail,On-site
+JOB_1738,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.357,64592.41,"Excel, Docker, Python, LangGraph, R",8.0,Technology,Fully Remote
+JOB_1739,Instructional Designer,Mid-level,Full-time,Fully Remote,Medium,0.4618,67099.19,"PyTorch, Python, Tableau, Docker, R",4.9,Education,Fully Remote
+JOB_1741,Inventory Coordinator,Senior,Full-time,Fully Remote,Medium,0.7934,103836.25,Not Disclosed,1.2,Retail,Fully Remote
+JOB_1742,Radiology Assistant,Mid-level,Full-time,,Medium,0.5875,87936.53,"Prompt Engineering, Excel, Tableau",1.4,Healthcare,Not Disclosed
+JOB_1743,Risk Analyst,Senior,Full-time,Hybrid,High,0.225,147422.49,"AWS, R, RAG, PyTorch",1.4,Finance,Hybrid
+JOB_1744,Risk Analyst,Lead/Executive,Full-time,Hybrid,High,0.3072,147889.93,"Excel, PyTorch, RAG, AWS, SQL",7.5,Finance,Hybrid
+JOB_1745,AI Governance Officer,Mid-level,Full-time,On-site,High,0.5699,112042.17,"Prompt Engineering, Python, R, RAG, Docker",5.9,Finance,On-site
+JOB_1746,Support Agent,Entry-level,Full-time,Hybrid,High,0.7259,63680.47,"SQL, Python, RAG, Docker, R",9.6,Customer Operations,Hybrid
+JOB_1747,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,Medium,0.4824,69944.21,"R, LangGraph",9.7,Healthcare,Fully Remote
+JOB_1748,Fleet Coordinator,Entry-level,Full-time,Fully Remote,Medium,0.4905,48159.58,"SQL, PyTorch, Python, LangGraph, Tableau",6.9,Logistics,Fully Remote
+JOB_1749,Prompt Engineer,Lead/Executive,Full-time,Fully Remote,High,0.2047,124796.74,"AWS, Excel, Python, R, RAG",8.0,Customer Operations,Fully Remote
+JOB_1750,Customer Success Manager,Lead/Executive,Full-time,Hybrid,High,0.1699,169303.26,"AWS, Python, RAG, Docker",7.6,Customer Operations,Hybrid
+JOB_1751,Operations Analyst,Lead/Executive,Full-time,On-site,High,0.3028,177784.0,Not Disclosed,1.2,Customer Operations,On-site
+JOB_1752,Clinical Data Analyst,Mid-level,Full-time,,Medium,0.5607,106271.43,"Prompt Engineering, Tableau",1.6,Healthcare,Not Disclosed
+JOB_1753,AI Governance Officer,Mid-level,Full-time,On-site,Medium,0.4792,103658.47,"Prompt Engineering, Tableau",1.8,Finance,On-site
+JOB_1754,Curriculum Designer,Entry-level,Full-time,Fully Remote,Low,0.5503,78598.74,Not Disclosed,1.2,Education,Fully Remote
+JOB_1755,Online Tutor,Mid-level,Full-time,Fully Remote,Low,0.7966,86704.0,"PyTorch, SQL",2.7,Education,Fully Remote
+JOB_1756,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.6521,51571.42,"SQL, Prompt Engineering, PyTorch, LangGraph, R",5.1,Education,Fully Remote
+JOB_1757,Support Agent,Mid-level,Full-time,Hybrid,High,0.922,52939.63,"RAG, Prompt Engineering, Tableau, Excel, PyTorch",9.3,Customer Operations,Hybrid
+JOB_1758,Bio-informatics Scientist,Senior,Full-time,On-site,High,0.4007,70518.94,"Docker, SQL",2.7,Healthcare,On-site
+JOB_1759,Bio-informatics Scientist,Senior,Full-time,Fully Remote,Medium,0.5418,118168.23,"Excel, Docker, AWS, LangGraph, R",9.2,Healthcare,Fully Remote
+JOB_1760,Prompt Engineer,Entry-level,Full-time,On-site,High,0.2339,67117.32,"LangGraph, Tableau",5.7,Customer Operations,On-site
+JOB_1761,Quantitative Trader,Senior,Full-time,Hybrid,High,0.3233,151561.78,"R, SQL, Python",6.4,Finance,Hybrid
+JOB_1762,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.6656,50815.71,"SQL, Docker, RAG",4.7,Logistics,Hybrid
+JOB_1763,Inventory Coordinator,Mid-level,Full-time,Hybrid,Low,0.7635,68750.45,"Docker, Prompt Engineering, AWS",7.7,Retail,Hybrid
+JOB_1765,Customer Success Manager,Senior,Full-time,Hybrid,High,0.2484,101104.64,"PyTorch, SQL, AWS, Docker",5.5,Customer Operations,Hybrid
+JOB_1766,Warehouse Automation Specialist,Mid-level,Full-time,On-site,Low,0.4891,38389.07,"R, Excel, SQL, Python, Prompt Engineering",4.8,Logistics,On-site
+JOB_1767,Quantitative Trader,Mid-level,Full-time,Hybrid,Medium,0.5233,68558.45,"LangGraph, RAG",9.0,Finance,Hybrid
+JOB_1770,Clinical Data Analyst,Entry-level,Full-time,Hybrid,Medium,0.3604,91808.22,Not Disclosed,8.1,Healthcare,Hybrid
+JOB_1771,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.7238,54099.86,"Excel, Python",8.3,Retail,Fully Remote
+JOB_1772,Risk Analyst,Lead/Executive,Full-time,Hybrid,Medium,0.3211,254459.97,"LangGraph, RAG",3.2,Finance,Hybrid
+JOB_1773,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.2316,56301.41,"PyTorch, Docker, SQL",8.7,Customer Operations,Hybrid
+JOB_1774,Data Scientist,Senior,Full-time,Fully Remote,High,0.2406,200221.33,"Tableau, PyTorch, LangGraph",4.8,Technology,Fully Remote
+JOB_1775,AI Software Engineer,Senior,Full-time,Fully Remote,High,0.2649,176177.78,Not Disclosed,5.1,Technology,Fully Remote
+JOB_1777,DevOps Engineer,Entry-level,Full-time,On-site,High,0.3175,61233.94,"SQL, Prompt Engineering, Excel, Python, AWS",3.7,Technology,On-site
+JOB_1779,Instructional Designer,Senior,Full-time,On-site,Medium,0.5045,106688.63,"RAG, R, Docker",3.6,Education,On-site
+JOB_1780,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Medium,0.4706,56005.98,"Excel, Python",5.5,Logistics,Hybrid
+JOB_1781,Prompt Engineer,Senior,Full-time,On-site,High,0.3816,128442.74,"R, Tableau, AWS, Prompt Engineering, SQL",6.1,Customer Operations,On-site
+JOB_1782,Curriculum Designer,Lead/Executive,Full-time,Fully Remote,Low,0.4792,100690.43,"Excel, Prompt Engineering",1.9,Education,Fully Remote
+JOB_1783,AI Software Engineer,Mid-level,Full-time,Fully Remote,High,0.1658,103555.0,"Docker, R, PyTorch, RAG",8.1,Technology,Fully Remote
+JOB_1784,LLMOps Architect,Entry-level,Full-time,Fully Remote,High,0.1949,63436.42,"SQL, RAG, Tableau",9.4,Technology,Fully Remote
+JOB_1786,Quantitative Trader,Lead/Executive,Full-time,On-site,Medium,0.5412,106710.84,"Tableau, PyTorch",2.4,Finance,On-site
+JOB_1787,Instructional Designer,Entry-level,Full-time,Fully Remote,Medium,0.8116,37042.95,"Docker, PyTorch, R",7.7,Education,Fully Remote
+JOB_1788,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.6284,94155.43,"Excel, R, SQL, Prompt Engineering",9.2,Retail,Hybrid
+JOB_1789,Fleet Coordinator,Lead/Executive,Full-time,Fully Remote,Low,0.5238,118443.88,"Python, Tableau, AWS, Excel, Docker",4.3,Logistics,Fully Remote
+JOB_1791,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.1986,82053.53,"Docker, AWS, Prompt Engineering, R, Python",2.7,Technology,Fully Remote
+JOB_1792,Pricing Analyst,Lead/Executive,Full-time,,Low,0.5448,148421.51,"Python, SQL, Excel",2.0,Retail,Not Disclosed
+JOB_1793,Data Scientist,Lead/Executive,Full-time,Hybrid,High,0.3702,210237.19,"Prompt Engineering, SQL, Excel, Docker",7.8,Technology,Hybrid
+JOB_1794,AI Software Engineer,Senior,Full-time,Hybrid,High,0.2588,236348.12,"Python, Tableau, Docker, Prompt Engineering, AWS",6.8,Technology,Hybrid
+JOB_1795,Radiology Assistant,Mid-level,Full-time,Fully Remote,High,0.5406,103873.42,"SQL, Prompt Engineering",1.6,Healthcare,Fully Remote
+JOB_1796,Radiology Assistant,Mid-level,Full-time,Fully Remote,Medium,0.3517,116456.62,"LangGraph, RAG, Prompt Engineering, PyTorch, Excel",8.8,Healthcare,Fully Remote
+JOB_1798,Quantitative Trader,Senior,Full-time,Fully Remote,Medium,0.579,68342.16,Not Disclosed,7.8,Finance,Fully Remote
+JOB_1799,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.4326,70159.51,"Tableau, AWS, PyTorch, SQL, RAG",2.2,Logistics,Hybrid
+JOB_1801,Bio-informatics Scientist,Lead/Executive,Full-time,Fully Remote,Medium,0.3276,185990.49,"SQL, Excel, Tableau, LangGraph, RAG",6.8,Healthcare,Fully Remote
+JOB_1802,Instructional Designer,Senior,Full-time,On-site,Medium,0.5864,146627.57,"R, AWS, LangGraph, RAG, Python",4.9,Education,On-site
+JOB_1804,AI Software Engineer,Senior,Full-time,On-site,High,0.1121,151681.75,Not Disclosed,3.2,Technology,On-site
+JOB_1805,Inventory Coordinator,Lead/Executive,Full-time,,Low,0.4792,163506.93,"Excel, AWS",8.4,Retail,Not Disclosed
+JOB_1806,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.2106,101935.69,"Excel, Docker, PyTorch, Tableau",1.0,Technology,Fully Remote
+JOB_1807,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.3418,121079.18,"Excel, RAG, LangGraph",7.4,Customer Operations,Fully Remote
+JOB_1808,Bio-informatics Scientist,Mid-level,Full-time,On-site,Medium,0.5577,132507.54,"AWS, Excel, PyTorch, Docker",8.1,Healthcare,On-site
+JOB_1809,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.4013,38808.47,"Excel, Tableau",3.6,Education,Hybrid
+JOB_1810,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.3508,82695.18,"R, AWS, LangGraph, Excel, Prompt Engineering",3.4,Customer Operations,Fully Remote
+JOB_1811,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Medium,0.4352,44918.94,"Tableau, Docker, Excel, SQL, R",1.2,Logistics,Fully Remote
+JOB_1812,LLMOps Architect,Mid-level,Full-time,On-site,High,0.2582,124269.59,"LangGraph, RAG, Prompt Engineering",9.0,Technology,On-site
+JOB_1813,Risk Analyst,Mid-level,Full-time,Hybrid,Medium,0.3135,133253.45,"PyTorch, Prompt Engineering",2.2,Finance,Hybrid
+JOB_1814,Online Tutor,Mid-level,Full-time,Hybrid,Low,0.4792,57361.34,"Python, AWS, LangGraph, RAG",3.0,Education,Hybrid
+JOB_1815,Supply Chain Planner,Entry-level,Full-time,On-site,Medium,0.657,25849.14,"Tableau, SQL, Docker, AWS, RAG",7.9,Logistics,On-site
+JOB_1816,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.6943,30962.89,"R, Tableau, LangGraph, RAG, Excel",5.3,Education,Hybrid
+JOB_1817,Support Agent,Senior,Full-time,Fully Remote,High,0.8074,118975.47,"PyTorch, Docker, RAG",6.9,Customer Operations,Fully Remote
+JOB_1819,Fleet Coordinator,Entry-level,Full-time,Fully Remote,Low,0.7098,37337.12,"RAG, AWS",9.2,Logistics,Fully Remote
+JOB_1820,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.2716,110772.12,"RAG, Docker, Prompt Engineering",7.9,Customer Operations,Hybrid
+JOB_1821,E-commerce Manager,Mid-level,Full-time,Fully Remote,Medium,0.8102,76676.85,"Prompt Engineering, Docker, R",2.5,Retail,Fully Remote
+JOB_1823,Data Scientist,Entry-level,Full-time,On-site,High,0.2517,100405.44,"SQL, LangGraph, Excel, PyTorch, Prompt Engineering",7.9,Technology,On-site
+JOB_1825,Customer Success Manager,Mid-level,Full-time,,High,0.2499,116372.36,"Docker, SQL, Python, RAG, PyTorch",1.5,Customer Operations,Not Disclosed
+JOB_1826,Medical Scribe,Mid-level,Full-time,Fully Remote,High,0.5271,107464.33,"LangGraph, Prompt Engineering, RAG, R, AWS",5.3,Healthcare,Fully Remote
+JOB_1827,Customer Success Manager,Entry-level,Full-time,Fully Remote,High,0.4792,51394.51,"Excel, Docker, AWS, PyTorch, Prompt Engineering",2.2,Customer Operations,Fully Remote
+JOB_1828,Bio-informatics Scientist,Lead/Executive,Full-time,Hybrid,Medium,0.2703,164753.69,"Python, AWS, SQL, Tableau",5.4,Healthcare,Hybrid
+JOB_1829,E-commerce Manager,Senior,Full-time,Hybrid,Low,0.459,85902.87,"Docker, SQL, RAG, PyTorch, AWS",3.4,Retail,Hybrid
+JOB_1830,Radiology Assistant,Mid-level,Full-time,On-site,Medium,0.566,107464.33,"Tableau, Excel, AWS, LangGraph",4.4,Healthcare,On-site
+JOB_1831,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.259,105720.86,"Prompt Engineering, AWS, Excel, RAG",2.0,Finance,Fully Remote
+JOB_1832,DevOps Engineer,Lead/Executive,Full-time,Hybrid,High,0.392,205100.42,"SQL, AWS, RAG, Excel, Python",9.7,Technology,Hybrid
+JOB_1833,AI Software Engineer,Entry-level,Full-time,On-site,High,0.227,43789.21,"Tableau, Python",7.9,Technology,On-site
+JOB_1835,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.616,63055.76,"R, SQL",8.3,Education,Hybrid
+JOB_1837,Data Scientist,Mid-level,Full-time,Hybrid,High,0.2226,126826.45,"PyTorch, Excel, Prompt Engineering, Docker",1.7,Technology,Hybrid
+JOB_1838,Online Tutor,Entry-level,Full-time,,Low,0.5443,49940.49,"AWS, LangGraph, Docker, PyTorch, SQL",1.6,Education,Not Disclosed
+JOB_1839,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.2818,96668.18,"R, Docker, RAG",1.9,Technology,Hybrid
+JOB_1840,Support Agent,Lead/Executive,Full-time,Hybrid,High,0.8998,85895.71,"Python, RAG, LangGraph",2.0,Customer Operations,Hybrid
+JOB_1841,LLMOps Architect,Mid-level,Full-time,On-site,High,0.1476,142015.88,"AWS, RAG",9.7,Technology,On-site
+JOB_1842,LLMOps Architect,Senior,Full-time,Fully Remote,High,0.3663,151245.0,"Docker, R, Python",2.4,Technology,Fully Remote
+JOB_1843,Risk Analyst,Entry-level,Full-time,Fully Remote,Medium,0.5957,88137.43,"LangGraph, R, Tableau",2.1,Finance,Fully Remote
+JOB_1844,DevOps Engineer,Entry-level,Full-time,Hybrid,High,0.3109,67568.63,"SQL, RAG, R",6.2,Technology,Hybrid
+JOB_1847,Synthetic Data Specialist,Entry-level,Full-time,On-site,High,0.1988,71929.2,"R, AWS, Prompt Engineering, Excel, Tableau",2.5,Technology,On-site
+JOB_1848,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.7225,71148.8,"Docker, RAG, R, SQL, PyTorch",5.9,Logistics,Hybrid
+JOB_1849,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Low,0.6606,50447.25,"Excel, AWS, PyTorch, Tableau, RAG",7.2,Logistics,Fully Remote
+JOB_1850,Financial Advisor,Mid-level,Full-time,,Medium,0.3052,105720.86,"RAG, SQL, PyTorch, Excel",1.8,Finance,Not Disclosed
+JOB_1851,Warehouse Automation Specialist,Mid-level,Full-time,On-site,Low,0.7093,56162.93,"SQL, LangGraph",9.1,Logistics,On-site
+JOB_1852,Bio-informatics Scientist,Senior,Full-time,Hybrid,Medium,0.2733,204496.89,Not Disclosed,2.5,Healthcare,Hybrid
+JOB_1853,Medical Scribe,Mid-level,Full-time,Fully Remote,Medium,0.4762,107464.33,"PyTorch, Prompt Engineering, Docker",5.5,Healthcare,Fully Remote
+JOB_1854,Radiology Assistant,Mid-level,Full-time,Hybrid,Medium,0.2285,105896.05,"Docker, RAG",8.4,Healthcare,Hybrid
+JOB_1856,Financial Advisor,Mid-level,Full-time,Hybrid,Medium,0.2402,142470.62,"PyTorch, AWS, Prompt Engineering",2.9,Finance,Hybrid
+JOB_1857,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Medium,0.4948,34026.55,"R, PyTorch",1.3,Logistics,Fully Remote
+JOB_1858,Warehouse Automation Specialist,Senior,Full-time,Hybrid,Medium,0.83,115174.61,"Prompt Engineering, PyTorch, AWS, Tableau, SQL",6.9,Logistics,Hybrid
+JOB_1859,Clinical Data Analyst,Senior,Full-time,Fully Remote,Medium,0.4416,166943.63,"PyTorch, Excel, AWS, Python",3.6,Healthcare,Fully Remote
+JOB_1861,DevOps Engineer,Senior,Full-time,Hybrid,High,0.2002,124480.08,"AWS, PyTorch, LangGraph",3.8,Technology,Hybrid
+JOB_1862,Curriculum Designer,Entry-level,Full-time,Hybrid,Medium,0.4631,46183.18,"Docker, Prompt Engineering, RAG, AWS, LangGraph",2.2,Education,Hybrid
+JOB_1863,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.3036,90394.04,"R, AWS",9.6,Customer Operations,Fully Remote
+JOB_1864,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.6563,86626.03,"Docker, AWS, RAG",9.7,Logistics,Fully Remote
+JOB_1865,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.3044,68019.1,"PyTorch, SQL, Python, LangGraph, R",6.5,Technology,Fully Remote
+JOB_1866,DevOps Engineer,Mid-level,Full-time,Hybrid,High,0.3885,88639.54,"Python, Tableau, LangGraph",3.2,Technology,Hybrid
+JOB_1867,Risk Analyst,Senior,Full-time,Fully Remote,Medium,0.4241,212043.28,"Prompt Engineering, Tableau, PyTorch",8.1,Finance,Fully Remote
+JOB_1868,Risk Analyst,Entry-level,Full-time,Hybrid,Medium,0.3089,93046.27,"AWS, RAG",8.6,Finance,Hybrid
+JOB_1869,Fleet Coordinator,Senior,Full-time,Hybrid,Medium,0.5316,91991.44,"AWS, Prompt Engineering, RAG, SQL",6.3,Logistics,Hybrid
+JOB_1870,Risk Analyst,Lead/Executive,Full-time,,High,0.301,214075.61,Not Disclosed,5.5,Finance,Not Disclosed
+JOB_1871,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.2524,107162.78,"Prompt Engineering, Excel, R",8.4,Technology,Fully Remote
+JOB_1872,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.5767,93009.2,"Python, AWS, Prompt Engineering, LangGraph, RAG",1.3,Retail,Fully Remote
+JOB_1873,Radiology Assistant,Entry-level,Full-time,Fully Remote,High,0.2033,62223.15,"SQL, LangGraph, Tableau, Python",9.4,Healthcare,Fully Remote
+JOB_1874,Radiology Assistant,Mid-level,Full-time,Hybrid,Medium,0.488,145711.11,"AWS, Tableau",4.8,Healthcare,Hybrid
+JOB_1875,Compliance Auditor,Senior,Full-time,Fully Remote,Medium,0.536,189755.6,"Excel, SQL, AWS",10.0,Finance,Fully Remote
+JOB_1878,Bio-informatics Scientist,Senior,Full-time,On-site,Medium,0.2981,71241.72,"RAG, Docker, PyTorch, Prompt Engineering, R",9.7,Healthcare,On-site
+JOB_1879,Supply Chain Planner,Mid-level,Full-time,Hybrid,Low,0.7065,65128.82,"LangGraph, R",5.0,Logistics,Hybrid
+JOB_1880,Compliance Auditor,Mid-level,Full-time,Hybrid,High,0.3302,106676.26,"Python, RAG, Excel, Tableau",6.0,Finance,Hybrid
+JOB_1882,Support Agent,Senior,Full-time,Hybrid,High,0.6253,137393.16,"PyTorch, Excel, Tableau, Prompt Engineering, AWS",2.0,Customer Operations,Hybrid
+JOB_1883,Curriculum Designer,Mid-level,Full-time,Hybrid,Medium,0.7788,88110.21,"Tableau, Prompt Engineering, SQL",4.2,Education,Hybrid
+JOB_1884,Data Scientist,Mid-level,Full-time,Hybrid,High,0.3613,154598.01,"PyTorch, Docker, Python",9.8,Technology,Hybrid
+JOB_1885,Financial Advisor,Entry-level,Full-time,Hybrid,High,0.2294,58007.34,"Tableau, PyTorch, RAG, LangGraph",2.6,Finance,Hybrid
+JOB_1886,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.2498,74564.51,Not Disclosed,8.5,Customer Operations,Hybrid
+JOB_1888,Support Agent,Entry-level,Full-time,On-site,High,0.8628,41124.61,"Docker, AWS, SQL, Prompt Engineering, LangGraph",4.1,Customer Operations,On-site
+JOB_1889,Pricing Analyst,Entry-level,Full-time,Hybrid,Low,0.565,64388.89,"Prompt Engineering, Tableau, Excel",6.2,Retail,Hybrid
+JOB_1890,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.6879,47284.08,"AWS, R, Excel, Python, Docker",7.7,Education,Hybrid
+JOB_1891,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.8202,64156.46,"SQL, AWS, Excel, R, Docker",2.6,Logistics,Fully Remote
+JOB_1892,Radiology Assistant,Mid-level,Full-time,Fully Remote,High,0.4255,163093.31,"Prompt Engineering, Docker, LangGraph, RAG, AWS",6.4,Healthcare,Fully Remote
+JOB_1894,DevOps Engineer,Senior,Full-time,Hybrid,High,0.1385,80060.74,"Tableau, Excel, R",9.7,Technology,Hybrid
+JOB_1895,Quantitative Trader,Senior,Full-time,Hybrid,Medium,0.3566,130146.09,"Excel, Prompt Engineering",9.8,Finance,Hybrid
+JOB_1896,AI Governance Officer,Mid-level,Full-time,Hybrid,Medium,0.4835,85934.02,"RAG, PyTorch, AWS, Excel",7.7,Finance,Hybrid
+JOB_1897,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.6846,54351.13,"R, Python, RAG, SQL, Excel",1.1,Logistics,Fully Remote
+JOB_1898,Instructional Designer,Lead/Executive,Full-time,On-site,Low,0.7055,82475.96,"AWS, Python, SQL",6.9,Education,On-site
+JOB_1899,Support Agent,Entry-level,Full-time,On-site,High,0.6576,49758.57,"PyTorch, AWS, RAG",3.4,Customer Operations,On-site
+JOB_1901,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.5631,83072.74,"R, Tableau, PyTorch",9.5,Education,Hybrid
+JOB_1902,Fleet Coordinator,Senior,Full-time,Fully Remote,Low,0.5853,92414.2,"Tableau, SQL, Excel, R",2.7,Logistics,Fully Remote
+JOB_1903,Support Agent,Senior,Full-time,Fully Remote,High,0.6439,167699.9,"SQL, Excel, PyTorch",8.9,Customer Operations,Fully Remote
+JOB_1904,Online Tutor,Mid-level,Full-time,Hybrid,Low,0.5724,78508.33,"Python, Docker, Tableau, LangGraph",2.2,Education,Hybrid
+JOB_1905,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.4533,61070.1,"Docker, SQL, RAG",6.8,Education,Hybrid
+JOB_1907,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.2732,80421.71,"PyTorch, RAG, LangGraph, AWS, Python",4.2,Finance,Fully Remote
+JOB_1909,DevOps Engineer,Mid-level,Full-time,Hybrid,High,0.1281,127349.24,"PyTorch, AWS, SQL, LangGraph",1.9,Technology,Hybrid
+JOB_1910,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.5801,101547.03,"Docker, SQL, RAG, Prompt Engineering, PyTorch",7.4,Retail,Fully Remote
+JOB_1913,Clinical Data Analyst,Mid-level,Full-time,Hybrid,High,0.5076,148533.11,"SQL, Prompt Engineering",2.0,Healthcare,Hybrid
+JOB_1914,Customer Success Manager,Senior,Full-time,Hybrid,High,0.1535,139291.76,"RAG, Python, PyTorch, AWS",1.9,Customer Operations,Hybrid
+JOB_1915,Customer Success Manager,Entry-level,Full-time,Fully Remote,High,0.3932,52697.68,"Excel, LangGraph",2.1,Customer Operations,Fully Remote
+JOB_1916,Curriculum Designer,Entry-level,Full-time,Fully Remote,Low,0.5636,57629.65,"R, PyTorch",9.1,Education,Fully Remote
+JOB_1919,Prompt Engineer,Entry-level,Full-time,Fully Remote,High,0.1825,48431.18,"SQL, RAG, Docker",9.4,Customer Operations,Fully Remote
+JOB_1920,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.4162,70693.32,"Excel, Docker",7.6,Logistics,Fully Remote
+JOB_1921,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.4989,87073.39,Not Disclosed,3.9,Education,Fully Remote
+JOB_1922,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.7091,78625.29,"Tableau, SQL, LangGraph",3.5,Logistics,Hybrid
+JOB_1923,Radiology Assistant,Mid-level,Full-time,Hybrid,High,0.3214,132998.2,"Prompt Engineering, RAG",9.3,Healthcare,Hybrid
+JOB_1924,DevOps Engineer,Entry-level,Full-time,Fully Remote,High,0.3081,85459.12,"RAG, R, Tableau",4.6,Technology,Fully Remote
+JOB_1925,Quantitative Trader,Mid-level,Full-time,Fully Remote,Medium,0.3346,86410.88,"Python, Tableau",3.1,Finance,Fully Remote
+JOB_1927,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Medium,0.6401,32859.35,"RAG, Prompt Engineering",3.4,Logistics,Fully Remote
+JOB_1928,Quantitative Trader,Mid-level,Full-time,Hybrid,Medium,0.483,139200.98,"LangGraph, Docker, Tableau",2.6,Finance,Hybrid
+JOB_1929,Supply Chain Planner,Mid-level,Full-time,On-site,Low,0.5951,86230.13,"R, Python",9.7,Logistics,On-site
+JOB_1930,AI Software Engineer,Mid-level,Full-time,Fully Remote,High,0.2347,81678.16,"LangGraph, AWS, Docker",1.6,Technology,Fully Remote
+JOB_1931,Online Tutor,Lead/Executive,Full-time,Hybrid,Medium,0.6398,185674.29,"SQL, LangGraph",3.8,Education,Hybrid
+JOB_1932,DevOps Engineer,Senior,Full-time,Fully Remote,High,0.3049,132184.86,"AWS, RAG, SQL",3.1,Technology,Fully Remote
+JOB_1933,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.4605,77540.8,"Prompt Engineering, Python, Excel, R",1.7,Retail,Fully Remote
+JOB_1934,Warehouse Automation Specialist,Lead/Executive,Full-time,Fully Remote,Medium,0.7433,142658.23,"PyTorch, Docker, RAG",2.8,Logistics,Fully Remote
+JOB_1935,Financial Advisor,Lead/Executive,Full-time,Hybrid,Medium,0.3221,180670.46,"Excel, Prompt Engineering",5.3,Finance,Hybrid
+JOB_1936,Operations Analyst,Lead/Executive,Full-time,Fully Remote,High,0.348,197911.51,"R, PyTorch",2.1,Customer Operations,Fully Remote
+JOB_1937,DevOps Engineer,Lead/Executive,Full-time,Fully Remote,High,0.4792,167510.38,"AWS, SQL",1.3,Technology,Fully Remote
+JOB_1938,Risk Analyst,Mid-level,Full-time,Hybrid,Medium,0.5162,105720.86,"Python, RAG",5.9,Finance,Hybrid
+JOB_1939,Quantitative Trader,Senior,Full-time,Fully Remote,Medium,0.4205,116943.88,"SQL, Python, Tableau",3.7,Finance,Fully Remote
+JOB_1940,Clinical Data Analyst,Senior,Full-time,Fully Remote,High,0.2787,148333.6,"LangGraph, Python, RAG",4.6,Healthcare,Fully Remote
+JOB_1941,Bio-informatics Scientist,Entry-level,Full-time,Hybrid,High,0.5751,108169.54,"Docker, Prompt Engineering, Tableau",1.5,Healthcare,Hybrid
+JOB_1942,Medical Scribe,Mid-level,Full-time,Fully Remote,High,0.521,53009.89,"R, Prompt Engineering, Docker",9.8,Healthcare,Fully Remote
+JOB_1943,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.3605,121793.41,"Docker, R, SQL, PyTorch",1.6,Technology,Fully Remote
+JOB_1944,Warehouse Automation Specialist,Senior,Full-time,Fully Remote,Low,0.8213,46507.12,"Tableau, SQL",7.3,Logistics,Fully Remote
+JOB_1945,Quantitative Trader,Mid-level,Full-time,Fully Remote,High,0.3158,105720.86,"Tableau, SQL, Prompt Engineering, LangGraph",7.2,Finance,Fully Remote
+JOB_1947,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.2673,88167.38,"RAG, SQL, Tableau, Docker, Excel",2.0,Customer Operations,Fully Remote
+JOB_1949,AI Governance Officer,Mid-level,Full-time,Hybrid,Medium,0.2812,89902.38,"SQL, Docker",3.9,Finance,Hybrid
+JOB_1950,E-commerce Manager,Entry-level,Full-time,Hybrid,Low,0.4687,60418.01,"SQL, AWS",5.1,Retail,Hybrid
+JOB_1951,Curriculum Designer,Senior,Full-time,Hybrid,Low,0.5758,129969.93,"RAG, R, Python, Tableau, Excel",9.8,Education,Hybrid
+JOB_1952,Quantitative Trader,Senior,Full-time,Fully Remote,High,0.3007,145297.77,"R, PyTorch, SQL, Python, Excel",5.5,Finance,Fully Remote
+JOB_1955,AI Software Engineer,Mid-level,Full-time,On-site,High,0.3621,136220.46,"Excel, Prompt Engineering, RAG",8.2,Technology,On-site
+JOB_1956,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Low,0.8362,43495.44,"Tableau, PyTorch",8.5,Logistics,Fully Remote
+JOB_1958,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.552,80040.82,"SQL, Python, Excel",6.8,Education,Fully Remote
+JOB_1960,Curriculum Designer,Lead/Executive,Full-time,Fully Remote,Low,0.4293,123222.15,"Tableau, RAG, SQL, AWS, LangGraph",9.1,Education,Fully Remote
+JOB_1961,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.6548,77188.42,"Prompt Engineering, Excel, Python, AWS, Docker",9.5,Education,Fully Remote
+JOB_1962,Bio-informatics Scientist,Lead/Executive,Full-time,Hybrid,High,0.4218,180216.84,"RAG, PyTorch, Excel, R",1.4,Healthcare,Hybrid
+JOB_1963,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.7754,51223.94,"Tableau, SQL",2.8,Retail,Fully Remote
+JOB_1964,Inventory Coordinator,Entry-level,Full-time,Hybrid,Low,0.4713,45381.5,"RAG, SQL, LangGraph",6.6,Retail,Hybrid
+JOB_1965,Customer Success Manager,Mid-level,Full-time,On-site,High,0.3589,94900.77,"Prompt Engineering, Python, RAG, R",2.4,Customer Operations,On-site
+JOB_1966,Operations Analyst,Entry-level,Full-time,Hybrid,High,0.2742,43663.93,"LangGraph, Python, AWS, Excel",2.4,Customer Operations,Hybrid
+JOB_1967,Medical Scribe,Mid-level,Full-time,Hybrid,Medium,0.5319,98367.15,"Docker, PyTorch, RAG",9.8,Healthcare,Hybrid
+JOB_1968,Supply Chain Planner,Entry-level,Full-time,On-site,Medium,0.8363,40308.95,"Python, Prompt Engineering, Docker, LangGraph, PyTorch",6.3,Logistics,On-site
+JOB_1970,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.571,81577.1,"Tableau, SQL, Excel, RAG",7.9,Logistics,Fully Remote
+JOB_1972,AI Governance Officer,Mid-level,Full-time,Fully Remote,High,0.2006,109373.92,"Prompt Engineering, Python",5.1,Finance,Fully Remote
+JOB_1973,Online Tutor,Mid-level,Full-time,Fully Remote,Medium,0.4239,43612.69,"Docker, SQL, AWS",2.6,Education,Fully Remote
+JOB_1974,E-commerce Manager,Mid-level,Full-time,On-site,Low,0.4792,61510.51,"Tableau, R, Excel, SQL",9.3,Retail,On-site
+JOB_1975,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.7343,81079.79,"Prompt Engineering, AWS, Python, Excel, SQL",3.4,Education,Hybrid
+JOB_1977,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,High,0.2623,82278.12,"Tableau, RAG",3.2,Healthcare,Hybrid
+JOB_1978,DevOps Engineer,Entry-level,Full-time,Hybrid,High,0.1274,38042.82,"LangGraph, AWS, Excel, RAG, Docker",8.2,Technology,Hybrid
+JOB_1982,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Low,0.4792,101212.19,"R, Python, Excel, RAG",5.8,Logistics,Fully Remote
+JOB_1983,Data Scientist,Lead/Executive,Full-time,Hybrid,High,0.2905,210211.39,"R, Docker",4.5,Technology,Hybrid
+JOB_1984,Bio-informatics Scientist,Entry-level,Full-time,Fully Remote,Medium,0.3141,91762.64,"Tableau, SQL, LangGraph, Prompt Engineering, AWS",6.9,Healthcare,Fully Remote
+JOB_1986,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.4302,135408.83,"PyTorch, Tableau",4.8,Retail,Fully Remote
+JOB_1987,Synthetic Data Specialist,Entry-level,Full-time,Hybrid,High,0.1878,64794.87,"SQL, Python, LangGraph, Docker, Excel",9.1,Technology,Hybrid
+JOB_1988,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,Medium,0.3147,84363.22,"Excel, AWS, SQL, Prompt Engineering",4.0,Healthcare,Fully Remote
+JOB_1989,Support Agent,Mid-level,Full-time,Fully Remote,High,0.6555,81544.02,"Prompt Engineering, PyTorch, Docker, SQL, Tableau",3.0,Customer Operations,Fully Remote
+JOB_1990,LLMOps Architect,Senior,Full-time,On-site,High,0.3288,238417.43,"RAG, Python, Docker, PyTorch",7.6,Technology,On-site
+JOB_1991,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.5565,77845.71,"LangGraph, Tableau, RAG, Excel",1.0,Education,Hybrid
+JOB_1992,Fleet Coordinator,Mid-level,Full-time,,Medium,0.6195,62741.68,"Docker, Excel, RAG",8.9,Logistics,Not Disclosed
+JOB_1994,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.6621,82895.79,"PyTorch, RAG, SQL",3.6,Logistics,Fully Remote
+JOB_1995,Medical Scribe,Mid-level,Full-time,Fully Remote,Medium,0.3637,124667.57,"PyTorch, SQL, R, AWS",6.0,Healthcare,Fully Remote
+JOB_1996,Medical Scribe,Mid-level,Full-time,On-site,Medium,0.3515,148360.63,"AWS, Excel",5.0,Healthcare,On-site
+JOB_1997,Fleet Coordinator,Lead/Executive,Full-time,Fully Remote,Low,0.7456,58795.97,"Docker, SQL, Prompt Engineering, Excel, R",6.3,Logistics,Fully Remote
+JOB_1998,Risk Analyst,Mid-level,Full-time,Hybrid,Medium,0.2623,104765.46,"LangGraph, AWS, Tableau, RAG",9.1,Finance,Hybrid
+JOB_2000,Financial Advisor,Mid-level,Full-time,Fully Remote,Medium,0.3999,77330.14,"R, Tableau, Python, LangGraph",1.1,Finance,Fully Remote
+JOB_2001,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.6635,71148.8,"Excel, PyTorch, SQL",3.8,Logistics,Hybrid
+JOB_2002,Instructional Designer,Lead/Executive,Full-time,Fully Remote,Medium,0.4054,109216.77,"LangGraph, Excel, Docker, Python, RAG",6.2,Education,Fully Remote
+JOB_2004,Instructional Designer,Senior,Full-time,,Medium,0.5303,81182.26,"PyTorch, Python, Docker, AWS, Tableau",1.6,Education,Not Disclosed
+JOB_2005,Support Agent,Mid-level,Full-time,,High,0.8883,126927.92,Not Disclosed,3.0,Customer Operations,Not Disclosed
+JOB_2007,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.2344,43632.41,"Python, R",6.3,Customer Operations,Hybrid
+JOB_2008,Operations Analyst,Entry-level,Full-time,Fully Remote,High,0.1162,71640.92,"LangGraph, PyTorch, R, Docker",5.3,Customer Operations,Fully Remote
+JOB_2009,Data Scientist,Entry-level,Full-time,Fully Remote,High,0.1754,138597.15,"Excel, SQL, Tableau, RAG",4.3,Technology,Fully Remote
+JOB_2010,Radiology Assistant,Mid-level,Full-time,Hybrid,Medium,0.4947,114446.48,"Python, SQL, LangGraph, AWS, Docker",2.5,Healthcare,Hybrid
+JOB_2011,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.4766,71630.95,"PyTorch, SQL, Excel, RAG",5.4,Retail,Fully Remote
+JOB_2012,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.5254,85089.45,"Python, AWS, R, PyTorch, Tableau",3.8,Retail,Fully Remote
+JOB_2013,Supply Chain Planner,Entry-level,Full-time,Hybrid,Low,0.7295,62956.03,"Docker, R, AWS, Python, LangGraph",4.1,Logistics,Hybrid
+JOB_2014,AI Software Engineer,Entry-level,Full-time,Fully Remote,High,0.2211,81592.76,"R, Docker",7.9,Technology,Fully Remote
+JOB_2015,Prompt Engineer,Senior,Full-time,Fully Remote,High,0.2656,90961.18,"PyTorch, Excel, LangGraph, R, AWS",4.7,Customer Operations,Fully Remote
+JOB_2016,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Low,0.5809,67278.35,"Tableau, AWS, PyTorch, Python, R",1.8,Logistics,Fully Remote
+JOB_2017,Online Tutor,Entry-level,Full-time,,Low,0.8468,60037.81,"RAG, R, LangGraph, Tableau, Prompt Engineering",7.3,Education,Not Disclosed
+JOB_2018,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.7789,63080.38,"Docker, Prompt Engineering, AWS",5.6,Retail,Fully Remote
+JOB_2019,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.8141,50224.16,"Python, SQL, Tableau, Docker, RAG",3.7,Education,Hybrid
+JOB_2020,Customer Success Manager,Lead/Executive,Full-time,Fully Remote,High,0.1379,154765.62,"Docker, LangGraph, Prompt Engineering, RAG, Excel",1.4,Customer Operations,Fully Remote
+JOB_2021,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Low,0.6168,50447.25,"Prompt Engineering, Python, Docker, Excel",4.8,Logistics,Fully Remote
+JOB_2022,Instructional Designer,Mid-level,Full-time,,Medium,0.7875,76716.2,"AWS, Prompt Engineering",7.2,Education,Not Disclosed
+JOB_2023,AI Governance Officer,Mid-level,Full-time,Fully Remote,Medium,0.5667,161276.21,"AWS, Excel, Prompt Engineering, RAG",1.9,Finance,Fully Remote
+JOB_2027,Supply Chain Planner,Senior,Full-time,Fully Remote,Low,0.4125,120129.44,"Python, AWS, Prompt Engineering, Excel, Docker",1.8,Logistics,Fully Remote
+JOB_2028,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.6569,64977.98,"RAG, LangGraph, PyTorch, SQL, AWS",5.5,Education,Hybrid
+JOB_2029,Bio-informatics Scientist,Entry-level,Full-time,Hybrid,High,0.3428,72136.46,"R, LangGraph",3.0,Healthcare,Hybrid
+JOB_2030,Quantitative Trader,Mid-level,Full-time,Fully Remote,High,0.3557,98344.52,"Tableau, Prompt Engineering, Python, LangGraph",3.8,Finance,Fully Remote
+JOB_2032,Instructional Designer,Senior,Full-time,Fully Remote,Low,0.6902,109230.92,"LangGraph, RAG, Excel, Prompt Engineering, Tableau",2.7,Education,Fully Remote
+JOB_2033,Bio-informatics Scientist,Mid-level,Full-time,On-site,High,0.5215,141715.37,"Python, Excel, PyTorch, LangGraph, Docker",6.1,Healthcare,On-site
+JOB_2034,Clinical Data Analyst,Mid-level,Full-time,Hybrid,Medium,0.2319,158168.59,"AWS, Prompt Engineering, Tableau",7.2,Healthcare,Hybrid
+JOB_2035,Support Agent,Mid-level,Full-time,Hybrid,High,0.8231,48385.19,"PyTorch, AWS, Python, SQL, Prompt Engineering",4.4,Customer Operations,Hybrid
+JOB_2037,Support Agent,Lead/Executive,Full-time,On-site,High,0.6378,190259.98,"AWS, Python",1.4,Customer Operations,On-site
+JOB_2038,Support Agent,Entry-level,Full-time,On-site,High,0.7957,59340.82,"Excel, RAG",6.2,Customer Operations,On-site
+JOB_2039,Pricing Analyst,Senior,Full-time,Hybrid,Medium,0.4406,120346.37,"LangGraph, PyTorch, Excel",8.3,Retail,Hybrid
+JOB_2040,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.6182,78154.41,"PyTorch, Excel, Python, Prompt Engineering, SQL",8.3,Retail,Fully Remote
+JOB_2041,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.5099,40230.77,"RAG, PyTorch",5.1,Retail,Fully Remote
+JOB_2042,Warehouse Automation Specialist,Lead/Executive,Full-time,Hybrid,Medium,0.4953,114164.83,"SQL, Prompt Engineering, Excel",4.8,Logistics,Hybrid
+JOB_2043,Data Scientist,Lead/Executive,Full-time,Hybrid,High,0.4792,176738.4,"SQL, Excel, Docker, R, PyTorch",8.4,Technology,Hybrid
+JOB_2044,Online Tutor,Entry-level,Full-time,Fully Remote,Low,0.8278,44182.22,"Tableau, Excel, PyTorch, Prompt Engineering",6.2,Education,Fully Remote
+JOB_2046,Online Tutor,Senior,Full-time,On-site,Medium,0.5903,45507.22,"PyTorch, Prompt Engineering, Excel, LangGraph, RAG",5.7,Education,On-site
+JOB_2048,Supply Chain Planner,Mid-level,Full-time,On-site,Low,0.6755,71148.8,"Tableau, PyTorch, RAG, Python, Excel",8.9,Logistics,On-site
+JOB_2049,Supply Chain Planner,Senior,Full-time,On-site,Medium,0.6339,98431.27,"RAG, Docker, Python",8.1,Logistics,On-site
+JOB_2050,Clinical Data Analyst,Senior,Full-time,Fully Remote,Medium,0.2579,125521.77,"PyTorch, RAG, Excel, LangGraph",7.3,Healthcare,Fully Remote
+JOB_2051,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.2872,102733.4,"R, RAG, SQL, AWS, Prompt Engineering",9.9,Customer Operations,Fully Remote
+JOB_2053,Curriculum Designer,Senior,Full-time,Hybrid,Low,0.5209,98714.09,Not Disclosed,8.2,Education,Hybrid
+JOB_2054,Instructional Designer,Entry-level,Full-time,Fully Remote,Medium,0.6403,43927.95,"R, SQL, Excel",4.7,Education,Fully Remote
+JOB_2055,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.6446,76518.86,"AWS, Python, Tableau",8.4,Education,Fully Remote
+JOB_2056,Support Agent,Mid-level,Full-time,Hybrid,High,0.6737,67883.33,"LangGraph, R, SQL",6.7,Customer Operations,Hybrid
+JOB_2057,Medical Scribe,Entry-level,Full-time,On-site,High,0.5416,56422.48,"Excel, Tableau",2.2,Healthcare,On-site
+JOB_2058,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.3312,117423.19,"SQL, Python, RAG, Docker",8.2,Customer Operations,Fully Remote
+JOB_2059,Fleet Coordinator,Senior,Full-time,Fully Remote,Low,0.7043,141296.47,"AWS, Docker, PyTorch",9.9,Logistics,Fully Remote
+JOB_2060,Supply Chain Planner,Mid-level,Full-time,On-site,Medium,0.6114,96445.83,"Docker, AWS, R",1.8,Logistics,On-site
+JOB_2062,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.8171,50832.36,"AWS, RAG",1.6,Retail,Fully Remote
+JOB_2063,Clinical Data Analyst,Senior,Full-time,Fully Remote,Medium,0.5643,122276.18,"R, LangGraph",6.7,Healthcare,Fully Remote
+JOB_2064,AI Governance Officer,Mid-level,Full-time,Fully Remote,High,0.3806,216668.51,"PyTorch, AWS, SQL, Python",7.6,Finance,Fully Remote
+JOB_2065,AI Governance Officer,Mid-level,Full-time,On-site,Medium,0.4938,117412.56,"Tableau, Python, Excel",6.6,Finance,On-site
+JOB_2066,Operations Analyst,Mid-level,Full-time,Fully Remote,High,0.3086,111504.43,"Tableau, SQL, RAG",5.0,Customer Operations,Fully Remote
+JOB_2067,Warehouse Automation Specialist,Senior,Full-time,Hybrid,Medium,0.5808,126698.82,"Excel, PyTorch, Docker, RAG",3.7,Logistics,Hybrid
+JOB_2068,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.7487,72586.83,"SQL, Prompt Engineering, R, Excel",4.0,Education,Fully Remote
+JOB_2069,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.1438,98163.48,"RAG, R, AWS",7.1,Technology,Fully Remote
+JOB_2070,Online Tutor,Lead/Executive,Full-time,Fully Remote,Medium,0.8394,86649.46,"Python, Docker, PyTorch, RAG, SQL",4.8,Education,Fully Remote
+JOB_2071,E-commerce Manager,Mid-level,Full-time,Fully Remote,Medium,0.7295,90650.24,"Python, SQL, Excel, LangGraph, RAG",5.2,Retail,Fully Remote
+JOB_2072,Instructional Designer,Lead/Executive,Full-time,,Low,0.4792,134899.14,"Docker, Prompt Engineering, RAG, Tableau, Excel",1.2,Education,Not Disclosed
+JOB_2074,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.7207,91093.39,"SQL, Python, Docker, AWS",8.2,Retail,Fully Remote
+JOB_2075,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.2849,128041.84,"PyTorch, Python",4.9,Technology,Fully Remote
+JOB_2077,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.3928,108861.03,"Tableau, RAG, AWS",4.1,Technology,Hybrid
+JOB_2079,Medical Scribe,Mid-level,Full-time,Hybrid,Medium,0.4821,121911.4,"R, Tableau, SQL, AWS",2.5,Healthcare,Hybrid
+JOB_2080,Risk Analyst,Entry-level,Full-time,Fully Remote,Medium,0.4837,82104.68,"SQL, Tableau, Docker",6.2,Finance,Fully Remote
+JOB_2081,Instructional Designer,Mid-level,Full-time,On-site,Low,0.4792,84587.68,"AWS, R, Tableau",9.3,Education,On-site
+JOB_2082,Fleet Coordinator,Lead/Executive,Full-time,Fully Remote,Low,0.5692,159697.66,"SQL, Prompt Engineering, Docker, PyTorch",7.0,Logistics,Fully Remote
+JOB_2084,E-commerce Manager,Entry-level,Full-time,Hybrid,Low,0.4812,45416.61,"Excel, PyTorch, AWS, Python",5.6,Retail,Hybrid
+JOB_2085,LLMOps Architect,Senior,Full-time,Fully Remote,High,0.1916,149604.92,"Tableau, AWS",6.4,Technology,Fully Remote
+JOB_2087,Online Tutor,Senior,Full-time,Fully Remote,Low,0.5334,151221.77,"LangGraph, Tableau, Python, PyTorch, Docker",2.5,Education,Fully Remote
+JOB_2088,Pricing Analyst,Mid-level,Full-time,Hybrid,Low,0.8375,75643.99,"R, SQL, RAG",3.9,Retail,Hybrid
+JOB_2089,Support Agent,Entry-level,Full-time,Hybrid,High,0.6512,56270.25,"R, Excel, Prompt Engineering, Docker, AWS",1.7,Customer Operations,Hybrid
+JOB_2091,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.3506,174479.46,Not Disclosed,7.2,Technology,Fully Remote
+JOB_2092,E-commerce Manager,Entry-level,Full-time,On-site,Medium,0.8405,44534.76,"Prompt Engineering, Docker, R, AWS",7.0,Retail,On-site
+JOB_2093,Customer Success Manager,Entry-level,Full-time,Hybrid,High,0.1319,66592.91,"RAG, LangGraph, AWS",2.7,Customer Operations,Hybrid
+JOB_2094,Fleet Coordinator,Entry-level,Full-time,,Low,0.4792,70589.51,Not Disclosed,9.6,Logistics,Not Disclosed
+JOB_2095,Supply Chain Planner,Lead/Executive,Full-time,On-site,Medium,0.6455,176419.94,"Prompt Engineering, RAG, R, PyTorch",1.8,Logistics,On-site
+JOB_2096,Risk Analyst,Mid-level,Full-time,Fully Remote,Medium,0.4129,116516.24,"SQL, AWS, PyTorch, Prompt Engineering",3.2,Finance,Fully Remote
+JOB_2097,Warehouse Automation Specialist,Lead/Executive,Full-time,Fully Remote,Low,0.4792,113278.12,"LangGraph, R, PyTorch, Python",3.6,Logistics,Fully Remote
+JOB_2098,Financial Advisor,Entry-level,Full-time,On-site,Medium,0.343,62781.62,"Docker, SQL",5.0,Finance,On-site
+JOB_2099,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.156,110882.7,"R, Docker, LangGraph, PyTorch",8.1,Technology,Hybrid
+JOB_2100,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.6029,56915.08,"RAG, Tableau, Excel",6.8,Retail,Fully Remote
+JOB_2101,Supply Chain Planner,Senior,Full-time,Hybrid,Low,0.6641,131975.31,"SQL, R, Docker, Prompt Engineering, Tableau",6.2,Logistics,Hybrid
+JOB_2102,Support Agent,Mid-level,Full-time,Hybrid,High,0.6037,113654.39,"Excel, Tableau, Prompt Engineering, AWS",4.6,Customer Operations,Hybrid
+JOB_2103,Clinical Data Analyst,Senior,Full-time,Fully Remote,Medium,0.3349,140017.2,"Python, RAG",3.3,Healthcare,Fully Remote
+JOB_2105,E-commerce Manager,Mid-level,Full-time,Fully Remote,Medium,0.5786,76829.6,"Docker, PyTorch, RAG",9.2,Retail,Fully Remote
+JOB_2106,Warehouse Automation Specialist,Mid-level,Full-time,,Medium,0.634,63071.83,"RAG, R",8.0,Logistics,Not Disclosed
+JOB_2107,Financial Advisor,Entry-level,Full-time,Fully Remote,High,0.4799,85171.63,"RAG, SQL, R, Prompt Engineering, Docker",5.0,Finance,Fully Remote
+JOB_2109,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Low,0.7925,57799.94,"Tableau, Docker",9.6,Logistics,Fully Remote
+JOB_2110,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.4895,68242.67,Not Disclosed,7.0,Logistics,Hybrid
+JOB_2111,Financial Advisor,Lead/Executive,Full-time,Fully Remote,Medium,0.5332,184509.68,"RAG, R",2.8,Finance,Fully Remote
+JOB_2112,Curriculum Designer,Entry-level,Full-time,Fully Remote,Low,0.6338,56323.25,"AWS, Python, PyTorch",9.4,Education,Fully Remote
+JOB_2113,E-commerce Manager,Entry-level,Full-time,On-site,Low,0.4792,49817.0,"Tableau, Docker, PyTorch",1.4,Retail,On-site
+JOB_2114,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,Medium,0.4792,77071.67,"RAG, R, Docker, Python, LangGraph",2.3,Healthcare,Hybrid
+JOB_2115,Customer Success Manager,Senior,Full-time,,High,0.4792,111736.04,"Excel, LangGraph, Python, AWS, PyTorch",3.8,Customer Operations,Not Disclosed
+JOB_2116,Prompt Engineer,Senior,Full-time,Hybrid,High,0.4792,97884.73,"Excel, Python",2.0,Customer Operations,Hybrid
+JOB_2117,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,Medium,0.5601,64668.38,"Excel, Tableau, RAG, Prompt Engineering",5.8,Healthcare,Hybrid
+JOB_2118,Curriculum Designer,Lead/Executive,Full-time,Hybrid,Low,0.8102,143779.22,"AWS, SQL, LangGraph",4.2,Education,Hybrid
+JOB_2119,Warehouse Automation Specialist,Mid-level,Full-time,On-site,Low,0.5019,75044.44,"PyTorch, Tableau",1.2,Logistics,On-site
+JOB_2120,Radiology Assistant,Mid-level,Full-time,Hybrid,High,0.2531,155629.56,"AWS, Excel",9.7,Healthcare,Hybrid
+JOB_2121,AI Software Engineer,Senior,Full-time,Fully Remote,High,0.1415,172178.51,"Tableau, Docker, SQL, LangGraph, AWS",3.8,Technology,Fully Remote
+JOB_2122,Warehouse Automation Specialist,Mid-level,Full-time,Hybrid,Low,0.6799,99917.5,"LangGraph, Docker, AWS, Excel, RAG",8.7,Logistics,Hybrid
+JOB_2123,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.3377,79197.99,"Python, Prompt Engineering",9.4,Technology,Hybrid
+JOB_2124,Support Agent,Entry-level,Full-time,Fully Remote,High,0.8729,59340.82,"PyTorch, SQL, Tableau",9.9,Customer Operations,Fully Remote
+JOB_2126,Radiology Assistant,Entry-level,Full-time,Hybrid,High,0.2722,57575.73,"PyTorch, LangGraph, RAG, Python",7.1,Healthcare,Hybrid
+JOB_2127,Online Tutor,Entry-level,Full-time,Fully Remote,Low,0.5846,62537.51,"LangGraph, Python",4.5,Education,Fully Remote
+JOB_2129,Compliance Auditor,Mid-level,Full-time,Hybrid,High,0.5736,65556.59,"Excel, LangGraph, Tableau, R",9.4,Finance,Hybrid
+JOB_2130,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.6519,87258.71,"AWS, Prompt Engineering, Docker, SQL, Excel",1.1,Retail,Fully Remote
+JOB_2131,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.125,106522.2,"Python, LangGraph",7.3,Technology,Fully Remote
+JOB_2132,Support Agent,Mid-level,Full-time,Fully Remote,High,0.7236,116284.53,"Excel, AWS, RAG, PyTorch, Docker",10.0,Customer Operations,Fully Remote
+JOB_2133,Fleet Coordinator,Mid-level,Full-time,Hybrid,Medium,0.6976,87838.79,"AWS, RAG, Prompt Engineering, Excel",7.5,Logistics,Hybrid
+JOB_2135,Customer Success Manager,Senior,Full-time,Fully Remote,High,0.222,112986.49,"Tableau, Python, Docker, RAG, SQL",6.6,Customer Operations,Fully Remote
+JOB_2136,AI Software Engineer,Lead/Executive,Full-time,On-site,High,0.2583,243068.54,"RAG, LangGraph",1.7,Technology,On-site
+JOB_2137,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.6518,76716.2,"LangGraph, R, RAG",7.2,Education,Fully Remote
+JOB_2138,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.3732,79015.44,"Tableau, Docker, Prompt Engineering, Python",6.2,Technology,Fully Remote
+JOB_2139,Pricing Analyst,Senior,Full-time,Hybrid,Low,0.7504,80949.53,"R, Python, AWS",4.8,Retail,Hybrid
+JOB_2140,Compliance Auditor,Entry-level,Full-time,Hybrid,Medium,0.3116,75665.66,"PyTorch, R, Python, LangGraph, RAG",1.8,Finance,Hybrid
+JOB_2141,AI Governance Officer,Mid-level,Full-time,Hybrid,Medium,0.4871,70987.26,"RAG, Tableau, R, Docker, LangGraph",8.8,Finance,Hybrid
+JOB_2142,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Low,0.8128,61456.0,"Excel, AWS, Tableau, LangGraph, RAG",6.2,Logistics,Fully Remote
+JOB_2143,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.4674,68850.36,Not Disclosed,2.9,Education,Hybrid
+JOB_2144,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,High,0.442,84105.76,"Prompt Engineering, Excel, R, Tableau, PyTorch",6.8,Healthcare,Fully Remote
+JOB_2145,LLMOps Architect,Lead/Executive,Full-time,Fully Remote,High,0.2703,310728.51,"R, SQL, AWS",1.0,Technology,Fully Remote
+JOB_2146,Online Tutor,Mid-level,Full-time,Hybrid,Low,0.7935,52250.15,"SQL, Excel",2.2,Education,Hybrid
+JOB_2147,Financial Advisor,Mid-level,Full-time,,High,0.4121,139040.75,"Tableau, Excel, R",2.5,Finance,Not Disclosed
+JOB_2148,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.3001,89845.23999999999,"Tableau, R, LangGraph",8.7,Customer Operations,Hybrid
+JOB_2149,E-commerce Manager,Entry-level,Full-time,Fully Remote,Medium,0.4611,31844.7,"PyTorch, Prompt Engineering, LangGraph, Python",8.5,Retail,Fully Remote
+JOB_2150,Online Tutor,Entry-level,Full-time,Hybrid,Low,0.4792,67188.9,"RAG, Docker, Excel, PyTorch, Prompt Engineering",6.4,Education,Hybrid
+JOB_2152,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.7684,50877.75,"Tableau, Docker, RAG, Prompt Engineering, Excel",2.6,Retail,Fully Remote
+JOB_2153,Inventory Coordinator,Senior,Full-time,On-site,Low,0.6897,89448.01,"Python, RAG, LangGraph, Excel, AWS",7.9,Retail,On-site
+JOB_2155,Prompt Engineer,Mid-level,Full-time,Fully Remote,High,0.4792,80855.63,"Tableau, PyTorch, Prompt Engineering, RAG, AWS",6.9,Customer Operations,Fully Remote
+JOB_2156,E-commerce Manager,Senior,Full-time,On-site,Low,0.8213,126973.71,"SQL, AWS, PyTorch",9.3,Retail,On-site
+JOB_2157,Support Agent,Mid-level,Full-time,Hybrid,High,0.8674,75194.51,"Tableau, Prompt Engineering, PyTorch, Excel, AWS",4.3,Customer Operations,Hybrid
+JOB_2161,Clinical Data Analyst,Mid-level,Full-time,On-site,Medium,0.4228,90806.33,"AWS, SQL, R, Python",7.9,Healthcare,On-site
+JOB_2162,Pricing Analyst,Mid-level,Full-time,,Low,0.4485,50950.96,"R, RAG, SQL, AWS, Prompt Engineering",8.6,Retail,Not Disclosed
+JOB_2163,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.521,94270.19,"Prompt Engineering, SQL, Docker, Tableau",6.6,Retail,Fully Remote
+JOB_2164,Fleet Coordinator,Entry-level,Full-time,Hybrid,Low,0.5175,25198.98,Not Disclosed,6.0,Logistics,Hybrid
+JOB_2165,Inventory Coordinator,Senior,Full-time,Hybrid,Low,0.4792,104477.47,"PyTorch, R, LangGraph, Excel",1.8,Retail,Hybrid
+JOB_2167,Instructional Designer,Entry-level,Full-time,Hybrid,Low,0.4178,48018.11,"AWS, PyTorch, Excel",8.4,Education,Hybrid
+JOB_2168,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.8161,141201.55,"PyTorch, SQL, AWS, Excel, Prompt Engineering",9.0,Retail,Fully Remote
+JOB_2169,DevOps Engineer,Mid-level,Full-time,,High,0.1721,63044.26,"PyTorch, Excel, Python, Prompt Engineering, LangGraph",5.4,Technology,Not Disclosed
+JOB_2170,Support Agent,Senior,Full-time,Fully Remote,High,0.752,117965.55,"Tableau, LangGraph, PyTorch",5.3,Customer Operations,Fully Remote
+JOB_2171,Inventory Coordinator,Senior,Full-time,Hybrid,Low,0.6005,74961.58,"RAG, PyTorch",5.7,Retail,Hybrid
+JOB_2172,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,Medium,0.4792,97552.51,"AWS, SQL, PyTorch, Docker, Excel",5.0,Healthcare,Fully Remote
+JOB_2173,Instructional Designer,Senior,Full-time,Fully Remote,Low,0.4792,137747.46,"Docker, R, RAG, AWS, LangGraph",1.1,Education,Fully Remote
+JOB_2174,LLMOps Architect,Mid-level,Full-time,Fully Remote,High,0.256,110376.59,"Python, R, Prompt Engineering, LangGraph, Excel",7.5,Technology,Fully Remote
+JOB_2175,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.4774,79574.47,Not Disclosed,4.8,Logistics,Fully Remote
+JOB_2176,Support Agent,Senior,Full-time,Hybrid,High,0.8549,143568.67,"Prompt Engineering, LangGraph, Python, R",2.1,Customer Operations,Hybrid
+JOB_2179,Supply Chain Planner,Entry-level,Full-time,Hybrid,Low,0.8359,56643.93,"RAG, Tableau",4.0,Logistics,Hybrid
+JOB_2180,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.1642,75382.8,"PyTorch, SQL, Python, Tableau",2.2,Technology,Hybrid
+JOB_2181,Compliance Auditor,Lead/Executive,Full-time,Hybrid,High,0.329,173375.99,"Tableau, AWS, Prompt Engineering, Excel, LangGraph",4.6,Finance,Hybrid
+JOB_2182,Support Agent,Mid-level,Full-time,Hybrid,High,0.4792,89845.23999999999,"R, PyTorch",9.3,Customer Operations,Hybrid
+JOB_2185,Risk Analyst,Entry-level,Full-time,Hybrid,High,0.4853,79588.3,"LangGraph, PyTorch, R, Python, Tableau",6.6,Finance,Hybrid
+JOB_2186,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.7047,111424.52,"Prompt Engineering, PyTorch, SQL, Excel, AWS",2.4,Retail,Fully Remote
+JOB_2187,Inventory Coordinator,Entry-level,Full-time,,Low,0.5656,48586.51,"R, Python",7.5,Retail,Not Disclosed
+JOB_2188,AI Governance Officer,Mid-level,Full-time,On-site,Medium,0.5906,113008.69,"Docker, Tableau, Prompt Engineering",6.0,Finance,On-site
+JOB_2189,Fleet Coordinator,Mid-level,Full-time,,Medium,0.5142,71148.8,"RAG, Python, R",2.8,Logistics,Not Disclosed
+JOB_2190,Instructional Designer,Entry-level,Full-time,Fully Remote,Low,0.7926,48018.11,"R, SQL, Python",1.3,Education,Fully Remote
+JOB_2192,E-commerce Manager,Mid-level,Full-time,Hybrid,Medium,0.5956,76829.6,"AWS, Docker, SQL",5.8,Retail,Hybrid
+JOB_2193,DevOps Engineer,Entry-level,Full-time,Hybrid,High,0.2307,58213.61,Not Disclosed,6.9,Technology,Hybrid
+JOB_2194,Pricing Analyst,Mid-level,Full-time,On-site,Medium,0.8309,95901.74,"PyTorch, LangGraph, Python",8.3,Retail,On-site
+JOB_2196,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.4792,74140.47,"R, Prompt Engineering, Tableau, PyTorch",2.7,Customer Operations,Fully Remote
+JOB_2199,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,High,0.4271,49132.39,"SQL, R, AWS, LangGraph, Tableau",2.4,Healthcare,Fully Remote
+JOB_2200,Online Tutor,Entry-level,Full-time,Fully Remote,Low,0.8221,55081.96,"LangGraph, Tableau, Prompt Engineering, R",6.8,Education,Fully Remote
+JOB_2201,Inventory Coordinator,Mid-level,Full-time,Hybrid,Medium,0.4924,91039.27,"Excel, Docker",3.9,Retail,Hybrid
+JOB_2202,Clinical Data Analyst,Lead/Executive,Full-time,Hybrid,Medium,0.2332,164935.49,"Tableau, PyTorch, Python",7.6,Healthcare,Hybrid
+JOB_2203,Clinical Data Analyst,Mid-level,Full-time,Fully Remote,High,0.5724,175571.92,"Prompt Engineering, AWS, LangGraph",9.8,Healthcare,Fully Remote
+JOB_2204,Inventory Coordinator,Mid-level,Full-time,Hybrid,Medium,0.4792,86436.86,"AWS, Excel, LangGraph",5.1,Retail,Hybrid
+JOB_2205,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.6273,68510.23,"Python, R",1.2,Logistics,Fully Remote
+JOB_2206,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.7593,164531.05,"R, SQL, RAG, AWS, Prompt Engineering",7.1,Retail,Fully Remote
+JOB_2207,Inventory Coordinator,Lead/Executive,Full-time,On-site,Low,0.6244,154067.28,"SQL, Prompt Engineering",3.3,Retail,On-site
+JOB_2208,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,Medium,0.5395,42705.18,"SQL, R, Tableau, LangGraph, AWS",8.2,Healthcare,Fully Remote
+JOB_2209,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.6656,94040.42,"Tableau, R, AWS, Python",8.1,Logistics,Fully Remote
+JOB_2210,Operations Analyst,Senior,Full-time,Hybrid,High,0.1186,142383.98,"SQL, PyTorch",7.4,Customer Operations,Hybrid
+JOB_2212,Customer Success Manager,Mid-level,Full-time,Hybrid,High,0.2603,105654.08,"Excel, R, Docker, SQL, Python",8.4,Customer Operations,Hybrid
+JOB_2213,Clinical Data Analyst,Mid-level,Full-time,Hybrid,High,0.2173,121245.44,"Python, R, PyTorch, Prompt Engineering, AWS",9.6,Healthcare,Hybrid
+JOB_2214,Support Agent,Mid-level,Full-time,Fully Remote,High,0.7157,92619.62,"Excel, AWS, Tableau",8.4,Customer Operations,Fully Remote
+JOB_2215,Support Agent,Lead/Executive,Full-time,On-site,High,0.7433,123880.47,"SQL, Excel, RAG, PyTorch",5.5,Customer Operations,On-site
+JOB_2216,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,Medium,0.2509,92082.84,"SQL, Docker, RAG",8.7,Healthcare,Hybrid
+JOB_2218,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.2176,97792.26,"AWS, Docker, PyTorch, SQL",3.7,Technology,Hybrid
+JOB_2219,Support Agent,Senior,Full-time,,High,0.4792,99033.74,"PyTorch, Python, R",8.4,Customer Operations,Not Disclosed
+JOB_2221,Online Tutor,Mid-level,Full-time,Hybrid,Low,0.6878,80982.78,"RAG, AWS",7.3,Education,Hybrid
+JOB_2222,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.2422,78714.2,"PyTorch, RAG",3.9,Customer Operations,Fully Remote
+JOB_2223,AI Governance Officer,Mid-level,Full-time,On-site,High,0.5475,92218.92,"Docker, Excel, Python, PyTorch",3.3,Finance,On-site
+JOB_2224,Synthetic Data Specialist,Entry-level,Full-time,Hybrid,High,0.2192,58444.85,"AWS, R, SQL",6.5,Technology,Hybrid
+JOB_2225,Operations Analyst,Entry-level,Full-time,Fully Remote,High,0.3143,68350.41,"Docker, AWS, Python, SQL, PyTorch",5.7,Customer Operations,Fully Remote
+JOB_2226,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.5638,99614.47,"R, Excel",7.9,Retail,Fully Remote
+JOB_2227,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,Medium,0.4114,126549.57,"Python, Prompt Engineering, LangGraph",9.0,Healthcare,Hybrid
+JOB_2229,Instructional Designer,Senior,Full-time,Hybrid,Medium,0.7217,129559.28,"R, LangGraph, AWS",5.0,Education,Hybrid
+JOB_2230,Fleet Coordinator,Entry-level,Full-time,Fully Remote,Low,0.7171,41268.95,"Excel, Docker, PyTorch, Python",7.7,Logistics,Fully Remote
+JOB_2231,Operations Analyst,Mid-level,Full-time,Hybrid,High,0.3852,77663.35,"Python, PyTorch",9.6,Customer Operations,Hybrid
+JOB_2233,AI Governance Officer,Mid-level,Full-time,On-site,High,0.5871,135356.64,Not Disclosed,2.2,Finance,On-site
+JOB_2234,Customer Success Manager,Senior,Full-time,Fully Remote,High,0.1791,116676.53,"Python, Prompt Engineering, LangGraph",5.8,Customer Operations,Fully Remote
+JOB_2235,AI Software Engineer,Senior,Full-time,Fully Remote,High,0.3821,148747.61,"Prompt Engineering, Docker, RAG",3.2,Technology,Fully Remote
+JOB_2237,Compliance Auditor,Mid-level,Full-time,Hybrid,Medium,0.4792,101639.6,"AWS, RAG",6.4,Finance,Hybrid
+JOB_2238,Online Tutor,Mid-level,Full-time,On-site,Low,0.7524,74529.79,"AWS, SQL, R, Prompt Engineering",8.0,Education,On-site
+JOB_2239,Compliance Auditor,Mid-level,Full-time,Fully Remote,High,0.2699,105720.86,"Excel, SQL, AWS, Python, Prompt Engineering",4.8,Finance,Fully Remote
+JOB_2240,Quantitative Trader,Entry-level,Full-time,Fully Remote,High,0.2122,79588.3,"Docker, R, Python",1.4,Finance,Fully Remote
+JOB_2241,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Medium,0.6839,42082.27,"Prompt Engineering, R",9.5,Logistics,Fully Remote
+JOB_2243,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.5429,84876.6,"RAG, R, Tableau",1.8,Logistics,Fully Remote
+JOB_2244,E-commerce Manager,Entry-level,Full-time,Hybrid,Low,0.754,60843.46,"Prompt Engineering, R",2.8,Retail,Hybrid
+JOB_2245,Financial Advisor,Entry-level,Full-time,Fully Remote,Medium,0.5349,61333.95,"LangGraph, AWS, Excel",6.4,Finance,Fully Remote
+JOB_2246,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.6427,62373.11,"Excel, Python, LangGraph, AWS",8.5,Education,Fully Remote
+JOB_2247,Inventory Coordinator,Mid-level,Full-time,On-site,Medium,0.4908,94537.37,"Excel, Prompt Engineering, AWS",2.2,Retail,On-site
+JOB_2248,Radiology Assistant,Entry-level,Full-time,Hybrid,High,0.4029,50863.2,"R, Excel, AWS, SQL",3.1,Healthcare,Hybrid
+JOB_2249,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.8349,65529.06,Not Disclosed,4.6,Logistics,Fully Remote
+JOB_2250,Instructional Designer,Lead/Executive,Full-time,Hybrid,Low,0.6475,163438.17,Not Disclosed,5.5,Education,Hybrid
+JOB_2251,Synthetic Data Specialist,Entry-level,Full-time,Fully Remote,High,0.1861,73938.19,"SQL, Python, PyTorch",2.2,Technology,Fully Remote
+JOB_2252,Online Tutor,Lead/Executive,Full-time,On-site,Low,0.4487,100956.15,"AWS, PyTorch, Docker, SQL",2.8,Education,On-site
+JOB_2253,Pricing Analyst,Lead/Executive,Full-time,Hybrid,Low,0.5264,127916.64,"Tableau, RAG",3.2,Retail,Hybrid
+JOB_2254,Fleet Coordinator,Mid-level,Full-time,On-site,Low,0.4364,101186.87,"LangGraph, R, SQL, Docker, Prompt Engineering",7.8,Logistics,On-site
+JOB_2256,Support Agent,Senior,Full-time,Hybrid,High,0.6462,133859.58,"SQL, Docker, Python, R, RAG",6.5,Customer Operations,Hybrid
+JOB_2257,Supply Chain Planner,Entry-level,Full-time,Fully Remote,Medium,0.5035,72304.08,"AWS, R, Prompt Engineering",8.3,Logistics,Fully Remote
+JOB_2258,AI Software Engineer,Mid-level,Full-time,Hybrid,High,0.1181,130663.11,"PyTorch, AWS, Python",6.4,Technology,Hybrid
+JOB_2259,Financial Advisor,Senior,Full-time,Fully Remote,Medium,0.5693,121652.72,"Prompt Engineering, Python, R, Docker",8.9,Finance,Fully Remote
+JOB_2260,Fleet Coordinator,Senior,Full-time,Hybrid,Low,0.8362,104322.11,"RAG, AWS, Prompt Engineering, PyTorch, Excel",1.2,Logistics,Hybrid
+JOB_2261,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.3358,91585.19,"RAG, PyTorch, R",4.2,Finance,Fully Remote
+JOB_2263,Quantitative Trader,Mid-level,Full-time,Hybrid,High,0.5705,141583.07,"Prompt Engineering, Docker, RAG, LangGraph, PyTorch",2.3,Finance,Hybrid
+JOB_2264,Pricing Analyst,Senior,Full-time,Fully Remote,Low,0.826,120208.9,"Docker, Excel, Tableau, AWS, R",9.0,Retail,Fully Remote
+JOB_2265,Radiology Assistant,Mid-level,Full-time,,Medium,0.5035,107464.33,"PyTorch, R, Docker, Tableau, Prompt Engineering",4.2,Healthcare,Not Disclosed
+JOB_2266,Inventory Coordinator,Mid-level,Full-time,Fully Remote,Low,0.7915,95631.27,"Prompt Engineering, Excel",2.6,Retail,Fully Remote
+JOB_2268,Bio-informatics Scientist,Senior,Full-time,Hybrid,Medium,0.2209,154514.16,"RAG, Tableau, Excel, PyTorch",9.9,Healthcare,Hybrid
+JOB_2269,Radiology Assistant,Senior,Full-time,On-site,Medium,0.3865,167570.49,"R, PyTorch, Prompt Engineering",7.0,Healthcare,On-site
+JOB_2271,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.1047,96402.82,"SQL, Excel, Prompt Engineering, AWS, Tableau",8.2,Technology,Fully Remote
+JOB_2272,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.3772,97821.61,"RAG, Docker, Prompt Engineering, Tableau",2.1,Customer Operations,Fully Remote
+JOB_2273,AI Software Engineer,Senior,Full-time,Fully Remote,High,0.2471,217573.81,"Docker, Python, Prompt Engineering, SQL, RAG",2.5,Technology,Fully Remote
+JOB_2274,Compliance Auditor,Lead/Executive,Full-time,Hybrid,High,0.5953,242544.05,"Docker, PyTorch",4.4,Finance,Hybrid
+JOB_2275,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.1146,82907.36,"Python, R, LangGraph",1.4,Technology,Hybrid
+JOB_2276,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.8102,66878.06,"Tableau, PyTorch, R, Prompt Engineering, SQL",1.1,Logistics,Hybrid
+JOB_2277,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,Medium,0.2624,106075.98,"Python, Tableau, LangGraph, R, PyTorch",6.6,Healthcare,Fully Remote
+JOB_2278,Instructional Designer,Senior,Full-time,On-site,Low,0.6027,111511.69,Not Disclosed,5.2,Education,On-site
+JOB_2279,Online Tutor,Entry-level,Full-time,On-site,Low,0.405,50350.43,"RAG, Prompt Engineering, LangGraph, Docker, SQL",3.5,Education,On-site
+JOB_2280,Prompt Engineer,Mid-level,Full-time,Fully Remote,High,0.3202,93290.05,"Prompt Engineering, Tableau, Python",9.1,Customer Operations,Fully Remote
+JOB_2282,Supply Chain Planner,Lead/Executive,Full-time,On-site,Low,0.6908,169021.43,"Docker, Excel, Prompt Engineering",8.7,Logistics,On-site
+JOB_2283,Pricing Analyst,Entry-level,Full-time,Fully Remote,Low,0.6534,64409.4,"Python, R, Tableau",3.3,Retail,Fully Remote
+JOB_2284,Quantitative Trader,Entry-level,Full-time,Fully Remote,Medium,0.2818,75613.84,"LangGraph, RAG",4.1,Finance,Fully Remote
+JOB_2286,Fleet Coordinator,Entry-level,Full-time,Fully Remote,Medium,0.4323,58978.7,"LangGraph, Tableau, AWS",4.0,Logistics,Fully Remote
+JOB_2287,Pricing Analyst,Senior,Full-time,Fully Remote,Low,0.4387,105446.53,"PyTorch, SQL, R, Prompt Engineering, Excel",2.9,Retail,Fully Remote
+JOB_2288,Customer Success Manager,Entry-level,Full-time,Hybrid,High,0.2117,45851.73,"Prompt Engineering, SQL, Docker",7.5,Customer Operations,Hybrid
+JOB_2289,DevOps Engineer,Lead/Executive,Full-time,Hybrid,High,0.3014,120848.52,"Python, Docker, Tableau, Prompt Engineering",5.8,Technology,Hybrid
+JOB_2290,Risk Analyst,Mid-level,Full-time,Hybrid,Medium,0.2252,74614.17,"PyTorch, R",3.9,Finance,Hybrid
+JOB_2291,Quantitative Trader,Lead/Executive,Full-time,Fully Remote,High,0.5021,210681.27,"RAG, Tableau, Python, Excel",4.9,Finance,Fully Remote
+JOB_2292,Synthetic Data Specialist,Entry-level,Full-time,Fully Remote,High,0.1425,65614.84,"AWS, PyTorch, Python, RAG",3.6,Technology,Fully Remote
+JOB_2293,LLMOps Architect,Mid-level,Full-time,Fully Remote,High,0.3795,156628.89,"Excel, RAG",4.6,Technology,Fully Remote
+JOB_2294,Financial Advisor,Senior,Full-time,Fully Remote,High,0.5771,131254.37,"Python, RAG",6.9,Finance,Fully Remote
+JOB_2295,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.6082,45171.42,"R, Tableau, AWS, Excel, Python",3.5,Logistics,Fully Remote
+JOB_2298,Bio-informatics Scientist,Mid-level,Full-time,,High,0.4183,73697.13,"SQL, Prompt Engineering, PyTorch, Docker, Tableau",7.1,Healthcare,Not Disclosed
+JOB_2300,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,Medium,0.5062,129564.61,"LangGraph, Excel, RAG, Prompt Engineering, PyTorch",2.8,Healthcare,Fully Remote
+JOB_2301,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.8071,80807.38,"LangGraph, RAG",7.6,Education,Hybrid
+JOB_2302,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.699,44848.32,"Prompt Engineering, AWS, R",7.5,Education,Hybrid
+JOB_2303,Radiology Assistant,Mid-level,Full-time,Fully Remote,High,0.5951,67397.51,"R, Python, SQL, Excel",2.0,Healthcare,Fully Remote
+JOB_2304,Curriculum Designer,Mid-level,Full-time,On-site,Medium,0.7508,57206.48,"AWS, LangGraph",7.9,Education,On-site
+JOB_2305,AI Software Engineer,Senior,Full-time,Hybrid,High,0.1057,244381.27,Not Disclosed,5.0,Technology,Hybrid
+JOB_2307,AI Governance Officer,Mid-level,Full-time,Hybrid,High,0.5403,126794.85,"SQL, Docker, Tableau, Prompt Engineering, Python",8.8,Finance,Hybrid
+JOB_2309,Online Tutor,Lead/Executive,Full-time,Fully Remote,Low,0.7519,120508.74,"Prompt Engineering, R, AWS, RAG, Python",6.3,Education,Fully Remote
+JOB_2310,Instructional Designer,Lead/Executive,Full-time,Hybrid,Low,0.5098,110278.41,"Tableau, LangGraph",2.3,Education,Hybrid
+JOB_2311,Quantitative Trader,Senior,Full-time,Fully Remote,High,0.38,213483.38,"Excel, Prompt Engineering",7.4,Finance,Fully Remote
+JOB_2312,Financial Advisor,Mid-level,Full-time,Fully Remote,Medium,0.2074,83846.58,"SQL, R",8.4,Finance,Fully Remote
+JOB_2313,Online Tutor,Mid-level,Full-time,Fully Remote,Low,0.6936,98471.54,"PyTorch, Prompt Engineering, RAG",6.7,Education,Fully Remote
+JOB_2314,Online Tutor,Senior,Full-time,Fully Remote,Low,0.7974,99564.45,"Python, SQL, LangGraph, Prompt Engineering",8.6,Education,Fully Remote
+JOB_2315,Warehouse Automation Specialist,Entry-level,Full-time,Hybrid,Low,0.5794,53812.87,"R, Docker, SQL, LangGraph, Tableau",1.9,Logistics,Hybrid
+JOB_2316,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.6612,46054.21,"Docker, SQL",3.3,Retail,Fully Remote
+JOB_2317,Inventory Coordinator,Mid-level,Full-time,Hybrid,Low,0.4451,76829.6,"R, PyTorch, Python, AWS, Excel",4.3,Retail,Hybrid
+JOB_2319,Inventory Coordinator,Senior,Full-time,,Low,0.6494,101068.22,"SQL, R, Python, PyTorch",4.7,Retail,Not Disclosed
+JOB_2321,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.267,89296.44,"Docker, R, AWS, RAG, LangGraph",4.0,Customer Operations,Fully Remote
+JOB_2322,Risk Analyst,Entry-level,Full-time,Fully Remote,High,0.5394,94328.06,"Excel, Python",4.9,Finance,Fully Remote
+JOB_2323,Warehouse Automation Specialist,Senior,Full-time,Hybrid,Medium,0.5415,92769.05,"Docker, SQL, Prompt Engineering, Python",4.8,Logistics,Hybrid
+JOB_2324,Instructional Designer,Lead/Executive,Full-time,Hybrid,Medium,0.704,141420.2,"R, RAG, SQL",9.5,Education,Hybrid
+JOB_2325,Curriculum Designer,Entry-level,Full-time,,Low,0.6462,30644.19,"RAG, Python",2.0,Education,Not Disclosed
+JOB_2326,E-commerce Manager,Senior,Full-time,On-site,Low,0.5534,130809.67,"SQL, Excel",5.4,Retail,On-site
+JOB_2327,Clinical Data Analyst,Mid-level,Full-time,Fully Remote,High,0.3446,107464.33,"Prompt Engineering, SQL, Tableau",6.6,Healthcare,Fully Remote
+JOB_2328,Online Tutor,Senior,Full-time,Hybrid,Medium,0.7086,104146.34,"R, Tableau, SQL, RAG, Docker",3.3,Education,Hybrid
+JOB_2329,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.7524,61877.34,"AWS, Docker, RAG, Python",8.7,Education,Fully Remote
+JOB_2330,Prompt Engineer,Mid-level,Full-time,Hybrid,High,0.3124,88336.56,"AWS, PyTorch, Prompt Engineering",6.5,Customer Operations,Hybrid
+JOB_2331,Fleet Coordinator,Senior,Full-time,On-site,Low,0.7204,134719.24,"LangGraph, PyTorch, Docker, Tableau, Excel",7.1,Logistics,On-site
+JOB_2332,Curriculum Designer,Mid-level,Full-time,On-site,Medium,0.455,70041.03,"PyTorch, Tableau, Excel",1.8,Education,On-site
+JOB_2333,Inventory Coordinator,Senior,Full-time,Fully Remote,Low,0.4451,128407.21,"Python, Prompt Engineering, RAG",5.7,Retail,Fully Remote
+JOB_2334,Data Scientist,Mid-level,Full-time,Hybrid,High,0.1455,141465.8,"PyTorch, SQL, Python",5.5,Technology,Hybrid
+JOB_2336,Radiology Assistant,Mid-level,Full-time,On-site,Medium,0.3918,127575.88,"Tableau, LangGraph, Excel",2.2,Healthcare,On-site
+JOB_2337,Instructional Designer,Senior,Full-time,Fully Remote,Medium,0.8275,118389.78,"LangGraph, Docker",9.0,Education,Fully Remote
+JOB_2339,Medical Scribe,Entry-level,Full-time,Fully Remote,Medium,0.5671,75158.94,"PyTorch, R, LangGraph, Tableau, SQL",8.4,Healthcare,Fully Remote
+JOB_2340,DevOps Engineer,Mid-level,Full-time,Hybrid,High,0.2719,55039.73,"SQL, PyTorch, Python, AWS, Excel",4.8,Technology,Hybrid
+JOB_2341,Quantitative Trader,Senior,Full-time,Fully Remote,High,0.209,135283.49,"Prompt Engineering, SQL",6.6,Finance,Fully Remote
+JOB_2342,Warehouse Automation Specialist,Entry-level,Full-time,On-site,Medium,0.5957,37763.78,"Tableau, SQL, R, RAG",5.7,Logistics,On-site
+JOB_2343,DevOps Engineer,Mid-level,Full-time,Fully Remote,High,0.2144,108523.49,"LangGraph, RAG, AWS, Excel, PyTorch",2.6,Technology,Fully Remote
+JOB_2344,Support Agent,Senior,Full-time,On-site,High,0.9496,82316.89,"PyTorch, LangGraph",9.0,Customer Operations,On-site
+JOB_2345,Risk Analyst,Lead/Executive,Full-time,Fully Remote,Medium,0.4783,139862.31,"SQL, Tableau, R, LangGraph",1.2,Finance,Fully Remote
+JOB_2346,Synthetic Data Specialist,Mid-level,Full-time,Fully Remote,High,0.3716,108779.14,"Excel, AWS",1.7,Technology,Fully Remote
+JOB_2347,Quantitative Trader,Entry-level,Full-time,Hybrid,Medium,0.5252,79588.3,"AWS, Excel, Tableau, PyTorch, Prompt Engineering",7.6,Finance,Hybrid
+JOB_2348,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.7475,72525.89,Not Disclosed,2.1,Education,Fully Remote
+JOB_2351,Quantitative Trader,Senior,Full-time,Hybrid,Medium,0.5013,216426.62,"Tableau, Excel, PyTorch, RAG, LangGraph",6.1,Finance,Hybrid
+JOB_2352,Compliance Auditor,Entry-level,Full-time,Fully Remote,High,0.2508,77531.01,"AWS, R",7.3,Finance,Fully Remote
+JOB_2354,Bio-informatics Scientist,Mid-level,Full-time,On-site,High,0.4792,96117.9,"PyTorch, RAG",4.9,Healthcare,On-site
+JOB_2355,Supply Chain Planner,Entry-level,Full-time,On-site,Medium,0.5497,45157.53,"SQL, Tableau, PyTorch",5.6,Logistics,On-site
+JOB_2356,Fleet Coordinator,Entry-level,Full-time,Hybrid,Low,0.4792,33029.59,"Prompt Engineering, LangGraph, Tableau, SQL",9.6,Logistics,Hybrid
+JOB_2357,Bio-informatics Scientist,Senior,Full-time,On-site,Medium,0.2073,178517.18,"SQL, Python, Prompt Engineering",2.1,Healthcare,On-site
+JOB_2358,Warehouse Automation Specialist,Entry-level,Full-time,Fully Remote,Low,0.8389,61005.99,"R, Python, Docker, LangGraph, RAG",8.8,Logistics,Fully Remote
+JOB_2359,Prompt Engineer,Entry-level,Full-time,Hybrid,High,0.3455,71618.08,"Prompt Engineering, Tableau, R",7.6,Customer Operations,Hybrid
+JOB_2360,Clinical Data Analyst,Mid-level,Full-time,Hybrid,Medium,0.4693,79338.09,"Prompt Engineering, AWS",10.0,Healthcare,Hybrid
+JOB_2361,Curriculum Designer,Lead/Executive,Full-time,Fully Remote,Low,0.4474,98018.76,"R, PyTorch, Excel, Docker",7.8,Education,Fully Remote
+JOB_2362,Prompt Engineer,Mid-level,Full-time,Hybrid,High,0.1666,113550.42,"LangGraph, RAG",9.3,Customer Operations,Hybrid
+JOB_2363,Inventory Coordinator,Mid-level,Full-time,Hybrid,Medium,0.4792,62814.3,"Tableau, PyTorch, AWS, SQL",3.2,Retail,Hybrid
+JOB_2364,Inventory Coordinator,Senior,Full-time,Hybrid,Low,0.8496,113339.29,"Docker, Excel",8.0,Retail,Hybrid
+JOB_2365,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.4792,131113.44,Not Disclosed,4.3,Finance,Fully Remote
+JOB_2366,Radiology Assistant,Lead/Executive,Full-time,On-site,High,0.5741,213554.12,"Prompt Engineering, PyTorch, AWS, RAG, SQL",6.1,Healthcare,On-site
+JOB_2367,Warehouse Automation Specialist,Entry-level,Full-time,Hybrid,Medium,0.8098,50447.25,"RAG, R, PyTorch",5.3,Logistics,Hybrid
+JOB_2368,Data Scientist,Mid-level,Full-time,Fully Remote,High,0.4792,83696.4,"AWS, Excel",3.2,Technology,Fully Remote
+JOB_2370,Instructional Designer,Mid-level,Full-time,Fully Remote,Low,0.534,37832.43,"Tableau, Excel, LangGraph, Python",5.0,Education,Fully Remote
+JOB_2371,LLMOps Architect,Senior,Full-time,Fully Remote,High,0.1201,209985.91,"R, LangGraph, Prompt Engineering, Excel, RAG",8.4,Technology,Fully Remote
+JOB_2372,Radiology Assistant,Entry-level,Full-time,Hybrid,Medium,0.3608,54210.82,"AWS, R, Python",9.3,Healthcare,Hybrid
+JOB_2373,Fleet Coordinator,Senior,Full-time,On-site,Medium,0.8451,93979.88,"Python, Excel, SQL, Tableau, Docker",6.1,Logistics,On-site
+JOB_2374,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.4796,80113.17,"Tableau, RAG, Prompt Engineering",1.2,Education,Hybrid
+JOB_2375,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.4732,66433.35,"RAG, PyTorch, Docker, Prompt Engineering, R",7.9,Education,Hybrid
+JOB_2376,Quantitative Trader,Senior,Full-time,On-site,High,0.3111,124344.16,"RAG, SQL, Prompt Engineering, Tableau, LangGraph",8.4,Finance,On-site
+JOB_2377,Bio-informatics Scientist,Entry-level,Full-time,Fully Remote,Medium,0.4736,56293.33,"LangGraph, Prompt Engineering, Docker",7.2,Healthcare,Fully Remote
+JOB_2379,Operations Analyst,Entry-level,Full-time,Hybrid,High,0.2331,69518.54,"Python, Prompt Engineering, PyTorch",3.9,Customer Operations,Hybrid
+JOB_2380,Curriculum Designer,Mid-level,Full-time,Fully Remote,Medium,0.6014,73831.57,"AWS, PyTorch",2.4,Education,Fully Remote
+JOB_2381,Online Tutor,Entry-level,Full-time,Fully Remote,Low,0.5241,58607.4,"LangGraph, SQL, Prompt Engineering, Tableau",1.2,Education,Fully Remote
+JOB_2382,Curriculum Designer,Entry-level,Full-time,Hybrid,Medium,0.5826,48018.11,"LangGraph, PyTorch, RAG, Prompt Engineering, AWS",6.9,Education,Hybrid
+JOB_2383,Online Tutor,Mid-level,Full-time,Hybrid,Low,0.4792,80382.31,"RAG, SQL, LangGraph",5.7,Education,Hybrid
+JOB_2384,Online Tutor,Entry-level,Full-time,On-site,Medium,0.5011,44387.03,"Docker, Excel, SQL, AWS",8.5,Education,On-site
+JOB_2385,Quantitative Trader,Lead/Executive,Full-time,Fully Remote,Medium,0.542,217082.43,"R, AWS, RAG, LangGraph",5.6,Finance,Fully Remote
+JOB_2386,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.6261,96547.7,"RAG, PyTorch, Docker, Python",1.4,Retail,Fully Remote
+JOB_2387,Radiology Assistant,Mid-level,Full-time,Hybrid,Medium,0.2787,87458.34,"LangGraph, Python, PyTorch, Prompt Engineering",8.6,Healthcare,Hybrid
+JOB_2388,Medical Scribe,Mid-level,Full-time,Fully Remote,Medium,0.5933,97020.21,"PyTorch, Prompt Engineering, Python",5.7,Healthcare,Fully Remote
+JOB_2389,Pricing Analyst,Entry-level,Full-time,Hybrid,Low,0.582,53341.74,"RAG, PyTorch, Python, R",6.1,Retail,Hybrid
+JOB_2390,Compliance Auditor,Mid-level,Full-time,Fully Remote,Medium,0.2127,81727.51,"Tableau, PyTorch, Prompt Engineering, Docker",3.9,Finance,Fully Remote
+JOB_2391,Compliance Auditor,Senior,Full-time,Fully Remote,High,0.3617,215942.68,"RAG, R, Python, Tableau, Prompt Engineering",7.0,Finance,Fully Remote
+JOB_2392,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.4792,85986.3,"LangGraph, AWS",5.0,Technology,Hybrid
+JOB_2393,Warehouse Automation Specialist,Senior,Full-time,Hybrid,Medium,0.5461,93979.88,"RAG, AWS",2.7,Logistics,Hybrid
+JOB_2395,Instructional Designer,Entry-level,Full-time,Fully Remote,Low,0.4837,41765.43,"PyTorch, RAG, R, Tableau",9.4,Education,Fully Remote
+JOB_2398,Pricing Analyst,Entry-level,Full-time,Fully Remote,Low,0.7954,43095.48,"Docker, PyTorch",1.9,Retail,Fully Remote
+JOB_2399,Bio-informatics Scientist,Mid-level,Full-time,On-site,High,0.2701,128013.1,"SQL, Python",2.4,Healthcare,On-site
+JOB_2400,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.227,110321.79,"LangGraph, Prompt Engineering, RAG",1.7,Technology,Hybrid
+JOB_2401,Quantitative Trader,Senior,Full-time,Fully Remote,High,0.2986,173822.81,"R, Docker, PyTorch, SQL, AWS",6.5,Finance,Fully Remote
+JOB_2402,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.4338,129938.64,"AWS, RAG, Python, SQL",7.1,Retail,Fully Remote
+JOB_2403,Medical Scribe,Senior,Full-time,Hybrid,Medium,0.3112,84984.2,"SQL, AWS, PyTorch, Python",6.4,Healthcare,Hybrid
+JOB_2405,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.542,82672.11,Not Disclosed,6.9,Retail,Fully Remote
+JOB_2406,Supply Chain Planner,Mid-level,Full-time,On-site,Low,0.5583,71148.8,"Excel, Python, Prompt Engineering, Docker",5.7,Logistics,On-site
+JOB_2407,AI Software Engineer,Entry-level,Full-time,Hybrid,High,0.3047,59398.8,"LangGraph, AWS",4.0,Technology,Hybrid
+JOB_2408,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.5706,36598.38,"Docker, Excel",3.4,Education,Fully Remote
+JOB_2410,Pricing Analyst,Entry-level,Full-time,Hybrid,Low,0.8212,52031.43,"Tableau, AWS",2.0,Retail,Hybrid
+JOB_2411,E-commerce Manager,Senior,Full-time,Fully Remote,Medium,0.7005,85391.48,"LangGraph, SQL, Tableau, Docker",4.4,Retail,Fully Remote
+JOB_2412,E-commerce Manager,Entry-level,Full-time,Fully Remote,Low,0.6401,65734.96,"Tableau, LangGraph, Python, Prompt Engineering, R",5.0,Retail,Fully Remote
+JOB_2413,LLMOps Architect,Mid-level,Full-time,Hybrid,High,0.2945,112742.54,"Prompt Engineering, SQL, R",1.7,Technology,Hybrid
+JOB_2414,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Low,0.7334,104713.47,"Python, Docker, LangGraph, Excel",2.9,Logistics,Fully Remote
+JOB_2415,Radiology Assistant,Senior,Full-time,On-site,Medium,0.4392,188023.22,"Docker, Excel, SQL",1.7,Healthcare,On-site
+JOB_2416,Bio-informatics Scientist,Mid-level,Full-time,Fully Remote,High,0.3879,124542.04,"PyTorch, Docker, Tableau",4.9,Healthcare,Fully Remote
+JOB_2417,Prompt Engineer,Mid-level,Full-time,Fully Remote,High,0.1923,83964.03,"Tableau, Prompt Engineering, Docker",9.2,Customer Operations,Fully Remote
+JOB_2418,AI Governance Officer,Mid-level,Full-time,On-site,Medium,0.4879,156737.16,"RAG, Excel, Tableau",4.4,Finance,On-site
+JOB_2419,Curriculum Designer,Mid-level,Full-time,Fully Remote,Low,0.8365,92867.31,"R, Docker, LangGraph, RAG",9.0,Education,Fully Remote
+JOB_2420,Inventory Coordinator,Senior,Full-time,Hybrid,Medium,0.4507,103754.8,"Prompt Engineering, R, AWS, PyTorch, RAG",2.6,Retail,Hybrid
+JOB_2422,Bio-informatics Scientist,Senior,Full-time,Hybrid,High,0.2624,171062.47,"RAG, Excel, Docker",5.9,Healthcare,Hybrid
+JOB_2423,Financial Advisor,Senior,Full-time,Hybrid,High,0.3909,104293.07,"PyTorch, SQL, LangGraph, AWS",4.0,Finance,Hybrid
+JOB_2424,Prompt Engineer,Mid-level,Full-time,Hybrid,High,0.1458,80846.31,"PyTorch, SQL, LangGraph, Docker, AWS",9.6,Customer Operations,Hybrid
+JOB_2429,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.4841,53235.33,"Docker, SQL, RAG, Tableau",9.7,Education,Hybrid
+JOB_2431,Supply Chain Planner,Mid-level,Full-time,Fully Remote,Low,0.599,81685.22,"SQL, RAG, Python, Docker",3.4,Logistics,Fully Remote
+JOB_2433,Customer Success Manager,Entry-level,Full-time,Fully Remote,High,0.2849,55835.88,"Tableau, RAG, Python, PyTorch, Excel",5.6,Customer Operations,Fully Remote
+JOB_2434,Support Agent,Entry-level,Full-time,Fully Remote,High,0.9069,51050.6,"AWS, R, Python",1.8,Customer Operations,Fully Remote
+JOB_2436,Pricing Analyst,Mid-level,Full-time,Fully Remote,Low,0.6724,93445.93,"Python, RAG, Prompt Engineering",7.1,Retail,Fully Remote
+JOB_2437,E-commerce Manager,Senior,Full-time,Fully Remote,Low,0.4397,129646.5,"Prompt Engineering, LangGraph, PyTorch",4.5,Retail,Fully Remote
+JOB_2438,Financial Advisor,Mid-level,Full-time,Fully Remote,Medium,0.4027,118389.72,"R, Python, Excel, LangGraph, Prompt Engineering",2.9,Finance,Fully Remote
+JOB_2439,Quantitative Trader,Mid-level,Full-time,Fully Remote,High,0.4622,144880.86,"Python, PyTorch, SQL, Tableau, Docker",5.6,Finance,Fully Remote
+JOB_2440,Clinical Data Analyst,Entry-level,Full-time,Fully Remote,High,0.4822,39430.22,"Docker, Excel, R",3.9,Healthcare,Fully Remote
+JOB_2441,E-commerce Manager,Mid-level,Full-time,,Medium,0.5947,71228.85,"Docker, RAG, LangGraph",8.9,Retail,Not Disclosed
+JOB_2442,Curriculum Designer,Entry-level,Full-time,Hybrid,Low,0.5818,49287.74,"Prompt Engineering, Python, SQL",3.9,Education,Hybrid
+JOB_2443,Inventory Coordinator,Mid-level,Full-time,On-site,Low,0.6543,70633.51,"SQL, Prompt Engineering, Tableau, Excel, PyTorch",6.2,Retail,On-site
+JOB_2445,Supply Chain Planner,Entry-level,Full-time,Hybrid,Medium,0.6189,50447.25,"AWS, Docker, Python, Tableau",2.0,Logistics,Hybrid
+JOB_2446,Operations Analyst,Senior,Full-time,Hybrid,High,0.2744,102740.34,"PyTorch, Docker, Prompt Engineering",3.2,Customer Operations,Hybrid
+JOB_2448,E-commerce Manager,Entry-level,Full-time,Hybrid,Low,0.6267,49566.88,"Excel, SQL, Prompt Engineering, Tableau, AWS",4.5,Retail,Hybrid
+JOB_2452,Bio-informatics Scientist,Lead/Executive,Full-time,On-site,High,0.2608,232372.11,"SQL, Tableau, R, Docker, Excel",1.7,Healthcare,On-site
+JOB_2453,Support Agent,Senior,Full-time,Hybrid,High,0.8574,149256.59,"LangGraph, R, Excel, Docker, PyTorch",7.5,Customer Operations,Hybrid
+JOB_2454,Customer Success Manager,Mid-level,Full-time,Fully Remote,High,0.2437,75196.92,"Prompt Engineering, R, Python",1.3,Customer Operations,Fully Remote
+JOB_2455,Fleet Coordinator,Mid-level,Full-time,Fully Remote,Medium,0.7648,78141.01,"Tableau, LangGraph",6.1,Logistics,Fully Remote
+JOB_2456,Quantitative Trader,Entry-level,Full-time,Fully Remote,Medium,0.2964,60394.83,"Tableau, SQL, Docker, Excel, Python",9.3,Finance,Fully Remote
+JOB_2457,Support Agent,Senior,Full-time,Fully Remote,High,0.9297,128324.36,"Prompt Engineering, PyTorch, AWS, Excel, RAG",7.6,Customer Operations,Fully Remote
+JOB_2458,Fleet Coordinator,Mid-level,Full-time,Hybrid,Low,0.6715,96495.86,"LangGraph, RAG, Tableau, PyTorch, Excel",2.0,Logistics,Hybrid
+JOB_2459,Bio-informatics Scientist,Mid-level,Full-time,Hybrid,Medium,0.4412,149033.06,"R, LangGraph",1.5,Healthcare,Hybrid
+JOB_2460,Pricing Analyst,Senior,Full-time,Fully Remote,Medium,0.7355,121289.49,"AWS, LangGraph, RAG, Prompt Engineering",9.0,Retail,Fully Remote
+JOB_2461,Inventory Coordinator,Entry-level,Full-time,Hybrid,Low,0.7382,38032.41,Not Disclosed,6.3,Retail,Hybrid
+JOB_2462,Customer Success Manager,Senior,Full-time,Hybrid,High,0.3166,93064.57,"LangGraph, RAG, Excel",3.6,Customer Operations,Hybrid
+JOB_2463,Bio-informatics Scientist,Senior,Full-time,Hybrid,Medium,0.2808,162555.38,"PyTorch, SQL, RAG, Prompt Engineering",2.6,Healthcare,Hybrid
+JOB_2464,Clinical Data Analyst,Lead/Executive,Full-time,Fully Remote,Medium,0.4562,142787.89,"R, AWS, Python, Prompt Engineering",1.7,Healthcare,Fully Remote
+JOB_2465,DevOps Engineer,Entry-level,Full-time,Fully Remote,High,0.2681,56747.36,"AWS, Excel, RAG, R, Tableau",1.2,Technology,Fully Remote
+JOB_2466,LLMOps Architect,Entry-level,Full-time,Hybrid,High,0.1363,70129.48,"Tableau, AWS, PyTorch, R, LangGraph",3.9,Technology,Hybrid
+JOB_2468,Instructional Designer,Mid-level,Full-time,Hybrid,Low,0.6454,58542.07,"PyTorch, Python, Prompt Engineering, Docker, LangGraph",4.3,Education,Hybrid
+JOB_2469,Curriculum Designer,Senior,Full-time,Fully Remote,Low,0.6955,102147.34,"Prompt Engineering, Python, R, Excel, LangGraph",7.0,Education,Fully Remote
+JOB_2470,Warehouse Automation Specialist,Mid-level,Full-time,Fully Remote,Low,0.5889,99758.27,"R, PyTorch, AWS, SQL, Excel",3.3,Logistics,Fully Remote
+JOB_2471,Curriculum Designer,Senior,Full-time,Hybrid,Low,0.6759,115719.65,"Prompt Engineering, AWS, Excel",5.2,Education,Hybrid
+JOB_2472,Quantitative Trader,Entry-level,Full-time,On-site,High,0.3925,84626.11,"Python, R, LangGraph, Docker, Tableau",1.2,Finance,On-site
+JOB_2473,LLMOps Architect,Mid-level,Full-time,On-site,High,0.2365,132627.14,"SQL, Excel, RAG",9.8,Technology,On-site
+JOB_2474,E-commerce Manager,Mid-level,Full-time,Hybrid,Low,0.7375,61178.92,"RAG, Tableau, PyTorch",6.0,Retail,Hybrid
+JOB_2475,Synthetic Data Specialist,Mid-level,Full-time,Hybrid,High,0.1476,60855.84,"Prompt Engineering, Tableau",3.9,Technology,Hybrid
+JOB_2476,Inventory Coordinator,Lead/Executive,Full-time,Fully Remote,Low,0.534,131318.07,"LangGraph, Tableau",2.8,Retail,Fully Remote
+JOB_2477,Risk Analyst,Entry-level,Full-time,On-site,High,0.3273,68179.45,"AWS, RAG, Excel, Prompt Engineering, SQL",4.4,Finance,On-site
+JOB_2478,Instructional Designer,Lead/Executive,Full-time,Fully Remote,Low,0.5879,158649.49,Not Disclosed,9.6,Education,Fully Remote
+JOB_2480,Curriculum Designer,Mid-level,Full-time,Hybrid,Low,0.7611,60445.72,"Excel, Docker, Tableau",2.9,Education,Hybrid
+JOB_2481,Online Tutor,Lead/Executive,Full-time,Hybrid,Low,0.5504,138793.03,"AWS, PyTorch",8.0,Education,Hybrid
+JOB_2484,Risk Analyst,Entry-level,Full-time,On-site,Medium,0.3073,74465.31,"Tableau, LangGraph",6.9,Finance,On-site
+JOB_2485,Quantitative Trader,Mid-level,Full-time,On-site,Medium,0.2428,102372.52,"Prompt Engineering, Docker, RAG, LangGraph, SQL",4.6,Finance,On-site
+JOB_2486,Customer Success Manager,Senior,Full-time,Fully Remote,High,0.3582,136190.16,"PyTorch, AWS, Python",8.1,Customer Operations,Fully Remote
+JOB_2487,E-commerce Manager,Entry-level,Full-time,,Low,0.7441,45299.09,"PyTorch, Docker, AWS, R",4.5,Retail,Not Disclosed
+JOB_2488,Clinical Data Analyst,Mid-level,Full-time,Hybrid,High,0.2854,130083.15,"R, Prompt Engineering, RAG, Excel, Docker",4.6,Healthcare,Hybrid
+JOB_2489,Operations Analyst,Senior,Full-time,Hybrid,High,0.2356,118472.59,"AWS, Tableau, RAG, Python",6.0,Customer Operations,Hybrid
+JOB_2490,Radiology Assistant,Senior,Full-time,Fully Remote,High,0.226,186097.44,"Docker, SQL, PyTorch, Python, RAG",1.2,Healthcare,Fully Remote
+JOB_2491,Inventory Coordinator,Entry-level,Full-time,Hybrid,Low,0.6588,49566.88,"Tableau, AWS",5.0,Retail,Hybrid
+JOB_2492,E-commerce Manager,Mid-level,Full-time,Fully Remote,Low,0.4792,84188.6,"R, SQL, AWS, Excel",1.0,Retail,Fully Remote
+JOB_2493,Warehouse Automation Specialist,Lead/Executive,Full-time,Fully Remote,Low,0.6555,142658.23,"Tableau, Excel, RAG, R",3.1,Logistics,Fully Remote
+JOB_2497,Prompt Engineer,Lead/Executive,Full-time,Fully Remote,High,0.3067,162579.18,"AWS, SQL, Docker, Tableau",6.6,Customer Operations,Fully Remote
